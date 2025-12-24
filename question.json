@@ -1,0 +1,3206 @@
+[
+  {
+    "q": "Câu 1: Quan điểm nào nhấn mạnh tỉnh giai cấp của nhà nước.",
+    "options": ["Quan điểm thần quyền.", "Quan điểm gia trưởng.", "Quan điểm của chủ nghĩa Mác Lênin", "Quan điểm của thuyết khế ước xã hội."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 2: Thuộc tính nào sau đây không phải là một thuộc tính của nhà nước:",
+    "options": ["Nhà nước thiết lập quyền lực công cộng đặc biệt.", "Nhà nước ban hành pháp luật.", "Nhà nước quy định và thu các loại thuế.", "Nhà nước quản lý dân cư theo huyết thống"],
+    "answer": 3
+  },
+  {
+    "q": "Câu 3: Theo quan điểm chủ nghĩa Mác Lênin, đây không phải là điều kiện xuất hiện nhà nước:",
+    "options": ["Sự phát triển của sở hữu tư nhân.", "Phân hóa xã hội.", "Đồng thuận xã hội", "Mâu thuẫn giai cấp."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 4: Nhà nước có chức năng:",
+    "options": ["Trấn áp tội phạm.", "Bảo vệ quyền lợi chính đáng của công dân.", "Phòng thủ đất nước, chống ngoại xâm.", "Tất cả các chức năng trên."],
+    "answer": 3
+  },
+  {
+    "q": "Câu 5: Theo quan điểm của đảng, cơ quan nào sau đây không thuộc bộ máy nhà nước CHXHCN Việt Nam",
+    "options": ["Quốc hội.", "Mặt trận tổ quốc", "Chính phủ.", "Tòa án."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 6: Theo quy định của hiến pháp, Quốc hội nước CHXHCN Việt Nam là:",
+    "options": ["Cơ quan luật pháp.", "Cơ quan lập pháp", "Cơ quan hành pháp.", "Cơ quan lập quy."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 7: Quốc hội nước Cộng hòa XHCN Việt Nam không có quyền:",
+    "options": ["Lập pháp.", "Giám sát tối cao.", "Xét xử", "Lập hiến."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 8: Theo Hiến pháp 2013, Chính phủ nước CHXHCN Việt Nam là:",
+    "options": ["Cơ quan hành chính nhà nước cao nhất", "Cơ quan hành pháp nhà nước cao nhất.", "Cơ quan chấp hành cao nhất của Nhà nước.", "Cơ quan giám sát cao nhất."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 9: Theo Hiến pháp 2013, Chính phủ nước CHXHCN Việt Nam do:",
+    "options": ["Dân bầu ra.", "Quốc hội thành lập", "Chủ tịch nước thành lập.", "Tòa án thành lập."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 10: Cơ quan nào không có ở Việt Nam hiện nay?",
+    "options": ["Tòa án nhân dân tối cao.", "Tòa án hiến pháp", "Tòa án quân sự trung ương.", "Tòa án quân sự khu vực."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 11: Cơ quan nào không có ở Việt Nam hiện nay?",
+    "options": ["Viện kiểm sát nhân dân cấp tỉnh.", "Viện kiểm sát quân sự.", "Viện công tố", "Viện kiểm sát nhân dân tối cao."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 12: Theo Hiến pháp 2013, Chủ tịch nước CHXHCN Việt Nam do:",
+    "options": ["Dân bầu.", "Quốc hội bầu", "Chính phủ bầu.", "Mặt trận tổ quốc bầu."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 13: Theo Hiến pháp 2013, Bộ trưởng nước CHXHCN Việt Nam do:",
+    "options": ["Thủ tướng giới thiệu, Quốc hội bầu, CTN ra quyết định bổ nhiệm", "Chủ tịch nước giới thiệu, Quốc hội bầu", "Quốc hội giới thiệu", "Dân bầu."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 14: Theo Hiến Pháp 2013, thủ tướng Chính phủ nước CHXHCN Việt Nam do:",
+    "options": ["Chính phủ bầu.", "Dân bầu.", "Quốc hội bầu", "Chủ tịch nước bổ nhiệm."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 15: Cơ quan nào có chức năng xét xử ở nước CHXHCN Việt Nam:",
+    "options": ["Bộ Công an.", "Viện Kiểm sát nhân dân.", "Tòa án nhân dân", "Bộ Tư pháp."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 16: Theo Hiến pháp 2013, nhiệm kỳ của Quốc hội nước CHXHCN Việt Nam là:",
+    "options": ["3 năm", "4 năm", "5 năm", "6 năm"],
+    "answer": 2
+  },
+  {
+    "q": "Câu 17: Ủy ban thường vụ Quốc hội nước CHXHCN Việt Nam là:",
+    "options": ["Cơ quan chuyên môn của Quốc hội.", "Cơ quan lãnh đạo Quốc hội.", "Cơ quan thường trực Quốc hội", "Cơ quan chấp hành Quốc hội."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 18: Hội đồng nhân dân do ai trực tiếp bầu ra.",
+    "options": ["Quốc hội.", "Chính phủ.", "Nhân dân địa phương", "Tòa án nhân dân tối cao."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 19: Theo Hiến pháp 2013, Chính phủ là cơ quan.",
+    "options": ["Lập pháp.", "Hành chính nhà nước cao nhất.", "Tư pháp.", "Kiểm soát."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 20: Theo học thuyết Mác Lênin, kiểu nhà nước đầu tiên trong lịch sử loài người là:",
+    "options": ["Công xã nguyên thủy.", "Nhà nước phong kiến.", "Nhà nước chủ nô", "Nhà nước xã hội chủ nghĩa."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 21: Theo học thuyết Mác Lênin về nhà nước thì:",
+    "options": ["Nhà nước là hiện tượng vĩnh cửu.", "Nhà nước là hiện tượng tự nhiên.", "Nhà nước là hiện tượng xã hội mang tính lịch sử", "Nhà nước xuất hiện cùng loài người."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 22: Theo quan điểm Mácxít, kiểu Nhà nước chủ nô tồn tại sự mâu thuẫn giai cấp giữa:",
+    "options": ["Chủ nô và nô lệ", "Chủ nô và công nhân.", "Địa chủ và nông dân.", "Tư sản và công nhân."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 23: Theo quan điểm Mácxít, kiểu Nhà nước phong kiến tồn tại sự mâu thuẫn giai cấp giữa:",
+    "options": ["Chủ nô và nô lệ.", "Địa chủ và công nhân.", "Địa chủ và nông dân", "Tư sản và công nhân."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 24: Theo quan điểm Mácxít, kiểu Nhà nước tư sản tồn tại sự mâu thuẫn giai cấp giữa:",
+    "options": ["Chủ nô và nô lệ", "Chủ nô và công nhân", "Địa chủ và nông dân", "Tư sản và công nhân"],
+    "answer": 3
+  },
+  {
+    "q": "Câu 25: Theo quan điểm Mácxít, kiểu nhà nước của Việt Nam hiện nay là:",
+    "options": ["Kiểu nhà nước chủ nô", "Kiểu nhà nước phong kiến", "Kiểu nhà nước tư sản", "Kiểu nhà nước xã hội chủ nghĩa"],
+    "answer": 3
+  },
+  {
+    "q": "Câu 26: Cơ quan nào sau đây không phải là Bộ trực thuộc Chính phủ:",
+    "options": ["Bộ Tư Pháp.", "Bộ Chính trị", "Bộ Ngoại giao.", "Bộ Công thương."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 27: Theo Hiến pháp 2013, cơ quan nào không thuộc cơ quan quyền lực:",
+    "options": ["Quốc hội.", "Chính phủ", "Uỷ ban thường vụ Quốc hội.", "Hội đồng nhân dân."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 28: Theo Hiến pháp 2013, cơ quan nào không phải cơ quan hành chính:",
+    "options": ["Chính phủ.", "Viện Kiểm sát nhân dân tối cao", "Bộ Công thương.", "Uỷ ban nhân dân."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 29: Theo Hiến pháp 2013, cơ quan nào không phải cơ quan xét xử:",
+    "options": ["Toà án nhân dân tối cao.", "Uỷ ban nhân dân cấp tỉnh", "Toà án nhân dân cấp tỉnh.", "Toà án nhân dân cấp huyện."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 30: Nhà nước quy định và thu thuế dưới những hình thức bắt buộc nhằm mục đích:",
+    "options": ["Duy trì bộ máy Nhà nước.", "Chi phí cho công việc chung.", "Cả A và B đều sai.", "Cả A và B đều đúng"],
+    "answer": 3
+  },
+  {
+    "q": "Câu 31: Theo học thuyết Mác Lênin, hình thái kinh tế-xã hội nào chưa có Nhà nước?",
+    "options": ["Cộng sản chủ nghĩa", "Cộng sản nguyên thủy.", "Tư bản chủ nghĩa.", "Chiếm hữu nô lệ."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 32: Chức năng đối nội và đối ngoại của nhà nước",
+    "options": ["Có mối liên hệ mật thiết với nhau", "Chỉ có sự tác động một chiều.", "Không có sự tác động qua lại.", "Không có mối quan hệ nào."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 33: Độ tuổi của công dân đi bỏ phiếu bầu cử đại biểu Quốc hội Việt Nam từ:",
+    "options": ["Từ 16 tuổi trở lên.", "Từ 18 tuổi trở lên", "Từ 21 tuổi trở lên.", "Từ 23 tuổi trở lên."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 34: Theo Hiến pháp 2013, trong bộ máy nhà nước CHXHCN Việt Nam thì:",
+    "options": ["Quốc hội ban hành tất cả văn bản.", "Chính phủ là cơ quan quyền lực cao nhất.", "Chính phủ là cơ quan chấp hành và điều hành", "Toà án là cơ quan hành chính."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 35: Theo Hiến pháp 2013, cơ quan thường trực của Quốc hội Việt Nam là:",
+    "options": ["Ủy ban Pháp luật.", "Ủy ban thường vụ Quốc hội", "Ủy ban Tài chính.", "Ủy ban Quốc phòng."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 36: Việc thực hiện quyền lực nhà nước là thống nhất, có sự phối hợp giữa:",
+    "options": ["Lập pháp, hành chính và tư pháp.", "Lập quy, hành chính và tư pháp.", "Hành pháp, lập quy và tư pháp.", "Lập pháp, hành pháp và tư pháp"],
+    "answer": 3
+  },
+  {
+    "q": "Câu 37: Theo Hiến pháp 2013, quốc hội nước CHXHCN Việt Nam là:",
+    "options": ["Cơ quan quyền lực nhà nước cao nhất", "Cơ quan đại biểu cao nhất", "Cơ quan lập hiến, lập pháp", "Cả A, B và C"],
+    "answer": 3
+  },
+  {
+    "q": "Câu 38: Theo Hiến pháp 2013, hội đồng nhân dân trong bộ máy nhà nước Việt Nam do:",
+    "options": ["Chính phủ bầu ra", "Nhân dân địa phương bầu ra", "Quốc Hội bầu ra", "Toà án nhân dân tối cao bầu ra"],
+    "answer": 1
+  },
+  {
+    "q": "Câu 39: Theo quan điểm chủ nghĩa Mác Lênin, nhà nước nào dưới đây là nhà nước liên bang?",
+    "options": ["Việt Nam", "Trung Quốc", "Pháp", "Mỹ"],
+    "answer": 3
+  },
+  {
+    "q": "Câu 40: Theo quan điểm chủ nghĩa Mác Lênin, nhà nước nào dưới đây là nhà nước đơn nhất?",
+    "options": ["Đức", "Nga", "Singapore", "Mỹ"],
+    "answer": 2
+  },
+  {
+    "q": "Câu 41: Nhà nước nào sau đây không thuộc kiểu nhà nước Xã hội chủ nghĩa?",
+    "options": ["Việt nam", "Trung Quốc", "Hàn Quốc", "Triều Tiên"],
+    "answer": 2
+  },
+  {
+    "q": "Câu 42: Nhà nước nào sau đây có chính thể cộng hòa tổng thống?",
+    "options": ["Mỹ", "Trung Quốc", "Việt Nam", "Triều Tiên"],
+    "answer": 0
+  },
+  {
+    "q": "Câu 43: Nhà nước nào sau đây không có danh xưng Vua?",
+    "options": ["Nhật Bản", "Anh", "Thái Lan", "Trung Quốc"],
+    "answer": 3
+  },
+  {
+    "q": "Câu 44: Chức năng của Nhà nước là:",
+    "options": ["Dấu hiệu.", "Vai trò.", "Phương diện hoạt động cơ bản", "Thẩm quyền."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 45: Tổng thể dấu hiệu cơ bản thể hiện bản chất giai cấp của nhà nước gọi là:",
+    "options": ["Hình thức nhà nước.", "Kiểu nhà nước", "Vai trò nhà nước.", "Chức năng nhà nước."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 46: Tất cả quyền lực Nhà nước Việt Nam thuộc về:",
+    "options": ["Quốc hội", "Nhân dân", "Chính phủ", "Toà án nhân dân tối cao"],
+    "answer": 1
+  },
+  {
+    "q": "Câu 47: Cách thức tổ chức Nhà nước và biện pháp thực hiện quyền lực gọi là:",
+    "options": ["Hình thức nhà nước", "Vai trò của nhà nước.", "Đặc trưng của nhà nước.", "Kiểu nhà nước."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 48: Theo quan điểm chủ nghĩa Mác Lênin về bản chất của nhà nước thì nhà nước:",
+    "options": ["Chỉ có tính xã hội", "Chỉ có tính giai cấp", "Có tính giai cấp và tính xã hội", "Không có tính xã hội"],
+    "answer": 2
+  },
+  {
+    "q": "Câu 49: Nhận định nào sau đây không phải đặc trưng của nhà nước:",
+    "options": ["Quản lý dân cư theo đơn vị hành chính.", "Quản lý dân cư theo giới tính và huyết thống.", "Có chủ quyền quốc gia.", "Ban hành pháp luật."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 50: Điều kiện dẫn tới sự ra đời của Nhà nước là:",
+    "options": ["Khi loài người xuất hiện.", "Chế độ tư hữu và phân hoá giai cấp.", "Chỉ có khi pháp luật xuất hiện.", "Khi có chiến tranh."],
+    "answer": 1
+  },
+  
+  {
+    "q": "Câu 51: Theo Hiến pháp 2013, cơ quan quyền lực cao nhất của bộ máy nhà nước CHXHCN Việt Nam là:",
+    "options": ["Chính phủ.", "Chủ tịch nước.", "Ủy ban nhân dân.", "Quốc hội"],
+    "answer": 3
+  },
+  {
+    "q": "Câu 52: Theo Hiến pháp 2013, cơ quan hành chính Nhà nước CHXHCN Việt Nam là:",
+    "options": ["Hội đồng nhân dân.", "Viện Kiểm sát nhân dân.", "Toà án nhân dân.", "Bộ Tư pháp"],
+    "answer": 3
+  },
+  {
+    "q": "Câu 53: Theo Hiến pháp 2013, cơ quan nào sau đây là cơ quan nhà nước:",
+    "options": ["Unesco", "Mặt trận tổ quốc Việt Nam", "Đoàn thanh niên cộng sản Hồ Chí Minh", "Tòa án nhân dân cấp huyện"],
+    "answer": 3
+  },
+  {
+    "q": "Câu 54: Theo Hiến pháp 2013, cơ quan nào sau đây là cơ quan nhà nước:",
+    "options": ["Mặt trận tổ quốc Việt Nam", "Tổng liên đoàn lao động Việt Nam", "Đoàn thanh niên cộng sản Hồ Chí Minh", "A, B, C đều sai"],
+    "answer": 3
+  },
+  {
+    "q": "Câu 55: Chủ quyền quốc gia là:",
+    "options": ["Quyền độc lập tự quyết của quốc gia trong lĩnh vực đối nội.", "Quyền độc lập tự quyết của quốc gia trong lĩnh vực đối ngoại.", "Quyền ban hành văn bản pháp luật.", "Cả A, B, C đều đúng"],
+    "answer": 3
+  },
+  {
+    "q": "Câu 56: . . . là một hệ thống các cơ quan nhà nước từ trung ương xuống địa phương được tổ chức và thực hiện theo những nguyên tắc chung:",
+    "options": ["Bộ máy nhà nước", "Nhà nước.", "Cơ quan nhà nước.", "Quốc hội."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 57: Theo học thuyết Mác Lênin, quyền lực trong xã hội cộng sản nguyên thủy là:",
+    "options": ["Quyền lực công cộng đặc biệt", "Quyền lực xã hội.", "Quyền lực chính trị.", "Quyền lực thống trị."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 58: “Nhà nước là hiện tượng vĩnh cửu bất biến” là quan điểm của:",
+    "options": ["Học thuyết khế ước xã hội.", "Chủ nghĩa Mác Lênin.", "Thuyết thần quyền", "Cả A, B, C"],
+    "answer": 2
+  },
+  {
+    "q": "Câu 59: Chính thể quân chủ là hình thức mà quyền lực tối cao của nhà nước tập trung:",
+    "options": ["Trong tay một người đứng đầu theo thừa kế", "Một cơ quan bầu cử.", "Một người do dân bầu.", "Một lực lượng siêu nhiên."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 60: Chính thể quân chủ gồm có:",
+    "options": ["Quân chủ tuyệt đối và quân chủ hạn chế", "Quân chủ tuyệt đối và quân chủ quý tộc.", "Quân chủ dân chủ và quân chủ hạn chế.", "Cộng hoà quý tộc và cộng hoà dân chủ."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 61: Chính thể cộng hoà gồm có:",
+    "options": ["Quân chủ tuyệt đối và quân chủ hạn chế.", "Cộng hoà quý tộc và cộng hoà dân chủ.", "Cộng hoà tuyệt đối và quân chủ quý tộc.", "Cộng hoà dân chủ và quân chủ hạn chế."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 62: Cách tổ chức nhà nước theo đơn vị hành chính – lãnh thổ gọi là:",
+    "options": ["Hình thức cấu trúc nhà nước", "Hình thức chính thể nhà nước.", "Hình thức cấu thành nhà nước.", "Chế độ chính trị."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 63: Nhà nước đơn nhất là nhà nước có:",
+    "options": ["Một hệ thống cơ quan quyền lực và quản lý chung", "Hai hệ thống chính quyền trở lên.", "Chủ quyền bị phân chia.", "Nhiều hiến pháp riêng cho từng bang."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 64: Nhà nước liên bang là nhà nước:",
+    "options": ["Có hai hay nhiều nhà nước thành viên", "Có một bản hiến pháp duy nhất cho toàn quốc.", "Không có chủ quyền riêng biệt.", "Chỉ có một cấp chính quyền."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 65: Chế độ chính trị là:",
+    "options": ["Phương pháp thực hiện quyền lực nhà nước", "Cách thức bầu cử quốc hội.", "Cách thức tổ chức chính phủ.", "Phạm vi lãnh thổ quốc gia."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 66: Cơ quan nào sau đây là cơ quan quyền lực nhà nước ở địa phương?",
+    "options": ["Ủy ban nhân dân.", "Tòa án nhân dân.", "Hội đồng nhân dân", "Viện kiểm sát nhân dân."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 67: Cơ quan nào có quyền sửa đổi Hiến pháp Việt Nam?",
+    "options": ["Chủ tịch nước.", "Quốc hội", "Chính phủ.", "Ủy ban Thường vụ Quốc hội."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 68: Ai là người đứng đầu Chính phủ nước CHXHCN Việt Nam?",
+    "options": ["Chủ tịch nước.", "Tổng bí thư.", "Thủ tướng Chính phủ", "Chủ tịch Quốc hội."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 69: Hình thức chính thể của Nhà nước Việt Nam hiện nay là:",
+    "options": ["Quân chủ.", "Cộng hòa dân chủ nhân dân.", "Cộng hòa xã hội chủ nghĩa", "Cộng hòa tổng thống."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 70: Cấu trúc nhà nước của Việt Nam là:",
+    "options": ["Nhà nước liên minh.", "Nhà nước đơn nhất", "Nhà nước liên bang.", "Nhà nước hỗn hợp."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 71: Bản chất của nhà nước Việt Nam là tính nhân dân và tính:",
+    "options": ["Giai cấp", "Phổ biến.", "Toàn cầu.", "Dân tộc."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 72: Quốc hội họp mỗi năm mấy kỳ thường lệ?",
+    "options": ["1 kỳ.", "2 kỳ", "3 kỳ.", "4 kỳ."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 73: Cơ quan nào quản lý mọi mặt đời sống xã hội trên phạm vi cả nước?",
+    "options": ["Quốc hội.", "Chính phủ", "Chủ tịch nước.", "Tòa án nhân dân."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 74: Hội đồng nhân dân do cử tri bầu ra theo nguyên tắc:",
+    "options": ["Phổ thông, bình đẳng, trực tiếp và bỏ phiếu kín", "Chỉ định.", "Hiệp thương.", "Tự nguyện."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 75: Cơ quan chấp hành của Hội đồng nhân dân là:",
+    "options": ["Ủy ban Mặt trận tổ quốc.", "Ủy ban nhân dân", "Đoàn đại biểu quốc hội.", "Công an địa phương."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 76: Chủ tịch nước Việt Nam có quyền:",
+    "options": ["Công bố Hiến pháp và luật", "Trực tiếp xét xử.", "Ban hành Nghị quyết.", "Bầu đại biểu Quốc hội."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 77: Cơ quan nào sau đây có quyền giám sát tối cao đối với toàn bộ hoạt động của Nhà nước?",
+    "options": ["Chính phủ.", "Viện kiểm sát nhân dân.", "Quốc hội", "Hội đồng bầu cử."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 78: Việc phân chia các đơn vị hành chính lãnh thổ ở Việt Nam gồm mấy cấp?",
+    "options": ["2 cấp.", "3 cấp", "4 cấp.", "5 cấp."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 79: Tòa án nhân dân thực hiện quyền:",
+    "options": ["Hành pháp.", "Lập pháp.", "Tư pháp", "Lập quy."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 80: Viện kiểm sát nhân dân có chức năng:",
+    "options": ["Xét xử tội phạm.", "Thực hành quyền công tố và kiểm sát hoạt động tư pháp", "Quản lý hành chính.", "Ban hành luật."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 81: Nhà nước Việt Nam ra đời từ kết quả của cuộc cách mạng nào?",
+    "options": ["Cách mạng tháng Hai.", "Cách mạng tháng Tám năm 1945", "Cách mạng công nghiệp.", "Cách mạng tư sản."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 82: Cơ quan nào lãnh đạo toàn bộ hệ thống chính trị Việt Nam?",
+    "options": ["Đảng Cộng sản Việt Nam", "Chính phủ.", "Quốc hội.", "Tòa án."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 83: Chức năng nào là chức năng đối nội của nhà nước Việt Nam?",
+    "options": ["Mở rộng quan hệ quốc tế.", "Bảo đảm an ninh quốc gia, trật tự xã hội", "Chống ngoại xâm.", "Tham gia các tổ chức liên hiệp quốc."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 84: Chức năng nào là chức năng đối ngoại của nhà nước Việt Nam?",
+    "options": ["Tổ chức và quản lý kinh tế.", "Phát triển giáo dục.", "Hợp tác quốc tế và bảo vệ chủ quyền lãnh thổ", "Duy trì trật tự pháp luật."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 85: Hình thức nhà nước bao gồm mấy yếu tố cấu thành?",
+    "options": ["2 yếu tố.", "3 yếu tố", "4 yếu tố.", "5 yếu tố."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 86: Hệ thống chính trị Việt Nam hiện nay bao gồm:",
+    "options": ["Đảng, Nhà nước, Mặt trận Tổ quốc và các đoàn thể", "Đảng và Nhà nước.", "Chính phủ và Quốc hội.", "Các tổ chức tôn giáo."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 87: Nhà nước nào sau đây có hình thức chính thể quân chủ hạn chế (quân chủ lập hiến)?",
+    "options": ["Việt Nam.", "Lào.", "Thái Lan", "Mỹ."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 88: Quyền lực nhà nước Việt Nam là:",
+    "options": ["Chia sẻ cho các đảng phái.", "Thống nhất, không phân chia", "Tập trung tuyệt đối vào cá nhân.", "Bị chia nhỏ cho địa phương."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 89: Một trong những đặc trưng của Nhà nước pháp quyền là:",
+    "options": ["Thượng tôn pháp luật", "Ưu tiên ý chí cá nhân.", "Không cần hiến pháp.", "Chỉ quản lý bằng đạo đức."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 90: Cơ quan nào sau đây không thuộc hệ thống cơ quan tư pháp?",
+    "options": ["Tòa án nhân dân.", "Viện kiểm sát nhân dân.", "Cơ quan điều tra.", "Ủy ban nhân dân"],
+    "answer": 3
+  },
+  {
+    "q": "Câu 91: Theo Hiến pháp 2013, ai là người thống lĩnh lực lượng vũ trang nhân dân?",
+    "options": ["Thủ tướng Chính phủ.", "Bộ trưởng Bộ Quốc phòng.", "Chủ tịch nước", "Tổng bí thư."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 92: Quốc hội bầu ra các chức danh nào sau đây?",
+    "options": ["Chủ tịch nước, Thủ tướng Chính phủ", "Chủ tịch Ủy ban nhân dân.", "Giám đốc Sở.", "Trưởng công an huyện."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 93: Văn bản pháp luật cao nhất của nước ta là:",
+    "options": ["Luật Dân sự.", "Luật Hình sự.", "Hiến pháp", "Nghị định."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 94: Chế độ đa đảng không tồn tại ở nước nào sau đây?",
+    "options": ["Pháp.", "Anh.", "Việt Nam", "Nhật Bản."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 95: Thành viên của Chính phủ gồm:",
+    "options": ["Thủ tướng, các Phó Thủ tướng, các Bộ trưởng và Thủ trưởng cơ quan ngang bộ", "Chỉ có Thủ tướng.", "Các đại biểu Quốc hội.", "Các thẩm phán."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 96: Hội đồng nhân dân có quyền ban hành văn bản nào?",
+    "options": ["Luật.", "Nghị quyết", "Pháp lệnh.", "Sắc lệnh."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 97: Sự ra đời của Nhà nước là một tất yếu:",
+    "options": ["Chủ quan.", "Khách quan", "Ngẫu nhiên.", "Tạm thời."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 98: Nhà nước là công cụ của giai cấp thống trị nhằm:",
+    "options": ["Duy trì sự thống trị giai cấp", "Xóa bỏ mọi giai cấp.", "Phục vụ sở thích cá nhân.", "Phát triển công nghiệp."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 99: Cơ quan nào có thẩm quyền giải quyết các vụ án dân sự?",
+    "options": ["Viện kiểm sát.", "Công an.", "Tòa án nhân dân", "Ủy ban nhân dân."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 100: Bản chất xã hội của nhà nước thể hiện ở việc:",
+    "options": ["Chỉ phục vụ người giàu.", "Quản lý các công việc chung của xã hội", "Chỉ chăm sóc trẻ em.", "Tổ chức các lễ hội."],
+    "answer": 1
+  },
+  
+  {
+    "q": "Câu 101: Theo quan điểm chủ nghĩa Mác Lênin, pháp luật mang tính giai cấp, vì:",
+    "options": ["Pháp luật không mang tính dân chủ.", "Pháp luật không mang tính xã hội.", "Pháp luật là công cụ quản lý xã hội.", "Pháp luật là công cụ cai trị giai cấp."],
+    "answer": 3
+  },
+  {
+    "q": "Câu 102: Theo quan điểm chủ nghĩa Mác Lênin, mục đích điều chỉnh của pháp luật nhằm:",
+    "options": ["Điều chỉnh các quan hệ xã hội phát triển theo một trật tự phù hợp với lợi ích của giai cấp thống trị", "Điều chỉnh các quan hệ xã hội phát triển theo một trật tự phù hợp với lợi ích của giai cấp bị trị.", "Điều chỉnh trật tự xã hội.", "Điều chỉnh quy phạm pháp luật."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 103: Theo quan điểm chủ nghĩa Mác Lênin, pháp luật mang tính xã hội vì:",
+    "options": ["Pháp luật không phải là công cụ quản lý xã hội.", "Pháp luật là công cụ quản lý xã hội", "Pháp luật được hình thành do ý chí của pháp nhân.", "Pháp luật là công cụ cai trị giai cấp."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 104: Chọn nhận định đúng theo quan điểm trong giáo trình:",
+    "options": ["Pháp luật vừa mang tính giai cấp vừa mang tính xã hội", "Pháp luật chỉ mang tính giai cấp", "Pháp luật chỉ mang tính xã hội", "Pháp luật phi giai cấp"],
+    "answer": 0
+  },
+  {
+    "q": "Câu 105: Theo quan điểm chủ nghĩa Mác Lênin, chọn nhận định sai:",
+    "options": ["Pháp luật do cá nhân ban hành", "Pháp luật do nhà nước ban hành", "Pháp luật được nhà nước đảm bảo giá trị thi hành", "Pháp luật có tính quy phạm phổ biến"],
+    "answer": 0
+  },
+  {
+    "q": "Câu 106: Theo quan điểm chủ nghĩa Mác Lênin, pháp luật chỉ do ……… ban hành:",
+    "options": ["Xã hội", "Pháp nhân", "Cá nhân", "Nhà nước"],
+    "answer": 3
+  },
+  {
+    "q": "Câu 107: Theo quan điểm chủ nghĩa Mác Lênin, pháp luật được đảm bảo giá trị thi hành bằng biện pháp ……… của nhà nước",
+    "options": ["Cưỡng chế", "Kinh tế", "Xã hội", "Tư tưởng"],
+    "answer": 0
+  },
+  {
+    "q": "Câu 108: “Pháp luật chỉ mang tính giai cấp”. Đây là nhận định:",
+    "options": ["Đúng", "Sai"],
+    "answer": 1
+  },
+  {
+    "q": "Câu 109: Pháp luật và đạo đức đều là:",
+    "options": ["Quy phạm xã hội", "Quy phạm pháp luật", "Quy phạm kỹ thuật", "Quy phạm tôn giáo"],
+    "answer": 0
+  },
+  {
+    "q": "Câu 110: Điểm giống nhau giữa pháp luật và đạo đức là:",
+    "options": ["Đều mang tính bắt buộc chung.", "Đều là quy tắc xử sự chung để điều chỉnh quan hệ xã hội", "Đều do nhà nước ban hành.", "Đều được đảm bảo bằng cưỡng chế nhà nước."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 111: Điểm khác biệt giữa pháp luật và đạo đức là:",
+    "options": ["Tính quy phạm.", "Tính xã hội.", "Tính cưỡng chế nhà nước", "Tính giai cấp."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 112: Hình thức pháp luật là cách thức mà giai cấp thống trị sử dụng để nâng ý chí của giai cấp mình lên thành:",
+    "options": ["Đạo đức.", "Tập quán.", "Pháp luật", "Niềm tin."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 113: Có mấy hình thức pháp luật cơ bản trên thế giới hiện nay:",
+    "options": ["2", "3", "4", "5"],
+    "answer": 1
+  },
+  {
+    "q": "Câu 114: Tập quán pháp là hình thức nhà nước thừa nhận một số ……… đã lưu truyền trong dân gian để làm pháp luật.",
+    "options": ["Quy định.", "Tập quán", "Thói quen.", "Luật lệ."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 115: Tiền lệ pháp là hình thức nhà nước thừa nhận các ……… của cơ quan hành chính hoặc xét xử làm mẫu để giải quyết các vụ việc tương tự.",
+    "options": ["Văn bản.", "Quyết định", "Bản án.", "Chỉ thị."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 116: Văn bản quy phạm pháp luật là hình thức pháp luật do ……… ban hành.",
+    "options": ["Cá nhân.", "Tổ chức.", "Cơ quan nhà nước có thẩm quyền", "Pháp nhân."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 117: Hình thức pháp luật chủ yếu ở Việt Nam hiện nay là:",
+    "options": ["Tập quán pháp.", "Tiền lệ pháp.", "Văn bản quy phạm pháp luật", "Điều ước quốc tế."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 118: Đâu không phải là thuộc tính của pháp luật:",
+    "options": ["Tính quy phạm phổ biến.", "Tính xác định chặt chẽ về mặt hình thức.", "Tính đảm bảo bởi nhà nước.", "Tính thay đổi theo ý muốn cá nhân"],
+    "answer": 3
+  },
+  {
+    "q": "Câu 119: Tính quy phạm phổ biến của pháp luật có nghĩa là pháp luật là những ……….",
+    "options": ["Quy tắc cụ thể.", "Khuôn mẫu, chuẩn mực xử sự chung", "Lời khuyên.", "Mệnh lệnh cá biệt."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 120: Đâu là thuộc tính đặc trưng của pháp luật:",
+    "options": ["Tính giai cấp.", "Tính xã hội.", "Tính quy phạm phổ biến", "Tính nghệ thuật."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 121: Đâu là thuộc tính đặc trưng của pháp luật:",
+    "options": ["Tính xác định chặt chẽ về mặt hình thức", "Tính không bắt buộc.", "Tính trừu tượng.", "Tính địa phương."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 122: Đâu là thuộc tính đặc trưng của pháp luật:",
+    "options": ["Tính tự nguyện.", "Tính được nhà nước đảm bảo giá trị thi hành", "Tính tôn giáo.", "Tính giáo dục."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 123: Đây không phải là thuộc tính đặc trưng của pháp luật:",
+    "options": ["Tính quy phạm phổ biến.", "Tính được nhà nước đảm bảo giá trị thi hành.", "Tính bắt buộc chung.", "Tính đa nghĩa, mơ hồ"],
+    "answer": 3
+  },
+  {
+    "q": "Câu 124: Tính quy phạm phổ biến của pháp luật được hiểu là:",
+    "options": ["Khuôn mẫu.", "Chuẩn mực.", "Ngôn ngữ phải chính xác, hiểu một nghĩa", "Khuôn mẫu, chuẩn mực cho hành vi"],
+    "answer": 3
+  },
+  {
+    "q": "Câu 125: Tính xác định chặt chẽ về mặt hình thức của pháp luật được hiểu là:",
+    "options": ["Là tiêu chuẩn để đánh giá hành vi.", "Ngôn ngữ.", "Nội dung pháp luật phải được thể hiện trong những hình thức xác định, ngôn ngữ pháp lý rõ ràng, chính xác, một nghĩa", "Được thể hiện trong những hình thức."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 126: Tính quy phạm phổ biến của pháp luật xuất phát từ nguyên nhân:",
+    "options": ["Pháp luật mang tính phi giai cấp.", "Pháp luật không bắt buộc ban hành theo trình tự.", "Pháp luật thể hiện ý chí, quyền lực của nhà nước (nhân dân)", "Pháp luật không bắt buộc sử dụng ngôn ngữ pháp lý."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 127: Tính được nhà nước đảm bảo giá trị thi hành của pháp luật được hiểu là:",
+    "options": ["Việc xây dựng và tổ chức thực hiện pháp luật là quyền hạn và trách nhiệm của nhà nước", "Chuẩn mực cho hành vi.", "Để hạn chế sự lạm dụng quyền lực nhà nước.", "Tính minh bạch của pháp luật."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 128: Khả năng tổ chức thực hiện pháp luật của nhà nước, bằng biện pháp:",
+    "options": ["Đảm bảo về xã hội.", "Đảm bảo về văn hóa.", "Đảm bảo bằng biện pháp nhà nước (giáo dục, cưỡng chế...)", "Đảm bảo bằng niềm tin."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 129: Pháp luật có vai trò:",
+    "options": ["Là phương tiện quản lý xã hội hữu hiệu nhất.", "Là phương tiện bảo vệ quyền và lợi ích hợp pháp của công dân.", "Là cơ sở để giữ vững an ninh, trật tự.", "Tất cả các phương án trên"],
+    "answer": 3
+  },
+  {
+    "q": "Câu 130: Bản chất của pháp luật xã hội chủ nghĩa thể hiện:",
+    "options": ["Ý chí của giai cấp công nhân và nhân dân lao động", "Ý chí của mọi tầng lớp.", "Ý chí của cá nhân đứng đầu.", "Ý chí của các đảng phái."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 131: Chức năng của pháp luật bao gồm:",
+    "options": ["Chức năng điều chỉnh quan hệ xã hội.", "Chức năng bảo vệ quan hệ xã hội.", "Chức năng giáo dục.", "Tất cả các chức năng trên"],
+    "answer": 3
+  },
+  {
+    "q": "Câu 132: Việc thực hiện pháp luật là hành vi ……… của các chủ thể pháp luật.",
+    "options": ["Ngẫu nhiên.", "Có mục đích", "Bắt buộc.", "Tự phát."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 133: Có mấy hình thức thực hiện pháp luật:",
+    "options": ["2", "3", "4", "5"],
+    "answer": 2
+  },
+  {
+    "q": "Câu 134: Tuân thủ pháp luật là hình thức thực hiện pháp luật mà các chủ thể ……… các hành vi pháp luật cấm.",
+    "options": ["Thực hiện.", "Kiềm chế, không thực hiện", "Thay đổi.", "Lựa chọn."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 135: Thi hành pháp luật là hình thức thực hiện pháp luật mà chủ thể thực hiện ……… các nghĩa vụ pháp lý.",
+    "options": ["Tích cực", "Hạn chế.", "Thay thế.", "Bỏ qua."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 136: Sử dụng pháp luật là hình thức thực hiện pháp luật mà các chủ thể thực hiện ……… của mình.",
+    "options": ["Nghĩa vụ.", "Trách nhiệm.", "Quyền chủ thể", "Mệnh lệnh."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 137: Áp dụng pháp luật là hình thức thực hiện pháp luật luôn có sự tham gia của ……….",
+    "options": ["Cá nhân.", "Nhà nước (cơ quan nhà nước có thẩm quyền)", "Tổ chức xã hội.", "Người nước ngoài."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 138: Một trong những ưu điểm của tập quán pháp là:",
+    "options": ["Phù hợp với đặc điểm địa phương, dân cư", "Tính thống nhất cao trên toàn quốc.", "Dễ thay đổi.", "Ngôn ngữ hiện đại."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 139: Một trong những nhược điểm của tập quán pháp là:",
+    "options": ["Có tính cục bộ, địa phương", "Quá linh hoạt.", "Rõ ràng về văn bản.", "Do nhà nước ban hành."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 140: Tập quán pháp có tính ……… cao.",
+    "options": ["Hiện đại.", "Văn bản.", "Bảo thủ", "Cách tân."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 141: Một trong những đặc điểm của tiền lệ pháp là:",
+    "options": ["Có tính thực tiễn cao", "Do quốc hội ban hành.", "Luôn có tính ổn định vĩnh viễn.", "Chỉ áp dụng ở Việt Nam."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 142: Nội dung nào sau đây là ưu điểm của văn bản quy phạm pháp luật:",
+    "options": ["Có tính ổn định và liên tục", "Đa dạng theo từng khu vực.", "Có giá trị thực hiện tự nguyện.", "Dễ thay đổi."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 143: Nội dung nào sau đây là ưu điểm của tiền lệ pháp:",
+    "options": ["Có tính lâu bền.", "Đáp ứng nhu cầu áp dụng pháp luật thực tế", "Có tính thống nhất cao.", "Thể hiện ý chí của đa số nhân dân."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 144: Nội dung nào sau đây là ưu điểm của tiền lệ pháp:",
+    "options": ["Có tính định hướng.", "Có tính thực tiễn cao", "Linh hoạt trong áp dụng pháp luật.", "Khó thay đổi."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 145: Nội dung nào sau đây là nhược điểm của tiền lệ pháp:",
+    "options": ["Không thích hợp cho tất cả các vùng miền.", "Không có thể hiện ý chí của đa số nhân dân.", "Không có tính ổn định.", "Tùy tiện trong áp dụng pháp luật"],
+    "answer": 3
+  },
+  {
+    "q": "Câu 146: Nội dung nào sau đây là nhược điểm của tiền lệ pháp:",
+    "options": ["Tính khái quát không cao", "Không có tính linh hoạt.", "Không có tính ổn định.", "Không có tính liên tục."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 147: Nội dung nào sau đây không phải là nhược điểm của tiền lệ pháp:",
+    "options": ["Tùy tiện trong áp dụng pháp luật.", "Tính khái quát không cao.", "Không linh hoạt trong áp dụng pháp luật.", "Tính trừu tượng"],
+    "answer": 3
+  },
+  {
+    "q": "Câu 148: Theo quan điểm chủ nghĩa Mác Lênin, “…………là văn bản do cơ quan nhà nước có thẩm quyền ban hành theo thủ tục trình tự luật định, trong đó có quy tắc xử sự chung, được nhà nước bảo đảm thực hiện nhằm điều chỉnh các quan hệ xã hội để thực hiện các nhiệm vụ, chức năng của nhà nước”. Đây là khái niệm:",
+    "options": ["Quy phạm pháp luật", "Quy phạm xã hội", "Văn bản quy phạm pháp luật", "Tiền lệ pháp"],
+    "answer": 2
+  },
+  {
+    "q": "Câu 149: Nội dung nào sau đây là ưu điểm của văn bản quy phạm pháp luật:",
+    "options": ["Linh hoạt trong áp dụng pháp luật.", "Có giá trị thực hiện một cách tự nguyện.", "Đa dạng theo từng nhóm dân cư.", "Thể hiện ý chí của đa số nhân dân"],
+    "answer": 3
+  },
+  {
+    "q": "Câu 150: Nội dung nào sau đây là ưu điểm của văn bản quy phạm pháp luật:",
+    "options": ["Có tính thống nhất cao", "Có tính linh hoạt trong áp dụng pháp luật.", "Có tính lâu bền.", "Tính trừu tượng."],
+    "answer": 0
+  },
+  
+  {
+    "q": "Câu 151: Văn bản quy phạm pháp luật có tính ……… cao.",
+    "options": ["Linh hoạt.", "Ổn định.", "Chặt chẽ về mặt hình thức", "Tự phát."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 152: Hình thức pháp luật nào sau đây được thừa nhận là nguồn luật chính thức ở Việt Nam:",
+    "options": ["Tiền lệ pháp.", "Tập quán pháp.", "Quy phạm pháp luật.", "Văn bản quy phạm pháp luật"],
+    "answer": 3
+  },
+  {
+    "q": "Câu 153: Ở Việt Nam, hệ thống pháp luật Việt Nam thuộc hệ thống:",
+    "options": ["Pháp luật Anh Mỹ", "Pháp luật Châu Âu", "Pháp luật Xã hội chủ nghĩa", "Pháp luật Hồi Giáo"],
+    "answer": 2
+  },
+  {
+    "q": "Câu 154: Thực tế ở Việt Nam, nguồn luật tập quán pháp:",
+    "options": ["Không được thừa nhận.", "Không được sử dụng.", "Có thể được thừa nhận", "Được thừa nhận và sử dụng."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 155: Theo quan điểm chủ nghĩa Mác Lênin, “………là quy tắc xử sự mang tính bắt buộc chung, do nhà nước ban hành hoặc thừa nhận và được nhà nước đảm bảo thực hiện, nhằm điều chỉnh các quan hệ xã hội theo định hướng nhà nước đặt ra ”.",
+    "options": ["Văn bản quy phạm pháp luật.", "Hệ thống pháp luật.", "Quy phạm pháp luật", "Pháp luật."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 156: Quy phạm pháp luật có mấy bộ phận cấu thành:",
+    "options": ["2", "3", "4", "5"],
+    "answer": 1
+  },
+  {
+    "q": "Câu 157: Bộ phận nào của quy phạm pháp luật nêu lên những điều kiện, hoàn cảnh thực tế mà chủ thể gặp phải?",
+    "options": ["Giả định", "Quy định.", "Chế tài.", "Xử lý."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 158: Bộ phận nào của quy phạm pháp luật nêu lên cách xử sự mà nhà nước yêu cầu chủ thể phải thực hiện?",
+    "options": ["Giả định.", "Quy định", "Chế tài.", "Hậu quả."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 159: Bộ phận nào của quy phạm pháp luật nêu lên những hậu quả bất lợi mà chủ thể phải gánh chịu khi vi phạm?",
+    "options": ["Giả định.", "Quy định.", "Chế tài", "Xử lý."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 160: Theo Hiến pháp 2013, văn bản nào có hiệu lực pháp lý cao nhất trong hệ thống pháp luật Việt Nam?",
+    "options": ["Luật.", "Pháp lệnh.", "Hiến pháp", "Nghị quyết."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 161: Cơ quan nào có thẩm quyền ban hành Luật?",
+    "options": ["Chính phủ.", "Quốc hội", "Chủ tịch nước.", "Tòa án nhân dân tối cao."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 162: Chính phủ ban hành loại văn bản quy phạm pháp luật nào?",
+    "options": ["Nghị quyết.", "Nghị định", "Thông tư.", "Quyết định."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 163: Thủ tướng Chính phủ ban hành loại văn bản quy phạm pháp luật nào?",
+    "options": ["Nghị định.", "Thông tư.", "Quyết định", "Nghị quyết."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 164: Bộ trưởng ban hành loại văn bản quy phạm pháp luật nào?",
+    "options": ["Nghị định.", "Thông tư", "Quyết định.", "Lệnh."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 165: Hội đồng Thẩm phán Tòa án nhân dân tối cao ban hành văn bản nào?",
+    "options": ["Nghị quyết", "Quyết định.", "Thông tư.", "Nghị định."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 166: Chủ tịch nước ban hành văn bản quy phạm pháp luật dưới hình thức nào?",
+    "options": ["Nghị định, Quyết định.", "Lệnh, Quyết định", "Thông tư, Nghị quyết.", "Pháp lệnh, Lệnh."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 167: Cơ quan nào ban hành Pháp lệnh?",
+    "options": ["Quốc hội.", "Chính phủ.", "Ủy ban Thường vụ Quốc hội", "Hội đồng nhân dân."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 168: Văn bản quy phạm pháp luật do Hội đồng nhân dân ban hành là:",
+    "options": ["Quyết định.", "Nghị quyết", "Chỉ thị.", "Thông báo."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 169: Văn bản quy phạm pháp luật do Ủy ban nhân dân ban hành là:",
+    "options": ["Nghị quyết.", "Quyết định", "Thông tư.", "Lệnh."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 170: Hiệu lực của văn bản quy phạm pháp luật bao gồm:",
+    "options": ["Hiệu lực theo thời gian.", "Hiệu lực theo không gian.", "Hiệu lực theo đối tượng áp dụng.", "Tất cả các phương án trên"],
+    "answer": 3
+  },
+  {
+    "q": "Câu 171: Thông thường, một văn bản quy phạm pháp luật hết hiệu lực khi:",
+    "options": ["Được thay thế bởi văn bản mới.", "Bị hủy bỏ hoặc bãi bỏ.", "Thời hạn ghi trong văn bản đã hết.", "Tất cả các phương án trên"],
+    "answer": 3
+  },
+  {
+    "q": "Câu 172: Khẳng định nào sau đây là đúng về bộ phận Giả định?",
+    "options": ["Luôn trả lời cho câu hỏi: Ai? Trong điều kiện nào?", "Nêu lên biện pháp cưỡng chế.", "Chỉ có trong luật hình sự.", "Không bắt buộc phải có."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 173: Khẳng định nào sau đây là đúng về bộ phận Quy định?",
+    "options": ["Nêu lên hậu quả pháp lý.", "Trả lời câu hỏi: Chủ thể được làm gì, không được làm gì, phải làm gì?", "Xác định thời gian áp dụng luật.", "Nêu lên lý do ban hành luật."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 174: Chế tài pháp luật có các loại:",
+    "options": ["Hình sự, hành chính, dân sự, kỷ luật", "Chỉ có hình sự và hành chính.", "Kinh tế và xã hội.", "Thần quyền và thế tục."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 175: Bộ phận nào là trung tâm của quy phạm pháp luật?",
+    "options": ["Giả định.", "Quy định", "Chế tài.", "Lời nói đầu."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 176: Các quy phạm pháp luật do nhà nước ban hành thể hiện ý chí của:",
+    "options": ["Cá nhân người soạn thảo.", "Giai cấp thống trị", "Mọi người trong xã hội.", "Các tổ chức phi chính phủ."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 177: Một quy phạm pháp luật bắt buộc phải có đầy đủ cả 3 bộ phận Giả định, Quy định, Chế tài?",
+    "options": ["Đúng.", "Sai"],
+    "answer": 1
+  },
+  {
+    "q": "Câu 178: Quy phạm pháp luật khác với quy phạm đạo đức ở điểm nào?",
+    "options": ["Tính cưỡng chế nhà nước", "Tính lịch sử.", "Tính giai cấp.", "Tính xã hội."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 179: Trong cấu trúc: “Người nào giết người thì bị phạt tù từ 12 năm đến 20 năm”, bộ phận Chế tài là:",
+    "options": ["Người nào giết người.", "Người nào.", "Phạt tù từ 12 năm đến 20 năm", "Bị phạt tù."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 180: Trong ví dụ ở câu 179, bộ phận Giả định là:",
+    "options": ["Người nào giết người", "Phạt tù.", "12 năm đến 20 năm.", "Cả câu."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 181: Quy phạm pháp luật là hình thức thể hiện của:",
+    "options": ["Ý chí nhà nước", "Thói quen xã hội.", "Lòng tốt con người.", "Mệnh lệnh của cấp trên."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 182: Văn bản quy phạm pháp luật nào sau đây là văn bản dưới luật?",
+    "options": ["Hiến pháp.", "Luật Đất đai.", "Nghị định", "Bộ luật Hình sự."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 183: Cơ quan nào giám sát việc ban hành văn bản quy phạm pháp luật?",
+    "options": ["Chính phủ.", "Quốc hội", "Công an.", "Mặt trận tổ quốc."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 184: Hiệu lực trở về trước (hồi tố) của văn bản quy phạm pháp luật:",
+    "options": ["Được áp dụng rộng rãi.", "Chỉ được áp dụng trong trường hợp thật cần thiết và do luật định", "Không bao giờ được áp dụng.", "Tùy thuộc vào ý chí của người thực hiện."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 185: Văn bản quy phạm pháp luật của cấp trên và cấp dưới có nội dung khác nhau thì áp dụng văn bản của:",
+    "options": ["Cấp dưới.", "Cấp trên", "Văn bản ban hành trước.", "Văn bản ban hành sau."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 186: Việc ngưng hiệu lực của văn bản quy phạm pháp luật được thực hiện khi:",
+    "options": ["Văn bản đó có dấu hiệu trái hiến pháp, pháp luật.", "Cơ quan ban hành thấy không thích nữa.", "Dân chúng biểu tình.", "Văn bản đã cũ."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 187: Ai có quyền ban hành Thông tư liên tịch?",
+    "options": ["Chánh án TANDTC và Viện trưởng VKSNDTC", "Thủ tướng và Bộ trưởng.", "Chủ tịch nước và Chủ tịch Quốc hội.", "Các đại biểu Quốc hội."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 188: Hệ thống pháp luật bao gồm:",
+    "options": ["Các quy phạm pháp luật, các chế định luật và các ngành luật", "Chỉ có các đạo luật.", "Các bản án.", "Các quyết định hành chính."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 189: Vai trò của bộ phận chế tài trong quy phạm pháp luật là:",
+    "options": ["Xác định điều kiện, hoàn cảnh.", "Xác định chủ thể của pháp luật.", "Bảo đảm cho pháp luật được thực hiện nghiêm minh", "Mô hình hóa ý chí của nhà nước."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 190: Yêu cầu của bộ phận chế tài trong quy phạm pháp luật là:",
+    "options": ["Không sát thực tế.", "Không khách quan.", "Phải nêu được cách xử sự của chủ thể.", "Biện pháp tác động phải tương xứng với mức độ vi phạm"],
+    "answer": 3
+  },
+  {
+    "q": "Câu 191: Cách xác định bộ phận chế tài của quy phạm pháp luật là trả lời câu hỏi:",
+    "options": ["Chủ thể phải gánh chịu hậu quả bất lợi gì", "Chủ thể được làm gì.", "Chủ thể không được làm gì.", "Chủ thể đạt được lợi ích gì."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 192: Bộ phận chế tài của quy phạm pháp luật chứa đựng:",
+    "options": ["Cách xử sự của chủ thể.", "Các biện pháp gây hậu quả bất lợi", "Các biện pháp có lợi cho chủ thể.", "Các quyền của chủ thể."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 193: Một quy phạm pháp luật có thể được trình bày trong bao nhiêu điều luật?",
+    "options": ["Một điều luật.", "Nhiều điều luật.", "Một phần của điều luật.", "Tất cả các phương án trên"],
+    "answer": 3
+  },
+  {
+    "q": "Câu 194: Một điều luật có thể chứa đựng bao nhiêu quy phạm pháp luật?",
+    "options": ["Một quy phạm.", "Nhiều quy phạm", "Chỉ một nửa quy phạm.", "Không chứa quy phạm nào."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 195: Giả định của quy phạm pháp luật có thể là:",
+    "options": ["Giả định đơn giản.", "Giả định phức tạp.", "Cả A và B đều đúng", "Cả A và B đều sai."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 196: Quy định của quy phạm pháp luật có thể là:",
+    "options": ["Quy định dứt khoát.", "Quy định tùy nghi.", "Cả A và B đều đúng", "Cả A và B đều sai."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 197: Chế tài của quy phạm pháp luật có thể là:",
+    "options": ["Chế tài cố định.", "Chế tài không cố định.", "Cả A và B đều đúng", "Cả A và B đều sai."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 198: Trong một điều luật, bộ phận nào thường bị ẩn đi nhưng vẫn được hiểu ngầm?",
+    "options": ["Giả định.", "Quy định.", "Chế tài.", "Tùy trường hợp cụ thể"],
+    "answer": 3
+  },
+  {
+    "q": "Câu 199: Chế tài hành chính do ai áp dụng?",
+    "options": ["Tòa án.", "Cơ quan hành chính nhà nước", "Viện kiểm sát.", "Các cá nhân với nhau."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 200: Chế tài hình sự là loại chế tài:",
+    "options": ["Nghiêm khắc nhất", "Nhẹ nhất.", "Chỉ áp dụng cho pháp nhân.", "Do công an quyết định."],
+    "answer": 0
+  },
+  
+  {
+    "q": "Câu 201: Chế tài kỷ luật áp dụng đối với:",
+    "options": ["Mọi công dân.", "Cán bộ, công chức, viên chức và người lao động vi phạm kỷ luật nội bộ", "Chỉ áp dụng cho người đi học.", "Người vi phạm giao thông."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 202: Chế tài dân sự nhằm mục đích:",
+    "options": ["Trừng trị người phạm tội.", "Khôi phục lại tình trạng tài sản và lợi ích bị xâm phạm", "Tước quyền tự do cá nhân.", "Cảnh cáo trước công chúng."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 203: Điều 274, Bộ luật Dân sự: “Chủ sở hữu nhà phải lắp đặt đường dẫn nước sao cho nước mưa từ mái nhà của mình không được chảy xuống bất động sản của chủ sở hữu bất động sản liền kề”. Điều luật này có bao nhiêu bộ phận của quy phạm pháp luật:",
+    "options": ["Một bộ phận.", "Hai bộ phận", "Ba bộ phận.", "Bốn bộ phận."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 204: Điều 105, Bộ luật Dân sự 2017: “Tài sản bao gồm vật, tiền, giấy tờ có giá và các quyền tài sản”. Điều luật này có cơ cấu gồm:",
+    "options": ["Quy định: “Tài sản”. Giả định: “bao gồm…..quyền tài sản”.", "Quy định: “Tài sản”. Chế tài: “bao gồm…… quyền tài sản”.", "Giả định: “Tài sản”. Quy định: “bao gồm….. quyền tài sản”", "Chế tài: “Tài sản”. Giả định: “bao gồm……. quyền tài sản”."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 205: Trong các loại chế tài sau, loại nào nghiêm khắc nhất?",
+    "options": ["Chế tài hành chính.", "Chế tài dân sự.", "Chế tài hình sự", "Chế tài kỷ luật."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 206: Bộ phận Quy định của quy phạm pháp luật có thể được trình bày dưới dạng:",
+    "options": ["Cấm đoán.", "Bắt buộc.", "Cho phép.", "Tất cả các phương án trên"],
+    "answer": 3
+  },
+  {
+    "q": "Câu 207: Cơ quan nào sau đây có thẩm quyền ban hành văn bản quy phạm pháp luật?",
+    "options": ["Quốc hội.", "Chính phủ.", "Ủy ban nhân dân các cấp.", "Tất cả các cơ quan trên"],
+    "answer": 3
+  },
+  {
+    "q": "Câu 208: Văn bản nào sau đây KHÔNG PHẢI là văn bản quy phạm pháp luật?",
+    "options": ["Hiến pháp.", "Nghị định.", "Bản án của Tòa án", "Thông tư."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 209: Thời điểm có hiệu lực của văn bản quy phạm pháp luật thường được quy định:",
+    "options": ["Tại chính văn bản đó", "Do người dân quyết định.", "Mặc định là 1 năm sau khi ban hành.", "Không cần quy định."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 210: Hệ thống pháp luật Việt Nam hiện nay có khoảng bao nhiêu ngành luật chính?",
+    "options": ["5 ngành luật.", "12 ngành luật", "20 ngành luật.", "30 ngành luật."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 211: Quan hệ pháp luật là gì?",
+    "options": ["Quan hệ giữa người với người.", "Quan hệ xã hội được quy phạm pháp luật điều chỉnh", "Quan hệ bạn bè thân thiết.", "Quan hệ trao đổi hàng hóa tự phát."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 212: Thành phần của quan hệ pháp luật bao gồm:",
+    "options": ["Chủ thể, khách thể và nội dung", "Người mua và người bán.", "Nhà nước và công dân.", "Quyền và nghĩa vụ."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 213: Chủ thể của quan hệ pháp luật có thể là:",
+    "options": ["Cá nhân.", "Tổ chức (Pháp nhân).", "Nhà nước.", "Tất cả các phương án trên"],
+    "answer": 3
+  },
+  {
+    "q": "Câu 214: Năng lực chủ thể bao gồm:",
+    "options": ["Năng lực pháp luật và năng lực hành vi", "Năng lực tài chính và sức khỏe.", "Quyền lợi và trách nhiệm.", "Trình độ học vấn."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 215: Năng lực pháp luật là:",
+    "options": ["Khả năng hành động theo ý muốn.", "Khả năng hưởng quyền và nghĩa vụ mà nhà nước quy định", "Sự hiểu biết về pháp luật.", "Khả năng đi bầu cử."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 216: Năng lực hành vi pháp luật là:",
+    "options": ["Khả năng của chủ thể bằng hành vi của mình xác lập quyền và nghĩa vụ", "Việc chủ thể sinh ra đã có.", "Trình độ nhận thức của con người.", "Sức lao động của con người."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 217: Khi nào cá nhân có năng lực pháp luật?",
+    "options": ["Khi đủ 18 tuổi.", "Khi mới sinh ra", "Khi đi làm.", "Khi kết hôn."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 218: Năng lực hành vi của cá nhân phụ thuộc vào yếu tố nào?",
+    "options": ["Độ tuổi và khả năng nhận thức (sức khỏe tâm thần)", "Giới tính.", "Dân tộc.", "Địa vị xã hội."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 219: Người mất năng lực hành vi dân sự là người:",
+    "options": ["Bị bệnh tâm thần hoặc bệnh khác không thể nhận thức, làm chủ hành vi", "Người đủ 18 tuổi nhưng lười lao động.", "Người say rượu.", "Người chưa đủ 6 tuổi."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 220: Khách thể của quan hệ pháp luật là:",
+    "options": ["Lợi ích mà các bên hướng tới khi tham gia quan hệ pháp luật", "Các bên tham gia quan hệ.", "Các quy định của nhà nước.", "Các hành vi trái pháp luật."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 221: Nội dung của quan hệ pháp luật bao gồm:",
+    "options": ["Các bên chủ thể.", "Quyền và nghĩa vụ pháp lý của các chủ thể", "Tài sản của các bên.", "Các quy tắc đạo đức."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 222: Sự kiện pháp lý là:",
+    "options": ["Những sự việc thực tế mà khi xảy ra thì làm phát sinh, thay đổi, chấm dứt quan hệ pháp luật", "Mọi sự việc xảy ra hàng ngày.", "Các cuộc họp của nhà nước.", "Sự ra đời của một bản án."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 223: Sự kiện pháp lý bao gồm các loại:",
+    "options": ["Sự biến và Hành vi", "Mua và Bán.", "Đúng và Sai.", "Tự nhiên và Xã hội."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 224: Sự biến pháp lý là:",
+    "options": ["Những sự kiện xảy ra ngoài ý chí của con người (thiên tai, cái chết...)", "Hành vi vi phạm giao thông.", "Việc ký kết hợp đồng.", "Việc nộp thuế."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 225: Hành vi pháp lý là:",
+    "options": ["Sự kiện xảy ra theo ý chí của con người", "Động đất.", "Bão lũ.", "Hết thời hạn hợp đồng."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 226: Một cá nhân có thể tham gia vào bao nhiêu quan hệ pháp luật?",
+    "options": ["Chỉ một.", "Tối đa hai.", "Nhiều quan hệ pháp luật cùng lúc", "Không được tham gia."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 227: Pháp nhân là gì?",
+    "options": ["Một con người cụ thể.", "Một tổ chức có tài sản độc lập và nhân danh mình tham gia các quan hệ pháp luật", "Người đại diện cho nhà nước.", "Cơ quan hành chính."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 228: “……………là văn bản do cơ quan nhà nước có thẩm quyền ban hành trên cơ sở văn bản quy phạm pháp luật, áp dụng vào từng trường hợp cụ thể nhằm xác định quyền và nghĩa vụ pháp lý cụ thể”.",
+    "options": ["Văn bản quy phạm pháp luật.", "Văn bản áp dụng pháp luật", "Quy phạm pháp luật.", "Nghị quyết đại hội Đảng."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 229: Đặc điểm của văn bản áp dụng pháp luật là:",
+    "options": ["Tính bắt buộc chung cho mọi người.", "Chỉ áp dụng một lần đối với cá nhân, tổ chức cụ thể", "Có hiệu lực vĩnh viễn.", "Do người dân ban hành."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 230: Ví dụ nào sau đây là văn bản áp dụng pháp luật?",
+    "options": ["Luật Giao thông đường bộ.", "Quyết định xử phạt vi phạm hành chính đối với ông A", "Hiến pháp 2013.", "Nghị định về lương tối thiểu."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 231: Quy phạm pháp luật điều chỉnh quan hệ xã hội thông qua:",
+    "options": ["Việc đặt ra các quyền và nghĩa vụ.", "Việc đe dọa người dân.", "Việc phân chia tiền bạc.", "Việc tổ chức bầu cử."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 232: Năng lực hành vi pháp luật của cá nhân bắt đầu mất đi khi:",
+    "options": ["Khi người đó chết", "Khi người đó già yếu.", "Khi người đó đi du lịch.", "Khi người đó thất nghiệp."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 233: Văn bản quy phạm pháp luật được áp dụng:",
+    "options": ["Một lần.", "Nhiều lần", "Hai lần.", "Ba lần."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 234: Quan hệ pháp luật phát sinh khi có đủ mấy điều kiện?",
+    "options": ["1", "2", "3 (Quy phạm pháp luật, Chủ thể, Sự kiện pháp lý)", "4"],
+    "answer": 2
+  },
+  {
+    "q": "Câu 235: Quyền pháp lý của chủ thể là:",
+    "options": ["Khả năng được xử sự theo một cách nhất định mà pháp luật cho phép", "Việc bắt buộc phải làm theo lời người khác.", "Sở thích cá nhân.", "Quyền lực của nhà nước."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 236: Nghĩa vụ pháp lý của chủ thể là:",
+    "options": ["Cách xử sự bắt buộc chủ thể phải thực hiện theo quy định pháp luật", "Việc được làm nếu thấy thích.", "Lợi ích kinh tế.", "Quyền bầu cử."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 237: Việc kết hôn là loại sự kiện pháp lý nào?",
+    "options": ["Sự biến.", "Hành vi pháp lý", "Sự kiện ngẫu nhiên.", "Không phải sự kiện pháp lý."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 238: Một người đủ 18 tuổi nhưng bị tâm thần thì năng lực hành vi là:",
+    "options": ["Năng lực hành vi đầy đủ.", "Năng lực hành vi một phần.", "Không có năng lực hành vi", "Năng lực hành vi hạn chế."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 239: Đối tượng nào sau đây có năng lực pháp luật đặc biệt (chủ quyền)?",
+    "options": ["Cá nhân.", "Nhà nước", "Pháp nhân thương mại.", "Hộ gia đình."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 240: Khách thể của quan hệ pháp luật mua bán tài sản là:",
+    "options": ["Người mua.", "Người bán.", "Tài sản (vật) và lợi ích vật chất", "Hợp đồng."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 241: Vi phạm pháp luật là hành vi có lỗi do:",
+    "options": ["Người mất trí thực hiện.", "Chủ thể có năng lực trách nhiệm pháp lý thực hiện", "Các loài động vật gây ra.", "Trẻ em 5 tuổi thực hiện."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 242: Quan hệ pháp luật là những quan hệ xã hội được điều chỉnh bởi các quy phạm pháp luật, trong đó các bên tham gia có các ……………… cụ thể.",
+    "options": ["Quyền và nghĩa vụ pháp lý", "Quyền chủ thể", "Nghĩa vụ pháp lý", "Quyền công dân"],
+    "answer": 0
+  },
+  {
+    "q": "Câu 243. Quyền chủ thể là những cách thức xử sự mà pháp luật………chủ thể được tiến hành nhằm đáp ứng các lợi ích của mình.",
+    "options": ["Cho phép", "Bắt buộc.", "Cấm.", "Yêu cầu."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 244: Nghĩa vụ chủ thể là những cách thức xử sự …….mà chủ thể phải tiến hành theo quy định của pháp luật nhằm đáp ứng quyền và lợi ích của chủ thể khác.",
+    "options": ["Cho phép.", "Lựa chọn.", "Bắt buộc", "Không bắt buộc."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 245: Các yếu tố cấu thành vi phạm pháp luật bao gồm:",
+    "options": ["Mặt khách quan, mặt chủ quan, chủ thể, khách thể", "Người vi phạm và người bị hại.", "Công an và tòa án.", "Địa điểm và thời gian."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 246: Mặt khách quan của vi phạm pháp luật bao gồm:",
+    "options": ["Hành vi, hậu quả, mối quan hệ nhân quả", "Ý chí của người vi phạm.", "Mục đích vi phạm.", "Động cơ vi phạm."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 247: Chọn khẳng định đúng.",
+    "options": ["Năng lực pháp luật là khả năng thực hiện quyền và nghĩa vụ pháp lý", "Năng lực hành vi là khả năng hưởng quyền và nghĩa vụ pháp lý.", "Năng lực hành vi là khả năng thực hiện quyền và nghĩa vụ pháp lý.", "Không có khẳng định đúng."],
+    "answer": 2
+  },
+  {
+    "q": "Câu 248: Lỗi trong vi phạm pháp luật bao gồm:",
+    "options": ["Lỗi cố ý và lỗi vô ý", "Lỗi nặng và lỗi nhẹ.", "Lỗi chủ quan và lỗi khách quan.", "Lỗi cố ý trực tiếp và lỗi cố ý gián tiếp."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 249: Theo Bộ luật hình sự Việt Nam hiện hành, người từ đủ bao nhiêu tuổi phải chịu trách nhiệm hình sự về tội phạm rất nghiêm trọng do cố ý?",
+    "options": ["17 tuổi", "16 tuổi", "14 tuổi", "15 tuổi"],
+    "answer": 2
+  },
+  {
+    "q": "Câu 250: Trách nhiệm pháp lý là:",
+    "options": ["Sự bắt buộc chủ thể vi phạm pháp luật phải chịu hậu quả bất lợi", "Việc đi nộp thuế.", "Việc đi nghĩa vụ quân sự.", "Việc giúp đỡ người khác."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 251: Các loại trách nhiệm pháp lý bao gồm:",
+    "options": ["Hình sự, hành chính, dân sự, kỷ luật", "Chỉ có hình sự.", "Trách nhiệm đạo đức.", "Trách nhiệm tôn giáo."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 252: Căn cứ để truy cứu trách nhiệm pháp lý là:",
+    "options": ["Văn bản quy phạm pháp luật.", "Hành vi vi phạm pháp luật", "Lệnh của cấp trên.", "Đơn tố cáo của người dân."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 253: Hình phạt là biện pháp cưỡng chế nghiêm khắc nhất của trách nhiệm:",
+    "options": ["Dân sự.", "Hình sự", "Hành chính.", "Kỷ luật."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 254: Cảnh cáo là hình thức xử lý của trách nhiệm pháp lý nào?",
+    "options": ["Hành chính.", "Kỷ luật.", "Hình sự.", "Cả A, B, C đều đúng"],
+    "answer": 3
+  },
+  {
+    "q": "Câu 255: Một hành vi vi phạm pháp luật có thể phải chịu nhiều loại trách nhiệm pháp lý khác nhau?",
+    "options": ["Đúng", "Sai."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 256: Thời hiệu truy cứu trách nhiệm pháp lý là:",
+    "options": ["Thời hạn mà quá thời hạn đó người vi phạm không bị truy cứu trách nhiệm nữa", "Thời gian diễn ra vi phạm.", "Thời gian tòa án xét xử.", "Hiệu lực của bản án."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 257: Khách thể của vi phạm pháp luật là:",
+    "options": ["Quan hệ xã hội được pháp luật bảo vệ nhưng bị hành vi vi phạm xâm hại", "Vật chứng vụ án.", "Người bị hại.", "Cơ quan công an."],
+    "answer": 0
+  },
+  {
+    "q": "Câu 258: Động cơ vi phạm pháp luật thuộc về yếu tố nào?",
+    "options": ["Mặt khách quan.", "Mặt chủ quan", "Chủ thể.", "Khách thể."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 259: Việc xử phạt vi phạm giao thông đối với người điều khiển xe máy không đội mũ bảo hiểm là trách nhiệm:",
+    "options": ["Hình sự.", "Hành chính", "Dân sự.", "Kỷ luật."],
+    "answer": 1
+  },
+  {
+    "q": "Câu 260: Mục đích của trách nhiệm pháp lý là:",
+    "options": ["Trừng phạt người vi phạm.", "Giáo dục, răn đe người khác.", "Khôi phục trật tự pháp luật.", "Tất cả các phương án trên"],
+    "answer": 3
+  },
+  {
+    "q": "Câu 261: Hệ thống pháp luật Việt Nam bao gồm:",
+    "options": [
+      "Hệ thống cấu trúc pháp luật và hệ thống văn bản quy phạm pháp luật",
+      "Các ngành luật và các chế định pháp luật",
+      "Các quy phạm pháp luật và các văn bản luật",
+      "Hệ thống luật công và hệ thống luật tư"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 262: Đơn vị nhỏ nhất cấu thành nên hệ thống pháp luật là:",
+    "options": [
+      "Chế định pháp luật",
+      "Ngành luật",
+      "Quy phạm pháp luật",
+      "Văn bản quy phạm pháp luật"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 263: Tập hợp các quy phạm pháp luật điều chỉnh một nhóm quan hệ xã hội cùng loại được gọi là:",
+    "options": [
+      "Ngành luật",
+      "Chế định pháp luật",
+      "Hệ thống pháp luật",
+      "Văn bản luật"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 264: Hệ thống các quy phạm pháp luật điều chỉnh các quan hệ xã hội cùng loại trong một lĩnh vực nhất định của đời sống xã hội là:",
+    "options": [
+      "Chế định pháp luật",
+      "Hệ thống pháp luật",
+      "Ngành luật",
+      "Văn bản quy phạm pháp luật"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 265: Căn cứ để phân định các ngành luật trong hệ thống pháp luật Việt Nam là:",
+    "options": [
+      "Đối tượng điều chỉnh",
+      "Phương pháp điều chỉnh",
+      "Cả A và B đều đúng",
+      "Cả A và B đều sai"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 266: Loại quan hệ xã hội mà ngành luật đó tác động vào được gọi là:",
+    "options": [
+      "Phương pháp điều chỉnh",
+      "Đối tượng điều chỉnh",
+      "Nội dung pháp luật",
+      "Phạm vi pháp luật"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 267: Cách thức mà nhà nước sử dụng để tác động vào các quan hệ xã hội được gọi là:",
+    "options": [
+      "Đối tượng điều chỉnh",
+      "Nội dung pháp luật",
+      "Phương pháp điều chỉnh",
+      "Quy tắc ứng xử"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 268: Ngành luật nào được coi là ngành luật cơ bản, là gốc của hệ thống pháp luật Việt Nam?",
+    "options": [
+      "Luật Dân sự",
+      "Luật Hình sự",
+      "Luật Hiến pháp",
+      "Luật Hành chính"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 269: Văn bản quy phạm pháp luật nào có giá trị pháp lý cao nhất trong hệ thống pháp luật Việt Nam?",
+    "options": [
+      "Luật",
+      "Nghị quyết",
+      "Hiến pháp",
+      "Pháp lệnh"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 270: Cơ quan nào có thẩm quyền ban hành Hiến pháp, Luật, Nghị quyết?",
+    "options": [
+      "Chính phủ",
+      "Quốc hội",
+      "Chủ tịch nước",
+      "Tòa án nhân dân tối cao"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 271: Văn bản nào sau đây không phải là văn bản quy phạm pháp luật?",
+    "options": [
+      "Luật dân sự",
+      "Nghị quyết của Quốc hội",
+      "Bản án của Tòa án nhân dân",
+      "Nghị định của Chính phủ"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 272: Thẩm quyền ban hành Nghị định thuộc về:",
+    "options": [
+      "Chủ tịch nước",
+      "Ủy ban thường vụ Quốc hội",
+      "Chính phủ",
+      "Thủ tướng Chính phủ"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 273: Thông tư là văn bản quy phạm pháp luật do ai ban hành?",
+    "options": [
+      "Chủ tịch nước",
+      "Chánh án Tòa án nhân dân tối cao",
+      "Bộ trưởng, Thủ trưởng cơ quan ngang bộ",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 274: Văn bản quy phạm pháp luật do Hội đồng nhân dân ban hành là:",
+    "options": [
+      "Quyết định",
+      "Nghị quyết",
+      "Chỉ thị",
+      "Thông tư"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 275: Hiệu lực của văn bản quy phạm pháp luật bao gồm:",
+    "options": [
+      "Hiệu lực theo thời gian",
+      "Hiệu lực theo không gian",
+      "Hiệu lực theo đối tượng áp dụng",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 276: Việc một văn bản pháp luật áp dụng đối với các sự kiện xảy ra trước ngày văn bản đó có hiệu lực được gọi là:",
+    "options": [
+      "Hiệu lực không xác định",
+      "Hiệu lực hồi tố (trở về trước)",
+      "Hiệu lực mặc nhiên",
+      "Hiệu lực kế thừa"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 277: Quy phạm pháp luật là quy tắc xử sự mang tính:",
+    "options": [
+      "Bắt buộc chung",
+      "Đạo đức thuần túy",
+      "Tôn giáo",
+      "Tự nguyện hoàn toàn"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 278: Cơ cấu của một quy phạm pháp luật thông thường bao gồm:",
+    "options": [
+      "Giả định, Quy định, Hệ quả",
+      "Giả định, Quy định, Chế tài",
+      "Nêu vấn đề, Giải quyết vấn đề, Kết luận",
+      "Chủ thể, Khách thể, Nội dung"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 279: Bộ phận nào của quy phạm pháp luật nêu lên những biện pháp tác động mà Nhà nước dự kiến áp dụng đối với chủ thể vi phạm?",
+    "options": [
+      "Giả định",
+      "Quy định",
+      "Chế tài",
+      "Kỷ luật"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 280: Bộ phận nào của quy phạm pháp luật nêu lên các điều kiện, hoàn cảnh có thể xảy ra trong đời sống thực tế?",
+    "options": [
+      "Giả định",
+      "Quy định",
+      "Chế tài",
+      "Xử lý"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 281: Quan hệ pháp luật là các quan hệ xã hội được điều chỉnh bởi:",
+    "options": [
+      "Quy phạm đạo đức",
+      "Quy phạm pháp luật",
+      "Phong tục tập quán",
+      "Điều lệ đảng"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 282: Thành phần của quan hệ pháp luật bao gồm:",
+    "options": [
+      "Chủ thể, khách thể và nội dung",
+      "Giả định, quy định và chế tài",
+      "Năng lực pháp luật và năng lực hành vi",
+      "Sự kiện pháp lý và hành vi pháp lý"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 283: Khả năng của chủ thể được hưởng quyền và nghĩa vụ pháp lý gọi là:",
+    "options": [
+      "Năng lực hành vi",
+      "Năng lực pháp luật",
+      "Năng lực trách nhiệm",
+      "Năng lực nhận thức"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 284: Khả năng của chủ thể bằng hành vi của mình xác lập và thực hiện các quyền, nghĩa vụ pháp lý là:",
+    "options": [
+      "Năng lực pháp luật",
+      "Năng lực hành vi",
+      "Năng lực tư duy",
+      "Năng lực thực tế"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 285: Năng lực pháp luật của cá nhân có từ khi nào?",
+    "options": [
+      "Khi đủ 18 tuổi",
+      "Khi sinh ra",
+      "Khi bắt đầu đi làm",
+      "Khi được cấp căn cước công dân"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 286: Năng lực hành vi của cá nhân xuất hiện khi nào?",
+    "options": [
+      "Đạt độ tuổi nhất định và có khả năng nhận thức",
+      "Ngay khi mới sinh ra",
+      "Khi có tài sản riêng",
+      "Khi kết hôn"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 287: Người bị bệnh tâm thần hoặc các bệnh khác làm mất khả năng nhận thức thì bị Tòa án tuyên bố:",
+    "options": [
+      "Hạn chế năng lực hành vi dân sự",
+      "Mất năng lực hành vi dân sự",
+      "Không có năng lực pháp luật",
+      "Mất quyền công dân"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 288: Nội dung của quan hệ pháp luật bao gồm:",
+    "options": [
+      "Quyền và nghĩa vụ của các chủ thể",
+      "Các bên tham gia",
+      "Lợi ích mà các bên hướng tới",
+      "Các quy định của nhà nước"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 289: Sự kiện thực tế mà pháp luật gắn với việc làm phát sinh, thay đổi, chấm dứt quan hệ pháp luật gọi là:",
+    "options": [
+      "Hành vi pháp lý",
+      "Sự biến pháp lý",
+      "Sự kiện pháp lý",
+      "Xung đột pháp lý"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 290: Sự kiện xảy ra ngoài ý chí của con người nhưng làm phát sinh quan hệ pháp luật gọi là:",
+    "options": [
+      "Hành vi",
+      "Sự biến",
+      "Tai nạn",
+      "Rủi ro"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 291: Vi phạm pháp luật là hành vi có lỗi do chủ thể có năng lực trách nhiệm pháp lý thực hiện, xâm hại đến:",
+    "options": [
+      "Quan hệ xã hội được pháp luật bảo vệ",
+      "Lợi ích cá nhân người khác",
+      "Quy định của tôn giáo",
+      "Tất cả các phương án"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 292: Các yếu tố cấu thành vi phạm pháp luật bao gồm:",
+    "options": [
+      "Chủ thể, khách thể",
+      "Mặt chủ quan, mặt khách quan",
+      "Cả A và B đều đúng",
+      "Cả A và B đều sai"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 293: Trạng thái tâm lý bên trong của người vi phạm đối với hành vi của mình được gọi là:",
+    "options": [
+      "Mặt khách quan",
+      "Mặt chủ quan",
+      "Hậu quả hành vi",
+      "Động cơ vi phạm"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 294: Lỗi của người vi phạm pháp luật chia làm các loại:",
+    "options": [
+      "Lỗi cố ý và lỗi vô ý",
+      "Lỗi nặng và lỗi nhẹ",
+      "Lỗi trực tiếp và lỗi gián tiếp",
+      "Lỗi khách quan và lỗi chủ quan"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 295: Hành vi xâm phạm các quan hệ quản lý nhà nước được gọi là:",
+    "options": [
+      "Vi phạm dân sự",
+      "Vi phạm hình sự",
+      "Vi phạm hành chính",
+      "Vi phạm kỷ luật"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 296: Loại vi phạm pháp luật có độ nguy hiểm cao nhất cho xã hội là:",
+    "options": [
+      "Vi phạm hành chính",
+      "Vi phạm hình sự (Tội phạm)",
+      "Vi phạm dân sự",
+      "Vi phạm kỷ luật"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 297: Trách nhiệm pháp lý là hậu quả bất lợi mà chủ thể vi phạm pháp luật phải chịu trước:",
+    "options": [
+      "Người bị hại",
+      "Nhà nước",
+      "Cơ quan công an",
+      "Gia đình"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 298: Mục đích của trách nhiệm pháp lý là:",
+    "options": [
+      "Trừng phạt người vi phạm",
+      "Giáo dục, răn đe người khác",
+      "Khắc phục hậu quả, bồi thường",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 299: Độ tuổi phải chịu trách nhiệm hình sự về mọi tội phạm là:",
+    "options": [
+      "Từ đủ 14 tuổi trở lên",
+      "Từ đủ 15 tuổi trở lên",
+      "Từ đủ 16 tuổi trở lên",
+      "Từ đủ 18 tuổi trở lên"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 300: Người từ đủ 14 đến dưới 16 tuổi phải chịu trách nhiệm hình sự về:",
+    "options": [
+      "Tội phạm rất nghiêm trọng, tội phạm đặc biệt nghiêm trọng",
+      "Mọi loại tội phạm",
+      "Chỉ tội trộm cắp tài sản",
+      "Không phải chịu trách nhiệm hình sự"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 301: Cơ quan nào sau đây là cơ quan quyền lực nhà nước cao nhất?",
+    "options": [
+      "Chính phủ",
+      "Quốc hội",
+      "Tòa án nhân dân tối cao",
+      "Chủ tịch nước"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 302: Quốc hội có quyền năng nào sau đây?",
+    "options": [
+      "Lập hiến, lập pháp",
+      "Quyết định các vấn đề quan trọng của đất nước",
+      "Giám sát tối cao đối với hoạt động của Nhà nước",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 303: Cơ quan nào là cơ quan chấp hành của Quốc hội, cơ quan hành chính nhà nước cao nhất?",
+    "options": [
+      "Bộ Tư pháp",
+      "Chính phủ",
+      "Ủy ban thường vụ Quốc hội",
+      "Hội đồng nhân dân"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 304: Người đứng đầu Nhà nước, thay mặt nước CHXHCN Việt Nam về đối nội và đối ngoại là:",
+    "options": [
+      "Tổng bí thư",
+      "Thủ tướng Chính phủ",
+      "Chủ tịch nước",
+      "Chủ tịch Quốc hội"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 305: Hệ thống cơ quan xét xử của nước ta bao gồm:",
+    "options": [
+      "Viện kiểm sát nhân dân",
+      "Tòa án nhân dân",
+      "Cơ quan công an",
+      "Ủy ban nhân dân"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 306: Cơ quan có chức năng thực hành quyền công tố và kiểm sát hoạt động tư pháp là:",
+    "options": [
+      "Tòa án nhân dân",
+      "Viện kiểm sát nhân dân",
+      "Bộ Công an",
+      "Thanh tra Chính phủ"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 307: Chính phủ nước CHXHCN Việt Nam do cơ quan nào bầu ra?",
+    "options": [
+      "Nhân dân bầu trực tiếp",
+      "Chủ tịch nước bổ nhiệm",
+      "Quốc hội bầu ra",
+      "Đảng cộng sản cử ra"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 308: Ủy ban nhân dân là cơ quan thuộc hệ thống:",
+    "options": [
+      "Cơ quan quyền lực nhà nước",
+      "Cơ quan hành chính nhà nước ở địa phương",
+      "Cơ quan xét xử",
+      "Cơ quan kiểm sát"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 309: Việc phân chia các đơn vị hành chính của nước ta hiện nay gồm mấy cấp?",
+    "options": [
+      "2 cấp",
+      "3 cấp",
+      "4 cấp",
+      "5 cấp"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 310: Hội đồng nhân dân là cơ quan:",
+    "options": [
+      "Quyền lực nhà nước ở địa phương",
+      "Hành chính nhà nước ở địa phương",
+      "Tư pháp ở địa phương",
+      "Của các đoàn thể nhân dân"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 311: Theo Hiến pháp 2013, Thủ tướng Chính phủ do ai bầu trong số đại biểu Quốc hội?",
+    "options": [
+      "Chủ tịch nước",
+      "Quốc hội",
+      "Chính phủ",
+      "Nhân dân"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 312: Thành viên của Chính phủ bao gồm:",
+    "options": [
+      "Thủ tướng, các Phó Thủ tướng",
+      "Các Bộ trưởng",
+      "Thủ trưởng cơ quan ngang bộ",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 313: Thẩm phán Tòa án nhân dân tối cao do ai bổ nhiệm?",
+    "options": [
+      "Chánh án Tòa án nhân dân tối cao",
+      "Chủ tịch nước",
+      "Quốc hội",
+      "Chính phủ"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 314: Công dân Việt Nam là người:",
+    "options": [
+      "Có quốc tịch Việt Nam",
+      "Sinh ra tại Việt Nam",
+      "Sống lâu năm tại Việt Nam",
+      "Có bố mẹ là người Việt Nam"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 315: Quyền bầu cử của công dân bắt đầu từ khi đủ:",
+    "options": [
+      "16 tuổi",
+      "18 tuổi",
+      "20 tuổi",
+      "21 tuổi"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 316: Quyền ứng cử vào Quốc hội, Hội đồng nhân dân của công dân bắt đầu từ khi đủ:",
+    "options": [
+      "18 tuổi",
+      "21 tuổi",
+      "23 tuổi",
+      "25 tuổi"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 317: Hình thức thực hiện pháp luật trong đó các chủ thể thực hiện nghĩa vụ bằng hành động tích cực là:",
+    "options": [
+      "Tuân thủ pháp luật",
+      "Thi hành pháp luật",
+      "Sử dụng pháp luật",
+      "Áp dụng pháp luật"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 318: Hình thức thực hiện pháp luật trong đó chủ thể kiềm chế không làm những điều pháp luật cấm là:",
+    "options": [
+      "Tuân thủ pháp luật",
+      "Thi hành pháp luật",
+      "Sử dụng pháp luật",
+      "Áp dụng pháp luật"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 319: Hình thức thực hiện pháp luật đòi hỏi phải có sự tham gia của cơ quan nhà nước có thẩm quyền là:",
+    "options": [
+      "Tuân thủ pháp luật",
+      "Thi hành pháp luật",
+      "Sử dụng pháp luật",
+      "Áp dụng pháp luật"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 320: Hiến pháp có đặc điểm khác với các văn bản quy phạm pháp luật khác là:",
+    "options": [
+      "Có hiệu lực pháp lý cao nhất",
+      "Quy định những vấn đề cơ bản nhất",
+      "Trình tự ban hành, sửa đổi đặc biệt",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 321: Việt Nam đã ban hành bao nhiêu bản Hiến pháp tính đến nay?",
+    "options": [
+      "3 bản",
+      "4 bản",
+      "5 bản",
+      "6 bản"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 322: Bản Hiến pháp đầu tiên của nước ta ban hành năm nào?",
+    "options": [
+      "1945",
+      "1946",
+      "1954",
+      "1959"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 323: Chế độ kinh tế của nước ta hiện nay là:",
+    "options": [
+      "Kinh tế tập trung bao cấp",
+      "Kinh tế thị trường định hướng xã hội chủ nghĩa",
+      "Kinh tế tư bản chủ nghĩa",
+      "Kinh tế nông nghiệp lạc hậu"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 324: Cơ quan nào có quyền giải thích Hiến pháp, luật, pháp lệnh?",
+    "options": [
+      "Quốc hội",
+      "Ủy ban thường vụ Quốc hội",
+      "Chủ tịch nước",
+      "Chính phủ"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 325: Đại biểu Quốc hội do ai bầu ra?",
+    "options": [
+      "Cử tri cả nước",
+      "Đảng cộng sản",
+      "Chính phủ",
+      "Mặt trận tổ quốc"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 326: Kỳ họp Quốc hội thường lệ diễn ra mấy lần trong một năm?",
+    "options": [
+      "1 lần",
+      "2 lần",
+      "3 lần",
+      "4 lần"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 327: Chức danh nào sau đây không phải là thành viên Chính phủ?",
+    "options": [
+      "Thủ tướng Chính phủ",
+      "Bộ trưởng Bộ Tư pháp",
+      "Tổng Thanh tra Chính phủ",
+      "Chánh án Tòa án nhân dân tối cao"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 328: Văn bản nào quy định về quyền con người, quyền và nghĩa vụ cơ bản của công dân?",
+    "options": [
+      "Luật dân sự",
+      "Luật hình sự",
+      "Hiến pháp",
+      "Luật hành chính"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 329: Quyền nào sau đây là quyền chính trị của công dân?",
+    "options": [
+      "Quyền tự do kinh doanh",
+      "Quyền bầu cử, ứng cử",
+      "Quyền học tập",
+      "Quyền được bảo vệ sức khỏe"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 330: Mọi người đều bình đẳng trước:",
+    "options": [
+      "Pháp luật",
+      "Dư luận",
+      "Xã hội",
+      "Nhà nước"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 331: Đối tượng điều chỉnh của Luật Dân sự là:",
+    "options": [
+      "Quan hệ nhân thân và quan hệ tài sản",
+      "Quan hệ quản lý hành chính",
+      "Quan hệ giữa người lao động và người sử dụng lao động",
+      "Quan hệ tội phạm và hình phạt"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 332: Phương pháp điều chỉnh đặc trưng của Luật Dân sự là:",
+    "options": [
+      "Mệnh lệnh - đơn phương",
+      "Bình đẳng, tự nguyện thỏa thuận",
+      "Quyền uy - phục tùng",
+      "Thuyết phục và cưỡng chế"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 333: Tài sản theo quy định của Bộ luật Dân sự bao gồm:",
+    "options": [
+      "Vật, tiền, giấy tờ có giá",
+      "Quyền tài sản",
+      "Cả A và B đều đúng",
+      "Chỉ bao gồm bất động sản"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 334: Những tài sản không thể di dời, dời chỗ được gọi là:",
+    "options": [
+      "Động sản",
+      "Bất động sản",
+      "Vô chủ",
+      "Tài sản công"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 335: Quyền sở hữu bao gồm các quyền năng nào?",
+    "options": [
+      "Quyền chiếm hữu, quyền sử dụng, quyền định đoạt",
+      "Quyền quản lý, quyền khai thác",
+      "Quyền sở hữu tư nhân và sở hữu nhà nước",
+      "Quyền sử dụng và quyền hưởng lợi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 336: Việc người chủ sở hữu bán, tặng cho hoặc phá bỏ tài sản là thực hiện quyền:",
+    "options": [
+      "Quyền chiếm hữu",
+      "Quyền sử dụng",
+      "Quyền định đoạt",
+      "Quyền quản lý"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 337: Thừa kế theo pháp luật được áp dụng khi nào?",
+    "options": [
+      "Không có di chúc",
+      "Di chúc không hợp pháp",
+      "Những người thừa kế theo di chúc đều chết trước người để lại di sản",
+      "Tất cả các trường hợp trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 338: Hàng thừa kế thứ nhất theo quy định của Luật Dân sự bao gồm:",
+    "options": [
+      "Vợ, chồng, cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi, con đẻ, con nuôi",
+      "Anh, chị, em ruột",
+      "Ông nội, bà nội, ông ngoại, bà ngoại",
+      "Cô, dì, chú, bác ruột"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 339: Người thừa kế là cá nhân phải là người:",
+    "options": [
+      "Còn sống vào thời điểm mở thừa kế",
+      "Đã thành niên",
+      "Có năng lực hành vi dân sự đầy đủ",
+      "Có quốc tịch Việt Nam"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 340: Thời điểm mở thừa kế là thời điểm:",
+    "options": [
+      "Người có tài sản chết",
+      "Lập di chúc",
+      "Chia tài sản",
+      "Tòa án quyết định"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 341: Luật Hình sự điều chỉnh quan hệ xã hội nào?",
+    "options": [
+      "Quan hệ giữa người phạm tội và Nhà nước",
+      "Quan hệ giữa người phạm tội và người bị hại",
+      "Quan hệ giữa các cơ quan tư pháp",
+      "Quan hệ bồi thường thiệt hại"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 342: Tội phạm là hành vi nguy hiểm cho xã hội được quy định trong:",
+    "options": [
+      "Hiến pháp",
+      "Bộ luật Hình sự",
+      "Luật Xử lý vi phạm hành chính",
+      "Nghị định của Chính phủ"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 343: Một hành vi bị coi là tội phạm khi có đủ các dấu hiệu:",
+    "options": [
+      "Tính nguy hiểm cho xã hội",
+      "Tính có lỗi và tính chịu hình phạt",
+      "Được quy định trong Bộ luật Hình sự",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 344: Căn cứ vào tính chất và mức độ nguy hiểm cho xã hội, tội phạm được chia làm mấy loại?",
+    "options": [
+      "2 loại",
+      "3 loại",
+      "4 loại",
+      "5 loại"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 345: Tội phạm có khung hình phạt cao nhất là trên 15 năm tù, tù chung thân hoặc tử hình là:",
+    "options": [
+      "Tội phạm ít nghiêm trọng",
+      "Tội phạm nghiêm trọng",
+      "Tội phạm rất nghiêm trọng",
+      "Tội phạm đặc biệt nghiêm trọng"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 346: Hình phạt nào sau đây là hình phạt chính trong Luật Hình sự?",
+    "options": [
+      "Cảnh cáo, Phạt tiền",
+      "Cải tạo không giam giữ",
+      "Tù có thời hạn, Tù chung thân, Tử hình",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 347: Hình phạt nào sau đây là hình phạt bổ sung?",
+    "options": [
+      "Tước một số quyền công dân",
+      "Cấm đảm nhiệm chức vụ",
+      "Quản chế",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 348: Một người thực hiện hành vi do bị ép buộc, không thể có cách nào khác để bảo vệ lợi ích của mình hoặc người khác thì được coi là:",
+    "options": [
+      "Phòng vệ chính đáng",
+      "Tình thế cấp thiết",
+      "Sự kiện bất ngờ",
+      "Lỗi vô ý"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 349: Hành vi chống trả lại một cách cần thiết người đang có hành vi xâm phạm lợi ích của Nhà nước, tổ chức hoặc cá nhân là:",
+    "options": [
+      "Tình thế cấp thiết",
+      "Phòng vệ chính đáng",
+      "Tự ý nửa chừng chấm dứt tội phạm",
+      "Hành động dũng cảm"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 350: Độ tuổi chịu trách nhiệm hình sự theo quy định hiện nay là từ:",
+    "options": [
+      "Từ đủ 14 tuổi trở lên",
+      "Từ đủ 16 tuổi trở lên",
+      "Tùy vào loại tội phạm (bao gồm cả A và B)",
+      "Từ đủ 18 tuổi"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 351: Thời hiệu truy cứu trách nhiệm hình sự đối với tội phạm ít nghiêm trọng là:",
+    "options": [
+      "5 năm",
+      "10 năm",
+      "15 năm",
+      "20 năm"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 352: Luật Hành chính điều chỉnh các quan hệ xã hội phát sinh trong quá trình:",
+    "options": [
+      "Quản lý nhà nước",
+      "Xét xử của Tòa án",
+      "Giao dịch dân sự",
+      "Sản xuất kinh doanh"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 353: Phương pháp điều chỉnh của Luật Hành chính là:",
+    "options": [
+      "Bình đẳng thỏa thuận",
+      "Mệnh lệnh - đơn phương",
+      "Tự nguyện",
+      "Không có phương pháp nào"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 354: Hình thức xử phạt hành chính chính bao gồm:",
+    "options": [
+      "Cảnh cáo",
+      "Phạt tiền",
+      "Cả A và B đều đúng",
+      "Trục xuất"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 355: Luật Lao động điều chỉnh quan hệ xã hội giữa:",
+    "options": [
+      "Người lao động và người sử dụng lao động",
+      "Công chức và cơ quan nhà nước",
+      "Người mua và người bán",
+      "Các thành viên trong gia đình"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 356: Hợp đồng lao động phải được lập bằng văn bản đối với hợp đồng có thời hạn từ:",
+    "options": [
+      "1 tháng trở lên",
+      "3 tháng trở lên",
+      "6 tháng trở lên",
+      "12 tháng trở lên"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 357: Thời giờ làm việc bình thường không quá bao nhiêu giờ trong một ngày?",
+    "options": [
+      "8 giờ",
+      "10 giờ",
+      "12 giờ",
+      "4 giờ"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 358: Người lao động có quyền đơn phương chấm dứt hợp đồng lao động nhưng phải báo trước:",
+    "options": [
+      "Theo quy định của pháp luật lao động tùy loại hợp đồng",
+      "Không cần báo trước",
+      "Chỉ cần báo trước 1 ngày",
+      "Báo trước ít nhất 3 tháng"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 359: Luật Hôn nhân và gia đình quy định độ tuổi kết hôn là:",
+    "options": [
+      "Nam từ đủ 20 tuổi, nữ từ đủ 18 tuổi trở lên",
+      "Nam từ 18 tuổi, nữ từ 16 tuổi",
+      "Cả nam và nữ đều từ đủ 18 tuổi",
+      "Nam từ 22 tuổi, nữ từ 20 tuổi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 360: Những người có cùng dòng máu về trực hệ là:",
+    "options": [
+      "Cha mẹ với con; ông bà với cháu nội, cháu ngoại",
+      "Anh chị em ruột",
+      "Cô dì chú bác với cháu",
+      "Họ hàng xa"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 361: Việc kết hôn phải được đăng ký tại:",
+    "options": [
+      "Cơ quan Công an",
+      "Ủy ban nhân dân cấp có thẩm quyền",
+      "Tòa án nhân dân",
+      "Sở Tư pháp"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 362: Tài sản chung của vợ chồng bao gồm:",
+    "options": [
+      "Tài sản do vợ, chồng tạo ra trong thời kỳ hôn nhân",
+      "Thu nhập do lao động, hoạt động sản xuất kinh doanh",
+      "Tài sản được thừa kế chung hoặc tặng cho chung",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 363: Ly hôn là việc chấm dứt quan hệ vợ chồng theo bản án, quyết định có hiệu lực pháp luật của:",
+    "options": [
+      "Ủy ban nhân dân",
+      "Tòa án nhân dân",
+      "Hội phụ nữ",
+      "Cơ quan hộ tịch"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 364: Quyền sử dụng đất là loại tài sản thuộc:",
+    "options": [
+      "Động sản",
+      "Bất động sản",
+      "Vô chủ",
+      "Không phải là tài sản"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 365: Tham nhũng là hành vi của người có chức vụ, quyền hạn đã:",
+    "options": [
+      "Lạm dụng quyền hạn vì vụ lợi",
+      "Thiếu trách nhiệm gây hậu quả nghiêm trọng",
+      "Lợi dụng chức vụ, quyền hạn vì vụ lợi",
+      "Vô ý làm thất thoát tài sản nhà nước"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 366: Đối tượng của hành vi tham nhũng là:",
+    "options": [
+      "Người có chức vụ, quyền hạn",
+      "Mọi cá nhân trong xã hội",
+      "Chỉ là công chức nhà nước",
+      "Chỉ là lãnh đạo doanh nghiệp"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 367: Theo quy định, việc tặng quà và nhận quà tặng của người có chức vụ quyền hạn phải:",
+    "options": [
+      "Được thực hiện thoải mái",
+      "Tuân thủ các quy định về định mức và báo cáo theo luật",
+      "Bị cấm tuyệt đối trong mọi trường hợp",
+      "Chỉ được nhận quà bằng tiền mặt"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 368: Cơ quan nào có trách nhiệm quản lý nhà nước về phòng, chống tham nhũng?",
+    "options": [
+      "Chính phủ",
+      "Thanh tra Chính phủ",
+      "Cơ quan Công an",
+      "Viện kiểm sát"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 369: Hành vi nào sau đây là hành vi tham nhũng?",
+    "options": [
+      "Tham ô tài sản",
+      "Nhận hối lộ",
+      "Lạm quyền trong khi thi hành công vụ",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 370: Người có chức vụ là người:",
+    "options": [
+      "Do bổ nhiệm, bầu cử, tuyển dụng",
+      "Được giao thực hiện nhiệm vụ, công vụ nhất định",
+      "Có quyền hạn trong khi thực hiện nhiệm vụ",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 371: Luật Đất đai quy định đất đai thuộc sở hữu:",
+    "options": [
+      "Sở hữu tư nhân",
+      "Sở hữu tập thể",
+      "Sở hữu toàn dân do Nhà nước đại diện chủ sở hữu",
+      "Sở hữu của người nước ngoài"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 372: Nhà nước giao đất cho người sử dụng đất thông qua hình thức:",
+    "options": [
+      "Giao đất không thu tiền sử dụng đất",
+      "Giao đất có thu tiền sử dụng đất",
+      "Cho thuê đất",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 373: Văn bản luật nào điều chỉnh về việc bồi thường, hỗ trợ tái định cư khi Nhà nước thu hồi đất?",
+    "options": [
+      "Luật Dân sự",
+      "Luật Đất đai",
+      "Luật Xây dựng",
+      "Luật Kinh doanh bất động sản"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 374: Thời hạn sử dụng đất được quy định là:",
+    "options": [
+      "Sử dụng ổn định lâu dài",
+      "Sử dụng có thời hạn",
+      "Cả A và B đều đúng",
+      "Chỉ sử dụng trong 50 năm"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 375: Cơ quan có thẩm quyền cấp Giấy chứng nhận quyền sử dụng đất là:",
+    "options": [
+      "Ủy ban nhân dân cấp tỉnh/huyện",
+      "Sở Tài nguyên và Môi trường",
+      "Tòa án nhân dân",
+      "Cơ quan Công an"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 376: Chủ thể của Luật Quốc tế chủ yếu là:",
+    "options": [
+      "Các quốc gia có chủ quyền",
+      "Các cá nhân",
+      "Các doanh nghiệp đa quốc gia",
+      "Các tổ chức phi chính phủ"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 377: Hiến pháp Việt Nam hiện hành là bản Hiến pháp được thông qua vào năm:",
+    "options": [
+      "1992",
+      "2001",
+      "2013",
+      "2020"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 378: Cơ quan nào có thẩm quyền sửa đổi Hiến pháp?",
+    "options": [
+      "Chính phủ",
+      "Quốc hội",
+      "Chủ tịch nước",
+      "Nhân dân (trưng cầu dân ý)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 379: Hình thức nhà nước của Việt Nam hiện nay là:",
+    "options": [
+      "Cộng hòa dân chủ nhân dân",
+      "Cộng hòa xã hội chủ nghĩa",
+      "Quân chủ lập hiến",
+      "Liên bang"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 380: Hệ thống chính trị Việt Nam bao gồm:",
+    "options": [
+      "Đảng Cộng sản, Nhà nước, Mặt trận Tổ quốc và các tổ chức chính trị - xã hội",
+      "Đảng Cộng sản và Nhà nước",
+      "Quốc hội, Chính phủ, Tòa án",
+      "Nhân dân và Nhà nước"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 381: Bản chất của Nhà nước Việt Nam là:",
+    "options": [
+      "Nhà nước của dân, do dân, vì dân",
+      "Nhà nước của giai cấp thống trị",
+      "Nhà nước của các tầng lớp thượng lưu",
+      "Nhà nước quân phiệt"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 382: Hình thức chính thể của Nhà nước Việt Nam là:",
+    "options": [
+      "Cộng hòa",
+      "Quân chủ",
+      "Độc tài",
+      "Đa đảng"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 383: Quyền lực nhà nước ở Việt Nam là:",
+    "options": [
+      "Thống nhất, có sự phân công, phối hợp và kiểm soát",
+      "Tam quyền phân lập",
+      "Tập trung tuyệt đối vào Chính phủ",
+      "Phân tán cho các địa phương"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 384: Thủ đô của nước CHXHCN Việt Nam là:",
+    "options": [
+      "Thành phố Hồ Chí Minh",
+      "Hà Nội",
+      "Đà Nẵng",
+      "Huế"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 385: Quốc kỳ Việt Nam có đặc điểm:",
+    "options": [
+      "Nền đỏ, giữa có ngôi sao vàng năm cánh",
+      "Nền xanh, giữa có ngôi sao trắng",
+      "Nền vàng, ba sọc đỏ",
+      "Nền đỏ, có hình búa liềm"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 386: Quyền con người, quyền công dân chỉ có thể bị hạn chế theo quy định của:",
+    "options": [
+      "Luật",
+      "Nghị định",
+      "Thông tư",
+      "Quyết định của cấp xã"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 387: Mọi người có quyền tự do kinh doanh trong những ngành nghề mà:",
+    "options": [
+      "Pháp luật không cấm",
+      "Nhà nước cho phép",
+      "Pháp luật khuyến khích",
+      "Có nhiều lợi nhuận"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 388: Công dân có nghĩa vụ trung thành với:",
+    "options": [
+      "Tổ quốc",
+      "Cơ quan",
+      "Gia đình",
+      "Bản thân"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 389: Cơ quan quyền lực nhà nước cao nhất ở địa phương là:",
+    "options": [
+      "Ủy ban nhân dân",
+      "Hội đồng nhân dân",
+      "Tòa án nhân dân",
+      "Công an tỉnh"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 390: Việc bầu cử đại biểu Quốc hội và đại biểu Hội đồng nhân dân được tiến hành theo nguyên tắc:",
+    "options": [
+      "Phổ thông, bình đẳng, trực tiếp và bỏ phiếu kín",
+      "Chỉ định và hiệp thương",
+      "Ưu tiên người có học vị cao",
+      "Công khai tại cuộc họp"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 391: Tuổi nghỉ hưu của người lao động trong điều kiện bình thường được điều chỉnh theo lộ trình đến khi đủ:",
+    "options": [
+      "62 tuổi với nam, 60 tuổi với nữ",
+      "60 tuổi với nam, 55 tuổi với nữ",
+      "65 tuổi với cả nam và nữ",
+      "55 tuổi với nam, 50 tuổi với nữ"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 392: Bảo hiểm xã hội bắt buộc áp dụng cho đối tượng nào?",
+    "options": [
+      "Người lao động làm việc theo hợp đồng lao động",
+      "Người lao động tự do",
+      "Học sinh, sinh viên",
+      "Người nội trợ"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 393: Thời gian thử việc đối với công việc có chức danh nghề nghiệp cần trình độ chuyên môn kỹ thuật trung cấp, công nhân kỹ thuật, nhân viên nghiệp vụ là:",
+    "options": [
+      "Không quá 30 ngày",
+      "Không quá 60 ngày",
+      "Không quá 180 ngày",
+      "Không quá 6 ngày"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 394: Hình thức xử lý kỷ luật lao động bao gồm:",
+    "options": [
+      "Khiển trách, kéo dài thời hạn nâng lương không quá 6 tháng",
+      "Cách chức, Sa thải",
+      "Cả A và B đều đúng",
+      "Phạt tiền hoặc cắt lương"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 395: Quan hệ hôn nhân chấm dứt kể từ ngày:",
+    "options": [
+      "Bản án, quyết định ly hôn của Tòa án có hiệu lực pháp luật",
+      "Vợ chồng nộp đơn ly hôn",
+      "Vợ chồng sống ly thân",
+      "Vợ chồng thỏa thuận xong tài sản"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 396: Con sinh ra trong thời kỳ hôn nhân là:",
+    "options": [
+      "Con chung của vợ chồng",
+      "Con riêng của người vợ",
+      "Con riêng của người chồng",
+      "Không xác định được"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 397: Pháp luật bảo vệ quyền lợi của ai trong quan hệ hôn nhân gia đình?",
+    "options": [
+      "Phụ nữ và trẻ em",
+      "Người già",
+      "Những người yếu thế",
+      "Tất cả các thành viên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 398: Khi chia tài sản ly hôn, nguyên tắc chung là tài sản chung được chia:",
+    "options": [
+      "Đôi bên bằng nhau có tính đến công sức đóng góp",
+      "Toàn bộ cho người nuôi con",
+      "Toàn bộ cho người chồng",
+      "Toàn bộ cho người không có lỗi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 399: Nghĩa vụ cấp dưỡng giữa cha mẹ và con phát sinh khi:",
+    "options": [
+      "Con chưa thành niên hoặc đã thành niên nhưng không có khả năng lao động",
+      "Cha mẹ ly hôn",
+      "Con đi học xa",
+      "Cha mẹ có nhiều tài sản"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 400: Di chúc là sự thể hiện ý chí của cá nhân nhằm:",
+    "options": [
+      "Chuyển tài sản của mình cho người khác sau khi chết",
+      "Tặng cho tài sản khi còn sống",
+      "Ủy quyền quản lý tài sản",
+      "Xác nhận quyền sở hữu"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 401: Người có hành vi tham nhũng bị xử lý như thế nào?",
+    "options": [
+      "Xử lý kỷ luật, xử phạt hành chính",
+      "Bị truy cứu trách nhiệm hình sự",
+      "Phải bồi thường thiệt hại (nếu có)",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 402: Theo quy định, việc công khai, minh bạch trong hoạt động của cơ quan, tổ chức nhằm:",
+    "options": [
+      "Phòng ngừa tham nhũng",
+      "Khoe thành tích",
+      "Để người dân biết thông tin cá nhân của cán bộ",
+      "Để tăng doanh thu"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 403: Tài sản tham nhũng phải được:",
+    "options": [
+      "Thu hồi, trả lại cho chủ sở hữu hoặc sung công quỹ",
+      "Chia cho người tố cáo",
+      "Tiêu hủy",
+      "Sung vào quỹ từ thiện"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 404: Cơ quan nào có thẩm quyền cao nhất về giám sát công tác phòng chống tham nhũng?",
+    "options": [
+      "Chính phủ",
+      "Quốc hội",
+      "Tòa án",
+      "Bộ Công an"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 405: Một trong những trách nhiệm của công dân trong phòng chống tham nhũng là:",
+    "options": [
+      "Phát hiện, tố cáo hành vi tham nhũng",
+      "Tự ý xông vào cơ quan điều tra",
+      "Chia sẻ thông tin chưa kiểm chứng",
+      "Không cần quan tâm"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 406: Luật Đất đai quy định, người sử dụng đất có quyền:",
+    "options": [
+      "Chuyển đổi, chuyển nhượng, cho thuê, thừa kế, tặng cho",
+      "Thế chấp, góp vốn bằng quyền sử dụng đất",
+      "Cả A và B đều đúng",
+      "Tự ý thay đổi mục đích sử dụng không cần xin phép"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 407: Hợp đồng dân sự là:",
+    "options": [
+      "Sự thỏa thuận giữa các bên về việc xác lập, thay đổi hoặc chấm dứt quyền, nghĩa vụ dân sự",
+      "Mệnh lệnh của cấp trên với cấp dưới",
+      "Văn bản quy phạm pháp luật",
+      "Bản án của tòa án"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 408: Tuổi bắt đầu có năng lực hành vi dân sự đầy đủ là:",
+    "options": [
+      "Đủ 15 tuổi",
+      "Đủ 16 tuổi",
+      "Đủ 18 tuổi",
+      "Đủ 21 tuổi"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 409: Hình thức của hợp đồng dân sự có thể là:",
+    "options": [
+      "Bằng lời nói",
+      "Bằng văn bản",
+      "Bằng hành vi cụ thể",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 410: Thời hiệu khởi kiện để yêu cầu Tòa án giải quyết tranh chấp hợp đồng là:",
+    "options": [
+      "1 năm",
+      "2 năm",
+      "3 năm",
+      "10 năm"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 411: Cơ quan nhà nước nào có thẩm quyền ban hành Luật đất đai?",
+    "options": [
+      "Chính phủ",
+      "Quốc hội",
+      "Bộ Tài nguyên và Môi trường",
+      "Ủy ban nhân dân"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 412: Chế tài hành chính do cơ quan nào áp dụng?",
+    "options": [
+      "Cơ quan quản lý hành chính nhà nước",
+      "Tòa án nhân dân",
+      "Viện kiểm sát nhân dân",
+      "Các tổ chức xã hội"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 413: Tội phạm ít nghiêm trọng có mức hình phạt cao nhất đến:",
+    "options": [
+      "3 năm tù",
+      "7 năm tù",
+      "15 năm tù",
+      "Tử hình"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 414: Đối tượng điều chỉnh của luật hôn nhân và gia đình là:",
+    "options": [
+      "Quan hệ nhân thân và quan hệ tài sản giữa các thành viên trong gia đình",
+      "Quan hệ mua bán hàng hóa",
+      "Quan hệ lao động",
+      "Quan hệ quản lý hành chính"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 415: Quyền bầu cử là quyền của công dân được:",
+    "options": [
+      "Lựa chọn người đại diện vào cơ quan quyền lực nhà nước",
+      "Tự mình ứng cử vào Quốc hội",
+      "Tham gia quản lý nhà nước",
+      "Giám sát hoạt động chính quyền"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 416: Hệ thống pháp luật Việt Nam gồm các ngành luật nào?",
+    "options": [
+      "Luật Hiến pháp, Luật Hành chính, Luật Hình sự, Luật Dân sự...",
+      "Luật Kinh tế, Luật Lao động, Luật Đất đai, Luật Hôn nhân gia đình...",
+      "Cả A và B đều đúng",
+      "Chỉ bao gồm Luật Hình sự và Dân sự"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 417: Văn bản có giá trị pháp lý cao nhất trong hệ thống văn bản QPPL là:",
+    "options": [
+      "Luật",
+      "Nghị quyết",
+      "Hiến pháp",
+      "Pháp lệnh"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 418: Nhà nước Việt Nam là nhà nước:",
+    "options": [
+      "Đơn nhất",
+      "Liên bang",
+      "Liên minh",
+      "Phụ thuộc"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 419: Cơ quan nào thực hiện chức năng giám sát tối cao việc tuân theo Hiến pháp?",
+    "options": [
+      "Chính phủ",
+      "Quốc hội",
+      "Viện kiểm sát",
+      "Chủ tịch nước"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 420: Quyền lực Nhà nước thuộc về ai?",
+    "options": [
+      "Các giai cấp",
+      "Nhân dân",
+      "Nhà nước",
+      "Đảng Cộng sản"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 421: Chính sách đối ngoại của nước ta hiện nay là:",
+    "options": [
+      "Hòa bình, hữu nghị, đa phương hóa, đa dạng hóa",
+      "Đóng cửa",
+      "Chỉ quan hệ với các nước láng giềng",
+      "Liên minh quân sự"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 422: Pháp luật có vai trò gì?",
+    "options": [
+      "Công cụ quản lý xã hội của Nhà nước",
+      "Bảo vệ quyền và lợi ích hợp pháp của công dân",
+      "Cả A và B đều đúng",
+      "Chỉ để trừng phạt"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 423: Một người phạm tội trong trạng thái say rượu thì:",
+    "options": [
+      "Vẫn phải chịu trách nhiệm hình sự",
+      "Được miễn trách nhiệm hình sự",
+      "Được giảm nhẹ hình phạt",
+      "Tùy trường hợp"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 424: Di chúc hợp pháp phải đảm bảo điều kiện nào?",
+    "options": [
+      "Người lập di chúc minh mẫn, tự nguyện",
+      "Nội dung không trái pháp luật, đạo đức xã hội",
+      "Hình thức theo quy định của pháp luật",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 425: Người thừa kế không phụ thuộc vào nội dung di chúc gồm:",
+    "options": [
+      "Con chưa thành niên, cha, mẹ, vợ, chồng",
+      "Con đã thành niên không có khả năng lao động",
+      "Cả A và B đều đúng",
+      "Anh, chị, em ruột"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 426: Quyền sở hữu của cá nhân đối với tài sản được pháp luật:",
+    "options": [
+      "Công nhận và bảo hộ",
+      "Hạn chế",
+      "Quản lý chặt chẽ",
+      "Tịch thu khi cần"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 427: Chế tài nào là nghiêm khắc nhất?",
+    "options": [
+      "Chế tài hình sự",
+      "Chế tài hành chính",
+      "Chế tài dân sự",
+      "Chế tài kỷ luật"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 428: Người lao động được nghỉ lễ, tết hưởng nguyên lương bao nhiêu ngày trong năm?",
+    "options": [
+      "10 ngày",
+      "11 ngày (theo quy định mới)",
+      "12 ngày",
+      "15 ngày"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 429: Cơ quan nào sau đây là cơ quan ngang Bộ?",
+    "options": [
+      "Ngân hàng nhà nước Việt Nam",
+      "Đài truyền hình Việt Nam",
+      "Đài tiếng nói Việt Nam",
+      "Học viện chính trị quốc gia"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 430: Hiến pháp 2013 quy định Chủ tịch nước do ai bầu?",
+    "options": [
+      "Nhân dân bầu trực tiếp",
+      "Quốc hội bầu trong số đại biểu Quốc hội",
+      "Chính phủ cử ra",
+      "Đảng chỉ định"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 431: Quan hệ giữa người mua và người bán điện thoại là quan hệ:",
+    "options": [
+      "Quan hệ pháp luật dân sự",
+      "Quan hệ pháp luật hành chính",
+      "Quan hệ pháp luật kinh tế",
+      "Quan hệ đạo đức"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 432: Nhà nước dân chủ nhất trong lịch sử là:",
+    "options": [
+      "Nhà nước tư sản",
+      "Nhà nước phong kiến",
+      "Nhà nước Xã hội chủ nghĩa",
+      "Nhà nước chủ nô"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 433: Thuế là nguồn thu chính của:",
+    "options": [
+      "Ngân sách nhà nước",
+      "Các doanh nghiệp",
+      "Các hộ gia đình",
+      "Các tổ chức từ thiện"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 434: Độ tuổi tối thiểu của người lao động là:",
+    "options": [
+      "Đủ 13 tuổi",
+      "Đủ 15 tuổi",
+      "Đủ 18 tuổi",
+      "Đủ 16 tuổi"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 435: Quyền con người là quyền:",
+    "options": [
+      "Bẩm sinh, vốn có của con người",
+      "Do Nhà nước ban tặng",
+      "Chỉ dành cho công dân Việt Nam",
+      "Chỉ dành cho người giàu"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 436: Đây không phải là một đặc điểm của Nhà nước:",
+    "options": [
+      "Có lãnh thổ và dân cư",
+      "Có chủ quyền quốc gia",
+      "Có pháp luật",
+      "Có tôn giáo riêng"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 437: Văn bản pháp luật của cơ quan nhà nước cấp dưới phải:",
+    "options": [
+      "Trái với văn bản cấp trên",
+      "Phù hợp với văn bản cấp trên",
+      "Thay thế văn bản cấp trên",
+      "Bỏ qua văn bản cấp trên"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 438: Chủ thể của hành vi tham ô tài sản là:",
+    "options": [
+      "Người có chức vụ, quyền hạn quản lý tài sản đó",
+      "Mọi người dân",
+      "Người nghèo",
+      "Người nước ngoài"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 439: Đâu là một hình thức thực hiện pháp luật?",
+    "options": [
+      "Sử dụng pháp luật",
+      "Thi hành pháp luật",
+      "Tuân thủ pháp luật, Áp dụng pháp luật",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 440: Đối tượng điều chỉnh của ngành luật Hình sự là:",
+    "options": [
+      "Quan hệ xã hội phát sinh khi có hành vi phạm tội",
+      "Quan hệ bồi thường tài sản",
+      "Quan hệ ly hôn",
+      "Quan hệ nộp thuế"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 441: Phương pháp mệnh lệnh được sử dụng chủ yếu trong ngành luật nào?",
+    "options": [
+      "Luật Dân sự",
+      "Luật Hành chính",
+      "Luật Hôn nhân gia đình",
+      "Luật Kinh tế"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 442: Cơ quan nào có thẩm quyền ban hành Nghị quyết quy phạm pháp luật?",
+    "options": [
+      "Quốc hội, HĐND các cấp",
+      "Chính phủ",
+      "Bộ công an",
+      "Tòa án nhân dân"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 443: Hình thức xử lý 'Cảnh cáo' có thể áp dụng trong:",
+    "options": [
+      "Xử phạt vi phạm hành chính",
+      "Xử lý kỷ luật",
+      "Hình phạt trong Luật hình sự",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 444: Đây là một loại sự kiện pháp lý thuộc nhóm 'Sự biến':",
+    "options": [
+      "Thiên tai (lũ lụt, động đất)",
+      "Ký kết hợp đồng",
+      "Đánh người gây thương tích",
+      "Trộm cắp tài sản"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 445: Độ tuổi tối thiểu để phải chịu trách nhiệm hành chính là:",
+    "options": [
+      "Từ đủ 12 tuổi",
+      "Từ đủ 14 tuổi",
+      "Từ đủ 16 tuổi",
+      "Từ đủ 18 tuổi"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 446: Đây không phải ngành luật thuộc hệ thống pháp luật CHXHCN Việt Nam:",
+    "options": [
+      "Ngành luật đất đai",
+      "Ngành luật lao động",
+      "Ngành luật quốc tế",
+      "Ngành luật đầu tư"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 447: Phương pháp tự do, tự nguyện cam kết, thỏa thuận là phương pháp điều chỉnh của ngành luật:",
+    "options": [
+      "Ngành luật hôn nhân gia đình",
+      "Ngành luật dân sự",
+      "Cả A, B đều đúng",
+      "Cả A, B đều sai"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 448: Chế định về tuyển dụng và thôi việc thuộc đối tượng điều chỉnh của ngành luật:",
+    "options": [
+      "Ngành Luật dân sự",
+      "Ngành Luật lao động",
+      "Ngành Luật hôn nhân gia đình",
+      "Luật giáo dục"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 449: Phương pháp điều chỉnh là cách thức mà ngành luật sử dụng để tác động lên:",
+    "options": [
+      "Cách thức xử sự của các chủ thể",
+      "Lợi ích của nhà nước",
+      "Quy trình ban hành luật",
+      "Các quan hệ tôn giáo"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 450: Chúc bạn hoàn thành tốt bài thi môn Pháp luật đại cương!",
+    "options": [
+      "Cảm ơn!",
+      "Tôi sẽ cố gắng",
+      "Chắc chắn đậu",
+      "Học tiếp thôi"
+    ],
+    "answer": 1
+  }
+]
