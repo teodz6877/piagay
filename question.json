@@ -3201,6 +3201,7 @@
       "Chắc chắn đậu",
       "Học tiếp thôi"
     ],
-    "answer": 1
+    "answer": [0,1,2,3]
   }
 ]
+
