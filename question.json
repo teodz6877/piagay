@@ -3201,7 +3201,4706 @@
       "Chắc chắn đậu",
       "Học tiếp thôi"
     ],
-    "answer": [0,1,2,3]
+    "answer": [0,1,2,3,4]
+  },
+  {
+    "q": "Câu 451: Anh A (20 tuổi) mượn xe máy của bạn đi chơi và gây tai nạn do phóng nhanh vượt ẩu, làm anh B bị thương tật 15%. Trong trường hợp này, anh A phải chịu trách nhiệm pháp lý nào?",
+    "options": [
+      "Trách nhiệm hình sự và trách nhiệm dân sự (bồi thường)",
+      "Chỉ chịu trách nhiệm hành chính",
+      "Chỉ chịu trách nhiệm dân sự",
+      "Trách nhiệm kỷ luật"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 452: Công ty X sa thải chị Hoa vì chị đang mang thai tháng thứ 5. Chị Hoa nên căn cứ vào luật nào để bảo vệ quyền lợi của mình?",
+    "options": [
+      "Luật Dân sự",
+      "Luật Lao động",
+      "Luật Hình sự",
+      "Luật Hành chính"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 453: Ông M chết không để lại di chúc, có tài sản là 1,2 tỷ đồng. Gia đình có vợ, 2 con đẻ và 1 người con nuôi hợp pháp. Cách chia di sản nào sau đây là đúng luật?",
+    "options": [
+      "Chia đều cho vợ và 2 con đẻ, con nuôi không được hưởng",
+      "Vợ hưởng 1/2, phần còn lại chia cho các con",
+      "Chia đều cho cả 4 người (vợ, 2 con đẻ và 1 con nuôi), mỗi người 300 triệu",
+      "Con đẻ hưởng nhiều hơn con nuôi"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 454: Anh Nam (17 tuổi) tự ý bán chiếc xe máy (tài sản riêng do ông nội tặng) để lấy tiền chơi game mà không hỏi ý kiến cha mẹ. Giao dịch này được coi là:",
+    "options": [
+      "Hợp pháp vì đó là tài sản riêng của anh Nam",
+      "Vô hiệu vì anh Nam chưa có năng lực hành vi dân sự đầy đủ và không có sự đồng ý của người đại diện",
+      "Có hiệu lực nếu người mua không biết anh Nam 17 tuổi",
+      "Hợp pháp vì anh Nam đã đủ tuổi lao động"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 455: Bà Lan đi siêu thị nhặt được một chiếc ví có 50 triệu đồng. Bà không nộp cho công an mà đem về sử dụng. Hành vi của bà Lan là:",
+    "options": [
+      "Hợp pháp vì bà may mắn nhặt được",
+      "Vi phạm pháp luật (Chiếm giữ trái phép tài sản)",
+      "Chỉ vi phạm đạo đức, không vi phạm pháp luật",
+      "Hợp pháp vì không xác định được chủ sở hữu ngay lúc đó"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 456: Chị B bị chồng là anh A đánh đập thường xuyên. Chị B muốn ly hôn nhưng anh A không đồng ý. Chị B cần thực hiện thủ tục nào?",
+    "options": [
+      "Ly hôn thuận tình",
+      "Ly hôn theo yêu cầu của một bên (đơn phương ly hôn) tại Tòa án",
+      "Hủy kết hôn trái pháp luật",
+      "Đợi khi nào anh A đồng ý mới được ly hôn"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 457: Cảnh sát giao thông xử phạt anh H vì lỗi không đội mũ bảo hiểm. Đây là hình thức thực hiện pháp luật nào?",
+    "options": [
+      "Tuân thủ pháp luật",
+      "Thi hành pháp luật",
+      "Sử dụng pháp luật",
+      "Áp dụng pháp luật"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 458: Do mâu thuẫn, ông K thuê anh T đánh dằn mặt đối thủ làm nạn nhân tử vong. Trong vụ án này, ông K đóng vai trò là:",
+    "options": [
+      "Người thực hành",
+      "Người tổ chức (Chủ mưu)",
+      "Người giúp sức",
+      "Người bị hại"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 459: Bạn An là sinh viên thực tập, trong giờ làm việc vô ý làm hỏng máy móc của công ty trị giá 5 triệu đồng. Công ty yêu cầu An bồi thường. Quan hệ này do luật nào điều chỉnh?",
+    "options": [
+      "Luật Hình sự",
+      "Luật Dân sự",
+      "Luật Hành chính",
+      "Luật Hiến pháp"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 460: Anh V mua một căn nhà nhưng chỉ viết tay giấy tờ, không công chứng. Khi tranh chấp xảy ra, hợp đồng này bị tuyên vô hiệu do vi phạm điều kiện gì?",
+    "options": [
+      "Vi phạm về nội dung",
+      "Vi phạm về hình thức",
+      "Vi phạm về chủ thể",
+      "Vi phạm về ý chí tự nguyện"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 461: Một người đàn ông say rượu lái xe đâm vào dải phân cách gây hư hỏng tài sản nhà nước nhưng không gây thương vong về người. Người này bị xử lý:",
+    "options": [
+      "Xử phạt hành chính và bồi thường thiệt hại dân sự",
+      "Phạt tù từ 1 đến 3 năm",
+      "Chỉ cần xin lỗi cơ quan chức năng",
+      "Tịch thu vĩnh viễn xe máy"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 462: Công ty A ký hợp đồng thử việc 3 tháng với một nhân viên kế toán. Hành vi này của công ty là:",
+    "options": [
+      "Đúng luật",
+      "Sai luật (Thời gian thử việc cho vị trí cần trình độ cao đẳng trở lên tối đa là 60 ngày)",
+      "Đúng nếu nhân viên đồng ý",
+      "Sai vì không được phép thử việc quá 1 tháng"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 463: Anh T phát hiện một cán bộ địa phương nhận tiền hối lộ để làm giấy tờ đất. Anh T nên làm gì để thực hiện quyền phòng chống tham nhũng?",
+    "options": [
+      "Tố cáo hành vi với cơ quan có thẩm quyền",
+      "Đăng tin lên mạng xã hội để bôi nhọ",
+      "Im lặng vì sợ bị trả thù",
+      "Yêu cầu cán bộ đó chia một phần tiền"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 464: Chị Mai gửi tiết kiệm tại ngân hàng 500 triệu đồng. Số tiền này được coi là:",
+    "options": [
+      "Tài sản chung của chị và bố mẹ",
+      "Tài sản riêng của chị Mai (nếu có trước khi kết hôn hoặc được tặng cho riêng)",
+      "Tài sản của ngân hàng",
+      "Vật vô chủ"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 465: Một nhóm thanh niên 15 tuổi tổ chức đua xe trái phép gây náo loạn đường phố. Nhóm này bị xử lý pháp luật như thế nào?",
+    "options": [
+      "Chịu trách nhiệm hành chính (phạt cảnh cáo hoặc phạt tiền)",
+      "Chịu trách nhiệm hình sự về tội giết người",
+      "Không bị xử lý vì chưa đủ 18 tuổi",
+      "Chỉ bị nhà trường kỷ luật"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 466: Ông B lập di chúc chia toàn bộ tài sản cho con trai út, không cho con cả và vợ một đồng nào. Tuy nhiên, người vợ hiện không có khả năng lao động. Theo luật:",
+    "options": [
+      "Di chúc có hiệu lực tuyệt đối",
+      "Người vợ vẫn được hưởng một suất thừa kế ít nhất bằng 2/3 suất của một người thừa kế theo pháp luật",
+      "Con trai út phải chia lại cho con cả",
+      "Di chúc bị hủy bỏ hoàn toàn"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 467: Anh Q là nhân viên nhà nước, lợi dụng việc quản lý kho đã lấy 5 chiếc laptop đem bán lấy tiền tiêu xài. Anh Q phạm tội gì?",
+    "options": [
+      "Tội trộm cắp tài sản",
+      "Tội tham ô tài sản",
+      "Tội lừa đảo chiếm đoạt tài sản",
+      "Tội thiếu trách nhiệm gây hậu quả nghiêm trọng"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 468: Tàu cá nước ngoài xâm phạm sâu vào vùng nội thủy của Việt Nam để đánh bắt hải sản trái phép. Việt Nam có quyền gì?",
+    "options": [
+      "Thực hiện quyền chủ quyền hoàn toàn và tuyệt đối để xử lý theo pháp luật Việt Nam",
+      "Chỉ được nhắc nhở rồi cho đi",
+      "Phải xin ý kiến của Liên Hợp Quốc",
+      "Không có quyền bắt giữ"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 469: Anh Hải và chị Yến là anh em họ (con chú con bác ruột) muốn kết hôn với nhau. Pháp luật Việt Nam quy định:",
+    "options": [
+      "Cho phép vì họ không cùng hộ khẩu",
+      "Cấm kết hôn vì là những người có dòng máu trực hệ",
+      "Cấm kết hôn vì là những người có họ trong phạm vi ba đời",
+      "Cho phép nếu gia đình hai bên đồng ý"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 470: Một cửa hàng bán thực phẩm bẩn làm nhiều người bị ngộ độc. Cơ quan chức năng quyết định rút giấy phép kinh doanh của cửa hàng. Đây là hình thức chế tài gì?",
+    "options": [
+      "Chế tài hình sự",
+      "Chế tài dân sự",
+      "Chế tài hành chính",
+      "Chế tài kỷ luật"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 471: Một nhóm thanh niên 16 tuổi rủ nhau đi lấy trộm linh kiện máy tính tại phòng thực hành của trường. Tổng giá trị tài sản là 50 triệu đồng. Trách nhiệm pháp lý của nhóm này là:",
+    "options": [
+      "Chỉ bị xử phạt hành chính vì là học sinh",
+      "Chịu trách nhiệm hình sự về tội trộm cắp tài sản",
+      "Chỉ bị nhà trường kỷ luật đuổi học",
+      "Không phải chịu trách nhiệm vì chưa đủ 18 tuổi"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 472: Chị Lan làm việc tại công ty X theo hợp đồng không xác định thời hạn. Do khó khăn kinh tế, công ty muốn đơn phương chấm dứt hợp đồng với chị. Công ty phải báo trước cho chị Lan bao lâu?",
+    "options": [
+      "Ít nhất 30 ngày",
+      "Ít nhất 45 ngày",
+      "Ít nhất 3 ngày",
+      "Không cần báo trước"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 473: Anh A hứa thưởng 10 triệu đồng cho ai tìm thấy con chó bị thất lạc của mình. Anh B tìm thấy và trả lại. Anh A có nghĩa vụ phải trả tiền cho anh B dựa trên căn cứ nào?",
+    "options": [
+      "Hành vi pháp lý đơn phương",
+      "Hợp đồng dân sự",
+      "Thực hiện công việc không có ủy quyền",
+      "Bồi thường thiệt hại ngoài hợp đồng"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 474: Trong một vụ xô xát, anh M bị anh N dùng dao tấn công. Anh M vơ lấy chiếc ghế gỗ đánh trả khiến anh N gãy tay để tự vệ. Hành vi của anh M được coi là:",
+    "options": [
+      "Tội cố ý gây thương tích",
+      "Phòng vệ chính đáng",
+      "Vượt quá giới hạn phòng vệ chính đáng",
+      "Tình thế cấp thiết"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 475: Ông K là kế toán một cơ quan nhà nước, đã tự lập chứng từ khống để rút 50 triệu đồng tiền ngân sách tiêu xài cá nhân. Hành vi của ông K cấu thành tội:",
+    "options": [
+      "Lạm dụng tín nhiệm chiếm đoạt tài sản",
+      "Lừa đảo chiếm đoạt tài sản",
+      "Tham ô tài sản",
+      "Lợi dụng chức vụ quyền hạn khi thi hành công vụ"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 476: Anh H và chị Y đang làm thủ tục ly hôn. Anh H đơn phương yêu cầu ly hôn vì chị Y bị bệnh tâm thần và thường xuyên có hành vi bạo lực gia đình với anh. Tòa án sẽ:",
+    "options": [
+      "Không giải quyết vì chị Y bị tâm thần",
+      "Bác đơn vì thiếu sự đồng ý của chị Y",
+      "Giải quyết cho anh H ly hôn nếu có căn cứ bạo lực làm ảnh hưởng sức khỏe, tính mạng anh H",
+      "Chờ chị Y khỏi bệnh mới giải quyết"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 477: Công ty B yêu cầu anh nhân viên kĩ thuật thử việc trong 90 ngày cho vị trí cần trình độ chuyên môn kỹ thuật cao. Theo Luật Lao động 2019, thời gian thử việc này là:",
+    "options": [
+      "Đúng luật",
+      "Sai luật (tối đa là 60 ngày)",
+      "Sai luật (tối đa là 30 ngày)",
+      "Đúng nếu hai bên thỏa thuận"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 478: Anh Ba nhặt được một chiếc điện thoại iPhone 15 tại quán cà phê. Anh không trả lại mà đem bán lấy tiền. Chủ máy báo công an. Anh Ba bị xử lý về:",
+    "options": [
+      "Tội trộm cắp tài sản",
+      "Tội công nhiên chiếm đoạt tài sản",
+      "Tội chiếm giữ trái phép tài sản",
+      "Không phạm tội vì là đồ nhặt được"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 479: Ông Nam qua đời để lại di chúc chia tài sản cho người hàng xóm. Tuy nhiên, ông còn một người con trai 10 tuổi. Theo luật, người con này được hưởng:",
+    "options": [
+      "Không được hưởng gì vì không có tên trong di chúc",
+      "Hưởng toàn bộ tài sản",
+      "Ít nhất bằng 2/3 suất của một người thừa kế theo pháp luật",
+      "Hưởng 1/2 tài sản"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 480: Một chiến sĩ cảnh sát giao thông nhận 500.000đ của người vi phạm để không lập biên bản lỗi vượt đèn đỏ. Đây là hành vi:",
+    "options": [
+      "Nhận hối lộ",
+      "Nhũng nhiễu vì vụ lợi",
+      "Lợi dụng chức vụ, quyền hạn khi thi hành công vụ",
+      "Sử dụng trái phép tài sản công"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 481: Anh X mượn xe máy của anh Y. Trong lúc đang đi thì xe bị chập điện tự cháy (sự kiện bất ngờ). Anh X có phải bồi thường xe cho anh Y không?",
+    "options": [
+      "Có bồi thường toàn bộ",
+      "Không bồi thường nếu chứng minh được do lỗi kỹ thuật của xe",
+      "Phải mua xe mới trả",
+      "Phải chịu trách nhiệm hình sự"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 482: Chị Thủy đang nuôi con nhỏ 10 tháng tuổi. Công ty X ra quyết định sa thải chị vì lý do chị thường xuyên đi làm muộn. Quyết định sa thải này là:",
+    "options": [
+      "Đúng quy định công ty",
+      "Trái pháp luật lao động (không được kỷ luật sa thải phụ nữ nuôi con dưới 12 tháng tuổi)",
+      "Đúng nếu công ty đã nhắc nhở nhiều lần",
+      "Chỉ cần bồi thường 1 tháng lương là đúng"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 483: Hai gia đình tranh chấp ranh giới đất đai. Sau khi hòa giải không thành tại UBND xã, các bên nên gửi đơn đến đâu để giải quyết?",
+    "options": [
+      "Công an huyện",
+      "Tòa án nhân dân",
+      "Viện kiểm sát nhân dân",
+      "Sở Tài nguyên và Môi trường"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 484: Anh T (19 tuổi) rủ bạn (15 tuổi) cùng đi cướp giật điện thoại. Trong vụ án này, anh T đóng vai trò là:",
+    "options": [
+      "Người thực hành",
+      "Người xúi giục",
+      "Người giúp sức",
+      "Cả 3 phương án trên tùy theo hành vi cụ thể"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 485: Ông C làm di chúc miệng trước mặt 2 người làm chứng khi đang nguy kịch. Sau đó 5 ngày ông khỏe lại nhưng không lập di chúc văn bản. Sau 3 tháng di chúc miệng này có giá trị không?",
+    "options": [
+      "Vẫn có giá trị vĩnh viễn",
+      "Mặc nhiên bị hủy bỏ (hết thời hạn 3 tháng nếu người lập còn sống)",
+      "Có giá trị nếu người làm chứng xác nhận",
+      "Có giá trị nếu có công chứng sau đó"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 486: Chị Lan mua một chiếc tủ lạnh tại cửa hàng điện máy nhưng chưa kịp chở về thì cửa hàng bị chập điện cháy trụi, chiếc tủ lạnh cũng bị hỏng. Ai phải chịu rủi ro trong trường hợp này?",
+    "options": [
+      "Chị Lan vì đã trả tiền và ký hợp đồng mua bán",
+      "Cửa hàng điện máy vì tài sản chưa được chuyển giao cho người mua",
+      "Cơ quan bảo hiểm cháy nổ",
+      "Chia đôi thiệt hại cho mỗi bên"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 487: Anh Bình (15 tuổi) trộm một chiếc xe đạp của hàng xóm bán lấy 2 triệu đồng để nạp tiền game. Trách nhiệm bồi thường dân sự thuộc về ai?",
+    "options": [
+      "Anh Bình tự bồi thường bằng tài sản riêng",
+      "Cha mẹ anh Bình phải bồi thường; nếu không đủ thì anh Bình bồi thường bằng tài sản riêng (nếu có)",
+      "Người mua chiếc xe đạp phải trả lại",
+      "Hàng xóm tự chịu vì không giữ xe cẩn thận"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 488: Một doanh nghiệp X bị đối thủ cạnh tranh tung tin đồn sai sự thật là sản phẩm có chứa chất gây ung thư, gây thiệt hại hàng tỷ đồng. Doanh nghiệp X nên khởi kiện dựa trên ngành luật nào?",
+    "options": [
+      "Luật Hình sự",
+      "Luật Hành chính",
+      "Luật Dân sự và Luật Cạnh tranh",
+      "Luật Lao động"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 489: Ông nội của T chết để lại di chúc chia tài sản cho T và em trai T. Tuy nhiên, di chúc chỉ có 1 người làm chứng và không được công chứng. Cha của T yêu cầu chia thừa kế theo pháp luật. Yêu cầu của cha T là:",
+    "options": [
+      "Sai, vì di chúc là ý chí của người chết",
+      "Đúng, vì di chúc không hợp pháp về hình thức (thiếu số lượng người làm chứng theo quy định)",
+      "Sai, vì di chúc miệng luôn có giá trị",
+      "Đúng, vì cha T là hàng thừa kế thứ nhất nên có quyền hủy di chúc"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 490: Anh Ba đi làm về thấy nhà hàng xóm bị cháy, anh đã phá cửa vào cứu người và dập lửa, đồng thời làm hỏng một số đồ đạc đắt tiền của hàng xóm. Hàng xóm yêu cầu bồi thường. Theo luật:",
+    "options": [
+      "Anh Ba phải bồi thường vì làm hỏng đồ",
+      "Anh Ba không phải bồi thường vì đây là 'Tình thế cấp thiết'",
+      "Anh Ba và hàng xóm chia đôi thiệt hại",
+      "UBND xã phải bồi thường thay anh Ba"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 491: Chị Hứa (25 tuổi) bị bệnh tâm thần, trong cơn kích động đã đập phá xe ô tô của người đi đường. Trách nhiệm pháp lý của chị Hứa là:",
+    "options": [
+      "Chịu trách nhiệm hình sự về tội hủy hoại tài sản",
+      "Không chịu trách nhiệm hình sự nhưng người giám hộ phải bồi thường dân sự",
+      "Bị phạt hành chính",
+      "Vừa đi tù vừa phải bồi thường"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 492: Một người giúp việc lấy trộm chiếc nhẫn kim cương trị giá 200 triệu đồng của chủ nhà. Sau khi bị phát hiện, người này đã trả lại và xin lỗi. Tình huống này xử lý thế nào?",
+    "options": [
+      "Không bị truy cứu hình sự vì đã trả lại tài sản",
+      "Vẫn bị truy cứu trách nhiệm hình sự về tội trộm cắp tài sản (việc trả lại chỉ là tình tiết giảm nhẹ)",
+      "Chỉ bị phạt hành chính",
+      "Chủ nhà không có quyền báo công an vì tài sản đã thu hồi"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 493: Anh Nam và chị Hoa là đồng nghiệp, cùng góp tiền mua chung một tờ vé số và trúng giải 2 tỷ đồng. Anh Nam giữ vé và đi lãnh thưởng rồi biến mất. Anh Nam phạm tội gì?",
+    "options": [
+      "Trộm cắp tài sản",
+      "Lừa đảo chiếm đoạt tài sản",
+      "Lạm dụng tín nhiệm chiếm đoạt tài sản",
+      "Công nhiên chiếm đoạt tài sản"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 494: Ông A cho ông B vay 1 tỷ đồng, có giấy tay nhưng không ghi ngày trả. Sau 2 năm, ông A cần tiền nên yêu cầu ông B trả ngay trong ngày. Ông B từ chối. Theo luật Dân sự:",
+    "options": [
+      "Ông A có quyền đòi bất cứ lúc nào nhưng phải báo trước cho ông B một thời gian hợp lý",
+      "Ông A không có quyền đòi vì chưa hết hạn",
+      "Ông A phải đợi thêm 3 năm nữa",
+      "Hợp đồng vô hiệu vì không có thời hạn"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 495: Công ty K chuyển anh nhân viên kĩ thuật sang làm tạp vụ trong 2 tháng mà không có sự đồng ý của anh và cũng không gặp khó khăn đột xuất về sản xuất. Hành vi của công ty là:",
+    "options": [
+      "Đúng quyền điều động nhân sự của giám đốc",
+      "Sai luật (chỉ được chuyển lao động làm việc khác tối đa 60 ngày/năm và phải có lý do chính đáng do luật định)",
+      "Đúng nếu vẫn giữ nguyên lương cũ",
+      "Sai vì chỉ được chuyển tối đa 15 ngày"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 496: Anh T đang lái xe đúng luật thì bất ngờ một em bé lao ra đường. Để tránh em bé, anh T đánh lái gấp tông vào cửa hàng ven đường gây thiệt hại 20 triệu đồng. Anh T có phải bồi thường không?",
+    "options": [
+      "Có, bồi thường toàn bộ",
+      "Không, vì đây là tình thế cấp thiết nhằm cứu tính mạng em bé",
+      "Cha mẹ em bé phải bồi thường cho cửa hàng",
+      "Anh T và cha mẹ em bé mỗi bên chịu 50%"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 497: Chị Hà phát hiện chồng mình có hành vi 'rửa tiền' cho một đường dây tội phạm. Chị Hà có nghĩa vụ gì theo Luật Phòng, chống tham nhũng?",
+    "options": [
+      "Có quyền im lặng để bảo vệ hạnh phúc gia đình",
+      "Có trách nhiệm tố cáo hành vi vi phạm pháp luật",
+      "Chỉ báo cáo nếu bị cơ quan chức năng hỏi đến",
+      "Khuyên chồng chia tiền cho mình để cùng hưởng"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 498: Một người nước ngoài phạm tội giết người tại lãnh thổ Việt Nam. Người này sẽ bị xét xử theo:",
+    "options": [
+      "Luật của quốc gia mà người đó mang quốc tịch",
+      "Luật hình sự Việt Nam (trừ trường hợp được hưởng quyền miễn trừ ngoại giao)",
+      "Luật quốc tế",
+      "Tòa án quốc tế tại La Haye"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 499: Anh Nam thuê nhà của ông Ba, hợp đồng 2 năm. Sau 1 năm, ông Ba bán nhà cho bà Tư. Bà Tư yêu cầu anh Nam dọn đi ngay để bà ở. Yêu cầu của bà Tư là:",
+    "options": [
+      "Đúng, vì bà là chủ mới",
+      "Sai, vì hợp đồng thuê nhà vẫn tiếp tục có hiệu lực với chủ sở hữu mới cho đến khi hết hạn",
+      "Đúng nếu ông Ba trả lại tiền cọc",
+      "Sai nếu anh Nam tăng giá tiền thuê"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 500: Chị M làm việc tại công ty may, bị quản đốc mắng chửi xúc phạm danh dự trước mặt nhiều người. Chị M có quyền:",
+    "options": [
+      "Đơn phương chấm dứt hợp đồng lao động ngay lập tức mà không cần báo trước",
+      "Nghỉ việc nhưng phải báo trước 45 ngày",
+      "Đánh lại quản đốc",
+      "Chịu đựng vì sợ mất việc"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 501: Khi ly hôn, tài sản là một căn nhà do anh chồng được cha mẹ tặng cho riêng sau khi cưới 5 năm (có văn bản tặng cho riêng). Chị vợ yêu cầu chia đôi căn nhà. Tòa án sẽ quyết định:",
+    "options": [
+      "Chia đôi vì là tài sản hình thành trong thời kỳ hôn nhân",
+      "Căn nhà thuộc về anh chồng vì là tài sản được tặng cho riêng",
+      "Căn nhà thuộc về chị vợ nếu chị nuôi con",
+      "Bán nhà lấy tiền chia theo tỷ lệ 7:3"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 502: Anh Tuấn vay tiền của bạn nhưng đến hạn không trả. Người bạn đã bắt giữ anh Tuấn trong phòng kín 2 ngày để ép gia đình anh trả nợ. Người bạn này phạm tội:",
+    "options": [
+      "Bắt, giữ hoặc giam người trái pháp luật",
+      "Lừa đảo chiếm đoạt tài sản",
+      "Không phạm tội vì chỉ đòi nợ chính đáng",
+      "Gây rối trật tự công cộng"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 503: Công ty X quy định nhân viên nếu đi trễ 3 lần/tháng sẽ bị trừ 50% lương tháng đó. Quy định này của công ty:",
+    "options": [
+      "Hợp pháp vì đó là nội quy công ty",
+      "Trái pháp luật lao động (không được dùng hình thức phạt tiền, cắt lương thay việc xử lý kỷ luật)",
+      "Đúng nếu nhân viên đã ký cam kết",
+      "Chỉ đúng nếu công ty đang gặp khó khăn"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 504: Bà A chết để lại di chúc chia tài sản cho 2 con trai. Tuy nhiên, 2 người con trai lại ngược đãi bà lúc bà còn sống và đã bị kết án về tội ngược đãi cha mẹ. Họ có được hưởng thừa kế không?",
+    "options": [
+      "Vẫn được hưởng theo di chúc",
+      "Không được hưởng (thuộc trường hợp người không có quyền hưởng di sản)",
+      "Được hưởng một nửa",
+      "Được hưởng nếu họ đã xin lỗi"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 505: Anh Cảnh sát giao thông phát hiện người vi phạm là em họ mình nên chỉ nhắc nhở mà không xử phạt dù lỗi đó bắt buộc phải phạt tiền. Đây là hành vi:",
+    "options": [
+      "Tình cảm anh em nên chấp nhận được",
+      "Hành vi tham nhũng (Lợi dụng chức vụ, quyền hạn trong khi thi hành công vụ vì vụ lợi cá nhân)",
+      "Hành vi sử dụng pháp luật linh hoạt",
+      "Vi phạm dân sự"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 506: Anh A cho anh B thuê một máy phát điện. Anh B tự ý đem bán máy đó cho anh C (anh C tin rằng máy của anh B). Khi anh A đòi lại máy, theo luật Dân sự:",
+    "options": [
+      "Anh A được quyền đòi lại máy từ anh C vì anh B không có quyền bán",
+      "Anh A không được đòi lại máy nếu anh C là người chiếm hữu ngay tình (thông qua giao dịch có đền bù)",
+      "Anh C phải trả máy và anh B phải đền tiền cho anh C",
+      "Anh A và anh C mỗi người chịu một nửa giá trị máy"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 507: Chị Hứa hứa tặng cho cháu mình một chiếc máy tính nếu cháu thi đậu đại học. Khi cháu thi đậu, chị Hứa đổi ý không tặng nữa. Cháu chị Hứa có quyền khởi kiện không?",
+    "options": [
+      "Có quyền khởi kiện yêu cầu thực hiện hợp đồng tặng cho",
+      "Không có quyền vì hợp đồng tặng cho động sản chỉ có hiệu lực từ khi chuyển giao tài sản",
+      "Có quyền yêu cầu bồi thường danh dự",
+      "Có quyền kiện nếu có sự đồng ý của cha mẹ"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 508: Một nhân viên y tế vô ý tiêm nhầm thuốc khiến bệnh nhân tử vong. Trách nhiệm pháp lý của nhân viên này là:",
+    "options": [
+      "Trách nhiệm hình sự về tội vô ý làm chết người do vi phạm quy tắc nghề nghiệp",
+      "Chỉ bị kỷ luật buộc thôi việc",
+      "Chỉ bồi thường dân sự cho gia đình bệnh nhân",
+      "Không bị xử lý vì là tai nạn nghề nghiệp"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 509: Ông An có 3 người con, ông lập di chúc để lại toàn bộ tài sản cho con út. Sau đó ông viết thêm một bản di chúc khác (hợp pháp) để lại tài sản cho con cả. Sau khi ông An mất:",
+    "options": [
+      "Bản di chúc đầu tiên có hiệu lực",
+      "Bản di chúc sau có hiệu lực (di chúc sau thay thế di chúc trước trong phần mâu thuẫn)",
+      "Cả hai bản di chúc đều vô hiệu, chia theo pháp luật",
+      "Tài sản chia đều cho cả 3 người con"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 510: Anh Nam lái xe tải vượt đèn đỏ và tông trúng một người đi xe máy. Anh Nam lập tức đưa nạn nhân đi cấp cứu và nộp tiền tạm ứng viện phí. Hành động này được coi là:",
+    "options": [
+      "Tình tiết giảm nhẹ trách nhiệm hình sự",
+      "Tình tiết loại trừ trách nhiệm hình sự",
+      "Hành vi che giấu tội phạm",
+      "Tình tiết tăng nặng"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 511: Chị Thắm làm việc tại công ty X, do mâu thuẫn cá nhân nên đã tự ý nghỉ việc 6 ngày cộng dồn trong 1 tháng mà không có lý do chính đáng. Công ty X có quyền:",
+    "options": [
+      "Phạt tiền chị Thắm",
+      "Áp dụng hình thức kỷ luật sa thải",
+      "Hạ bậc lương của chị Thắm",
+      "Không được làm gì nếu chị Thắm hứa sửa đổi"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 512: Ông Bách (75 tuổi) vay tiền của anh Hưng. Đến hạn trả nợ ông Bách qua đời. Nghĩa vụ trả nợ sẽ:",
+    "options": [
+      "Chấm dứt vì người vay đã chết",
+      "Những người thừa kế của ông Bách có nghĩa vụ trả nợ trong phạm vi di sản mà ông Bách để lại",
+      "Anh Hưng mất trắng số tiền",
+      "Nhà nước có trách nhiệm trả nợ thay"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 513: Anh T và chị K chung sống như vợ chồng từ năm 2020 nhưng không đăng ký kết hôn. Năm 2023, anh T trúng số 2 tỷ đồng. Khi hai người chia tay, chị K yêu cầu chia đôi số tiền này. Theo luật:",
+    "options": [
+      "Số tiền được chia đôi như tài sản chung vợ chồng",
+      "Số tiền thuộc về anh T, trừ khi chị K chứng minh được có công sức đóng góp tạo lập",
+      "Chị K được hưởng 1/3 số tiền",
+      "Toàn bộ số tiền thuộc về chị K vì anh T là người phụ bạc"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 514: Một bảo vệ trường học phát hiện sinh viên trộm xe máy. Anh bảo vệ đã bắt sinh viên đó và đánh gãy tay sinh viên vì quá bức xúc. Hành vi của bảo vệ là:",
+    "options": [
+      "Hành vi thực thi công vụ đúng đắn",
+      "Vượt quá mức cần thiết trong việc bắt giữ người phạm tội (có thể bị truy cứu hình sự)",
+      "Phòng vệ chính đáng",
+      "Chỉ là vi phạm kỷ luật lao động"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 515: Anh Vượng làm việc trong môi trường độc hại nhưng công ty không trang bị bảo hộ lao động đầy đủ. Anh Vượng có quyền:",
+    "options": [
+      "Từ chối làm việc hoặc rời bỏ nơi làm việc mà vẫn được trả đủ lương",
+      "Tự mua đồ bảo hộ rồi bắt công ty trả tiền gấp đôi",
+      "Đánh người quản lý kho",
+      "Nghỉ việc không cần báo trước và không được nhận lương"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 516: Ông X là Giám đốc doanh nghiệp nhà nước, đã ký hợp đồng mua vật tư với công ty của con trai mình với giá cao hơn thị trường để rút tiền nhà nước. Đây là hành vi:",
+    "options": [
+      "Giúp đỡ người thân phát triển kinh tế",
+      "Hành vi tham nhũng (Lợi dụng chức vụ, quyền hạn gây thiệt hại cho tài sản nhà nước)",
+      "Hoạt động kinh doanh bình thường",
+      "Vi phạm dân sự về hợp đồng"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 517: Anh Khoa nhặt được một chiếc ví có chứa giấy tờ tùy thân và 5 triệu đồng. Anh Khoa nên xử lý thế nào cho đúng luật?",
+    "options": [
+      "Thông báo hoặc trả lại cho chủ sở hữu hoặc giao nộp cho cơ quan công an/UBND gần nhất",
+      "Đợi 1 năm nếu không ai đòi thì mới lấy",
+      "Lấy tiền và vứt ví đi",
+      "Đăng lên mạng xã hội và đòi tiền chuộc 2 triệu đồng"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 518: Chị Mai cho bạn mượn điện thoại, người bạn vô ý làm rơi xuống nước hỏng hoàn toàn. Người bạn đề nghị đền tiền bằng 50% giá trị máy cũ. Chị Mai không đồng ý. Theo nguyên tắc dân sự:",
+    "options": [
+      "Người bạn phải bồi thường toàn bộ thiệt hại thực tế (khôi phục tình trạng ban đầu hoặc đền bù bằng tiền tương đương)",
+      "Người bạn chỉ cần xin lỗi vì là vô ý",
+      "Chị Mai phải tự chịu vì đã tin lầm bạn",
+      "Tòa án sẽ bắt bồi thường 70%"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 519: Một thanh niên 17 tuổi đi làm công nhân, có thu nhập riêng hàng tháng 8 triệu đồng. Thanh niên này muốn tự mua một chiếc xe máy 40 triệu đồng thì:",
+    "options": [
+      "Phải được cha mẹ đồng ý",
+      "Có quyền tự mình xác lập giao dịch vì có tài sản riêng bảo đảm thực hiện nghĩa vụ",
+      "Chỉ được mua nếu xe đứng tên cha mẹ",
+      "Không được phép mua vì chưa đủ 18 tuổi"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 520: Công ty A và công ty B tranh chấp về chất lượng hàng hóa. Trong hợp đồng có điều khoản 'Mọi tranh chấp được giải quyết tại Trọng tài thương mại'. Công ty A lại nộp đơn ra Tòa án. Tòa án sẽ xử lý thế nào?",
+    "options": [
+      "Vẫn thụ lý giải quyết như bình thường",
+      "Từ chối thụ lý (vì các bên đã có thỏa thuận trọng tài có hiệu lực)",
+      "Yêu cầu hai công ty tự hòa giải",
+      "Bắt buộc công ty B phải theo Tòa án"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 521: Chị Vy vay của bà Liên 100 triệu đồng với lãi suất 5%/tháng. Theo luật Dân sự Việt Nam, mức lãi suất này được coi là:",
+    "options": [
+      "Hợp pháp vì hai bên tự nguyện",
+      "Vượt quá mức lãi suất trần (20%/năm), phần vượt quá không có hiệu lực pháp luật",
+      "Chỉ vi phạm đạo đức",
+      "Mức lãi suất bình thường trong kinh doanh"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 522: Anh Sỹ đang đi bộ trên vỉa hè thì bị cây xanh của Công ty công trình đô thị đổ trúng người gây thương tích. Công ty cho rằng đó là do gió to (sự kiện bất khả kháng) nên không bồi thường. Theo luật:",
+    "options": [
+      "Công ty phải bồi thường nếu không chứng minh được mình đã thực hiện mọi biện pháp cắt tỉa, bảo trì cần thiết",
+      "Anh Sỹ tự chịu vì xui xẻo",
+      "Nhà nước bồi thường thay",
+      "Chỉ bồi thường nếu anh Sỹ có bảo hiểm"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 523: Ông nội để lại di chúc cho cháu đích tôn toàn bộ nhà đất nhưng yêu cầu cháu không được bán. Cháu đích tôn sau khi nhận di sản đã đem bán. Hành vi này:",
+    "options": [
+      "Bị pháp luật cấm tuyệt đối",
+      "Hợp pháp, vì sau khi nhận thừa kế cháu đã trở thành chủ sở hữu và có quyền định đoạt tài sản",
+      "Làm di chúc bị vô hiệu",
+      "Cháu phải trả lại tiền cho các cô chú"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 524: Nhân viên bán hàng X bị khách hàng tát vào mặt. Nhân viên X đã đẩy khách hàng ngã dẫn đến chấn thương sọ não. Nhân viên X:",
+    "options": [
+      "Được miễn trách nhiệm vì bị tấn công trước",
+      "Phải chịu trách nhiệm hình sự về tội cố ý gây thương tích do vượt quá giới hạn phòng vệ chính đáng",
+      "Chỉ bị phạt hành chính",
+      "Được công ty khen thưởng vì dũng cảm"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 525: Trong kỳ thi, sinh viên A bị giám thị bắt gặp đang sử dụng tài liệu. Giám thị yêu cầu A nộp 500.000 đồng để 'bỏ qua'. Đây là hành vi:",
+    "options": [
+      "Thỏa thuận dân sự",
+      "Hành vi nhũng nhiễu, đòi hối lộ trong hoạt động giáo dục",
+      "Cách xử lý linh hoạt của thầy cô",
+      "Vi phạm quy chế thi của sinh viên"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 526: Anh An cho anh Bình mượn chiếc laptop để làm tiểu luận. Anh Bình sơ ý để máy bị trộm lấy mất. Anh Bình đề nghị bồi thường bằng một chiếc máy cũ tương đương nhưng anh An đòi máy mới 100%. Giải quyết thế nào?",
+    "options": [
+      "Anh Bình phải đền máy mới vì làm mất đồ của người khác",
+      "Anh Bình chỉ cần bồi thường thiệt hại thực tế (giá trị máy cũ tại thời điểm mất)",
+      "Anh An tự chịu vì cho mượn là rủi ro",
+      "Anh Bình không phải đền nếu đã báo công an"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 527: Một người đi xe máy va chạm với ô tô đang đỗ đúng luật trên vỉa hè khiến người đi xe máy tử vong. Chủ xe ô tô có phải bồi thường không?",
+    "options": [
+      "Có, vì ô tô là nguồn nguy hiểm cao độ nên phải bồi thường kể cả không có lỗi",
+      "Không bồi thường nếu thiệt hại xảy ra hoàn toàn do lỗi của người bị hại",
+      "Phải bồi thường 50% chi phí mai táng",
+      "Cơ quan quản lý đường bộ phải bồi thường"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 528: Công ty X ký hợp đồng lao động với chị M, trong đó có điều khoản 'Nhân viên không được kết hôn trong 2 năm đầu làm việc'. Điều khoản này được coi là:",
+    "options": [
+      "Hợp pháp vì hai bên đã tự nguyện ký kết",
+      "Vô hiệu vì vi phạm quyền tự do hôn nhân của công dân và luật lao động",
+      "Có hiệu lực nếu chị M nhận được phụ cấp 'độc thân'",
+      "Chỉ có hiệu lực đối với nhân viên nữ"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 529: Ông Nam qua đời để lại di chúc bằng văn bản nhưng không có người làm chứng, không được công chứng/chứng thực, tuy nhiên do chính tay ông viết và ký tên. Di chúc này có giá trị không?",
+    "options": [
+      "Vô hiệu hoàn toàn",
+      "Có giá trị pháp lý nếu xác định đúng là do ông Nam viết và ký tên",
+      "Chỉ có giá trị nếu các con của ông đồng ý",
+      "Cần phải có dấu vân tay mới có giá trị"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 530: Anh T bị người lạ tấn công bằng gậy. Anh T tước được gậy và đánh lại khiến người đó ngất xỉu. Khi người đó đã nằm im, anh T vẫn tiếp tục đánh thêm nhiều nhát nữa. Hành vi đánh thêm của anh T là:",
+    "options": [
+      "Phòng vệ chính đáng",
+      "Vượt quá giới hạn phòng vệ chính đáng",
+      "Tình thế cấp thiết",
+      "Sự biến pháp lý"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 531: Một cửa hàng tạp hóa bán thuốc lá cho trẻ em dưới 18 tuổi. Hành vi này bị xử lý như thế nào?",
+    "options": [
+      "Phạt vi phạm hành chính",
+      "Truy cứu trách nhiệm hình sự",
+      "Chỉ bị nhắc nhở",
+      "Tước bằng lái xe của chủ cửa hàng"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 532: Chị Hà làm việc tại một khách sạn. Khách hàng làm mất tài sản và đổ lỗi cho chị Hà lấy cắp (dù chưa có bằng chứng). Khách sạn lập tức sa thải chị Hà. Việc sa thải này là:",
+    "options": [
+      "Đúng để bảo vệ uy tín khách sạn",
+      "Trái pháp luật (sa thải khi chưa có căn cứ hoặc chưa qua quy trình xử lý kỷ luật)",
+      "Đúng nếu khách hàng là người có quyền lực",
+      "Hợp lý nếu khách sạn đền bù 1 tháng lương"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 533: Anh Ba mua một chiếc xe máy cũ qua mạng, trả tiền xong nhưng không làm thủ tục sang tên. Khi xe bị công an thu giữ do liên quan đến vụ án trộm cắp trước đó, anh Ba:",
+    "options": [
+      "Được nhận lại xe vì đã trả tiền mua",
+      "Không được nhận lại xe và có thể mất trắng số tiền nếu không tìm được người bán",
+      "Được nhà nước đền xe mới",
+      "Người chủ cũ phải trả lại tiền cho anh Ba ngay lập tức"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 534: Ông X là chủ tịch xã, đã ưu tiên giải quyết thủ tục nhà đất cho người nhà nhanh hơn quy định để nhận một món quà trị giá 20 triệu đồng. Hành vi này là:",
+    "options": [
+      "Tham nhũng (Nhận hối lộ/Lợi dụng chức vụ)",
+      "Giúp đỡ gia đình là đạo đức tốt",
+      "Vi phạm hành chính thông thường",
+      "Hoạt động ngoại giao địa phương"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 535: Chị Y và anh Z kết hôn đã 10 năm, chị Y bị mất năng lực hành vi dân sự do tai nạn. Anh Z muốn bán căn nhà là tài sản chung của hai vợ chồng để lấy tiền chữa bệnh cho chị. Anh Z phải:",
+    "options": [
+      "Tự mình ký tên bán là đủ",
+      "Yêu cầu Tòa án tuyên bố chị Y mất năng lực hành vi và cử người giám hộ (thường là anh Z) để thực hiện giao dịch",
+      "Không được bán vì phải có chữ ký của chị Y",
+      "Chờ các con đủ 18 tuổi rồi mới bán"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 536: Một nhóm sinh viên đi cắm trại vô ý để lửa cháy lan sang rừng đặc dụng gây thiệt hại lớn. Nhóm sinh viên này chịu trách nhiệm:",
+    "options": [
+      "Chỉ bồi thường dân sự",
+      "Trách nhiệm hình sự về tội vi phạm quy định về phòng cháy chữa cháy",
+      "Chỉ bị phạt hành chính",
+      "Không chịu trách nhiệm vì là vô ý"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 537: Anh Hùng đi làm thêm tại quán trà sữa, chủ quán quy định mỗi lần làm vỡ ly sẽ bị trừ 100.000 đồng vào lương (trong khi giá trị ly chỉ 20.000 đồng). Quy định này:",
+    "options": [
+      "Hợp pháp vì là thỏa thuận ban đầu",
+      "Trái luật lao động (mức bồi thường thiệt hại không được quá giá trị thiệt hại thực tế)",
+      "Đúng để răn đe nhân viên",
+      "Chỉ áp dụng cho nhân viên chính thức"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 538: Ông Ba chết không để lại di chúc. Ông có vợ, 1 con trai đã trưởng thành và 1 người con riêng (có bằng chứng xác nhận cha con). Di sản của ông được chia:",
+    "options": [
+      "Chỉ chia cho vợ và con trai hợp pháp",
+      "Chia đều cho cả vợ, con trai và con riêng (hàng thừa kế thứ nhất)",
+      "Con riêng chỉ được hưởng nếu vợ ông Ba đồng ý",
+      "Toàn bộ thuộc về vợ ông Ba"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 539: Một người thợ xây làm rơi viên gạch từ tầng 3 trúng đầu người đi đường. Người thợ xây cho rằng đó là rủi ro ngoài ý muốn. Theo luật:",
+    "options": [
+      "Người thợ xây phải chịu trách nhiệm hình sự về tội vô ý gây thương tích/làm chết người",
+      "Công ty xây dựng không liên quan",
+      "Người đi đường tự chịu vì không đội mũ bảo hiểm",
+      "Chỉ cần bồi thường tiền thuốc là xong"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 540: Chị Nga thuê phòng trọ, chủ nhà tự ý dùng chìa khóa dự phòng vào phòng chị lúc chị đi vắng để kiểm tra vệ sinh. Hành vi của chủ nhà:",
+    "options": [
+      "Đúng vì chủ nhà có quyền kiểm soát tài sản của mình",
+      "Xâm phạm quyền bất khả xâm phạm về chỗ ở của công dân",
+      "Chỉ vi phạm lịch sự",
+      "Hợp pháp nếu có ghi trong nội quy trọ"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 541: Anh K (16 tuổi) điều chỉnh xe máy điện chạy quá tốc độ gây tai nạn. Cơ quan chức năng xử lý anh K như thế nào?",
+    "options": [
+      "Phạt vi phạm hành chính với mức phạt bằng 1/2 người lớn",
+      "Chỉ nhắc nhở vì chưa đủ 18 tuổi",
+      "Phạt tù 1 năm",
+      "Tịch thu xe vĩnh viễn không cần lý do"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 542: Ông M cho bà N vay tiền, đến hạn bà N không trả và bỏ trốn. Ông M đến nhà bà N tự ý siết nợ bộ bàn ghế gỗ quý. Hành vi của ông M là:",
+    "options": [
+      "Hợp pháp để đòi lại quyền lợi chính đáng",
+      "Vi phạm pháp luật (xâm phạm tài sản người khác/gây rối trật tự)",
+      "Đúng nếu có sự chứng kiến của hàng xóm",
+      "Chỉ vi phạm hành chính"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 543: Trong một cuộc thi đấu võ thuật chuyên nghiệp theo đúng quy định, vận động viên A đánh vận động viên B bị thương nặng. Vận động viên A:",
+    "options": [
+      "Phải chịu trách nhiệm hình sự",
+      "Không chịu trách nhiệm hình sự (vì thực hiện hành vi trong phạm vi quy tắc thi đấu thể thao được phép)",
+      "Phải bồi thường toàn bộ viện phí",
+      "Bị cấm thi đấu vĩnh viễn"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 544: Doanh nghiệp A xả nước thải chưa qua xử lý ra sông làm chết cá của các hộ dân nuôi lồng bè. Doanh nghiệp A phải:",
+    "options": [
+      "Bị xử phạt hành chính và bồi thường thiệt hại cho các hộ dân",
+      "Chỉ cần nộp phạt cho nhà nước là đủ",
+      "Không phải bồi thường vì sông là của chung",
+      "Chỉ cần xin lỗi và hứa khắc phục"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 545: Anh P đi mua hàng, nhân viên thu ngân trả nhầm thừa 1 triệu đồng. Anh P biết nhưng vẫn cầm lấy và bỏ đi. Đây là hành vi:",
+    "options": [
+      "May mắn cá nhân",
+      "Chiếm giữ tài sản của người khác không có căn cứ pháp luật (có nghĩa vụ hoàn trả)",
+      "Lừa đảo chiếm đoạt tài sản",
+      "Hợp pháp vì lỗi thuộc về nhân viên"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 546: Một học sinh 14 tuổi dùng đá ném vỡ kính xe ô tô đang chạy. Trách nhiệm bồi thường thuộc về:",
+    "options": [
+      "Bản thân học sinh đó",
+      "Cha mẹ hoặc người giám hộ của học sinh",
+      "Nhà trường vì không giáo dục tốt",
+      "Chủ xe ô tô tự chịu rủi ro"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 547: Anh Việt ký hợp đồng lao động thử việc với công ty. Sau 1 tuần, anh cảm thấy không phù hợp nên muốn nghỉ việc ngay. Anh Việt có phải báo trước không?",
+    "options": [
+      "Phải báo trước 30 ngày",
+      "Có quyền nghỉ ngay mà không cần báo trước và không phải bồi thường (trong thời gian thử việc)",
+      "Phải bồi thường 1 tháng lương",
+      "Chỉ được nghỉ nếu công ty tìm được người thay"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 548: Bà Lan nhặt được một con bò bị lạc của nhà hàng xóm. Bà nuôi giữ và chăm sóc con bò đó trong 1 tháng. Khi chủ con bò đến nhận lại, bà Lan có quyền:",
+    "options": [
+      "Đòi tiền công nuôi giữ và chi phí mua cỏ cho bò",
+      "Giữ luôn con bò đó",
+      "Đòi một nửa giá trị con bò",
+      "Không được đòi hỏi gì"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 549: Anh Q mượn xe máy của anh S để đi công việc. Trên đường đi, anh Q cho anh T mượn lại xe đó. Anh T gây tai nạn làm hỏng xe. Ai là người chịu trách nhiệm bồi thường cho anh S?",
+    "options": [
+      "Anh T trực tiếp bồi thường",
+      "Anh Q (vì anh S giao xe cho anh Q nên anh Q có nghĩa vụ trả lại xe nguyên vẹn)",
+      "Cả anh Q và anh T liên đới bồi thường",
+      "Anh S tự chịu vì giao xe cho người không tin tưởng"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 550: Một cán bộ bệnh viện yêu cầu người nhà bệnh nhân phải nộp thêm 'phí bồi dưỡng' 2 triệu đồng thì mới tiến hành phẫu thuật nhanh. Đây là hành vi:",
+    "options": [
+      "Sách nhiễu, gây phiền hà nhằm trục lợi (Tham nhũng)",
+      "Phụ phí hợp lý",
+      "Quy định riêng của bệnh viện",
+      "Thỏa thuận thuận mua thuận bán"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 551: Chị An mua một chiếc váy qua mạng nhưng khi nhận hàng thì kiểu dáng hoàn toàn khác với ảnh quảng cáo. Chị An có quyền:",
+    "options": [
+      "Đơn phương chấm dứt hợp đồng mua bán và yêu cầu hoàn tiền do bên bán vi phạm nghĩa vụ giao hàng đúng mẫu",
+      "Phải nhận vì đã lỡ đặt",
+      "Bị mất tiền cọc",
+      "Kiện ra tòa án quốc tế"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 552: Một người lái xe buýt đang chạy thì phát hiện phanh bị hỏng. Để tránh đâm vào đám đông, tài xế đã đâm vào một chiếc xe hơi đắt tiền đỗ ven đường. Đây là:",
+    "options": [
+      "Tình thế cấp thiết (không phải bồi thường nếu thiệt hại gây ra nhỏ hơn thiệt hại được ngăn chặn)",
+      "Tội hủy hoại tài sản",
+      "Lỗi của tài xế vì không kiểm tra xe",
+      "Sự kiện bất ngờ"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 553: Anh D và chị E là vợ chồng. Anh D tự ý bán chiếc xe hơi là tài sản chung của hai người để lấy tiền đầu tư tiền ảo mà chị E không biết. Giao dịch bán xe này:",
+    "options": [
+      "Có hiệu lực tuyệt đối",
+      "Có thể bị tuyên vô hiệu vì tài sản chung vợ chồng khi định đoạt phải có sự thỏa thuận của cả hai",
+      "Luôn đúng vì anh D là chủ gia đình",
+      "Hợp pháp nếu người mua trả giá cao"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 554: Ông A chết để lại di sản 900 triệu đồng. Hàng thừa kế thứ nhất gồm vợ và 2 con. Lúc còn sống ông A nợ anh B 300 triệu đồng. Cách giải quyết đúng là:",
+    "options": [
+      "Chia mỗi người thừa kế 300 triệu, nợ của ông A xóa bỏ",
+      "Trích 300 triệu từ di sản trả cho anh B, còn 600 triệu chia đều cho vợ và 2 con",
+      "Mỗi người thừa kế nhận 300 triệu rồi mỗi người trả anh B 100 triệu",
+      "Vợ ông A phải trả hết nợ bằng tiền riêng của bà"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 555: Công ty X yêu cầu nhân viên phải làm thêm giờ (tăng ca) 4 tiếng mỗi ngày liên tục trong 1 tháng. Việc này:",
+    "options": [
+      "Đúng nếu trả lương đầy đủ",
+      "Sai luật (vi phạm giới hạn tối đa số giờ làm thêm trong ngày và trong tháng theo quy định)",
+      "Hợp lý vào mùa cao điểm",
+      "Chỉ sai nếu nhân viên không đồng ý"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 556: Anh Nam thuê thợ đến sửa mái nhà. Thợ sơ suất làm rơi búa trúng người qua đường. Trách nhiệm bồi thường ban đầu thuộc về:",
+    "options": [
+      "Anh Nam (chủ nhà)",
+      "Người thợ trực tiếp làm rơi",
+      "Người qua đường tự chịu",
+      "Công ty bảo hiểm"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 557: Một người bạn gửi anh Tuấn giữ hộ 1 lượng vàng. Anh Tuấn đã tự ý đem bán lượng vàng đó khi giá cao, định bụng khi giá hạ sẽ mua lại trả bạn. Đây là hành vi:",
+    "options": [
+      "Đầu tư thông minh",
+      "Lạm dụng tín nhiệm chiếm đoạt tài sản",
+      "Sử dụng tài sản hợp pháp",
+      "Vi phạm hành chính"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 558: Chị M đang mang thai thì chồng bị tai nạn qua đời. Khi chia di sản của chồng, chị M đang mang thai 5 tháng. Thai nhi này có được hưởng thừa kế không?",
+    "options": [
+      "Không, vì chưa sinh ra",
+      "Có, nếu sinh ra và còn sống sau khi sinh (được dành một suất thừa kế)",
+      "Được hưởng 1/2 suất",
+      "Chỉ được hưởng nếu có tên trong di chúc"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 559: Anh H được công ty cử đi học tập tại nước ngoài với kinh phí 200 triệu đồng, cam kết làm việc 5 năm. Sau 2 năm anh H xin nghỉ việc. Anh H phải:",
+    "options": [
+      "Đền bù toàn bộ 200 triệu",
+      "Hoàn trả chi phí đào tạo tương ứng với thời gian chưa làm việc theo cam kết",
+      "Không phải đền vì đã làm được 2 năm",
+      "Bị tước bằng cấp"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 560: Một cán bộ hải quan gợi ý doanh nghiệp 'chi tiền cà phê' để thông quan hàng hóa nhanh hơn dù hồ sơ đã hợp lệ. Đây là hành vi:",
+    "options": [
+      "Hành vi nhũng nhiễu (Tham nhũng)",
+      "Phí dịch vụ nhanh",
+      "Giao dịch dân sự",
+      "Văn hóa công sở"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 561: Anh A mượn tiền anh B nhưng viết giấy tay ghi là 'Hợp đồng đặt cọc mua đất'. Thực chất là vay tiền. Đây là loại giao dịch gì?",
+    "options": [
+      "Giao dịch dân sự vô hiệu do giả tạo",
+      "Hợp đồng đặt cọc hợp pháp",
+      "Giao dịch có điều kiện",
+      "Hợp đồng mua bán đất"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 562: Một người đàn ông thấy một đứa trẻ bị đuối nước nhưng vì sợ ướt quần áo nên không xuống cứu dù anh ta biết bơi giỏi. Đứa trẻ tử vong. Người này:",
+    "options": [
+      "Không phạm tội vì không có nghĩa vụ cứu",
+      "Phạm tội không cứu giúp người đang ở trong tình trạng nguy hiểm đến tính mạng",
+      "Chỉ vi phạm đạo đức",
+      "Bị phạt hành chính 500.000đ"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 563: Chị Hoa đi làm tại văn phòng, bị sếp ép làm việc đến 22 giờ tối mà không tính lương tăng ca. Sếp nói đó là 'trách nhiệm'. Chị Hoa có quyền:",
+    "options": [
+      "Khiếu nại và yêu cầu trả lương làm thêm giờ theo đúng quy định",
+      "Bắt buộc phải làm theo sếp",
+      "Nghỉ việc ngay mà không báo trước",
+      "Lấy đồ của công ty về trừ nợ"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 564: Một người bán hàng rong bị dân phòng thu giữ phương tiện và hàng hóa mà không có biên bản. Hành vi của dân phòng là:",
+    "options": [
+      "Làm đúng để dẹp lòng lề đường",
+      "Vi phạm thủ tục hành chính (phải có biên bản và quyết định tạm giữ)",
+      "Đúng nếu người bán hàng bỏ chạy",
+      "Chỉ là sơ suất nhỏ"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 565: Anh T thuê xe tự lái và gây tai nạn do lỗi kỹ thuật của xe (đứt phanh). Trách nhiệm bồi thường cho bên thứ ba bị thiệt hại thuộc về:",
+    "options": [
+      "Anh T trực tiếp",
+      "Chủ xe/Công ty cho thuê xe (chủ sở hữu nguồn nguy hiểm cao độ)",
+      "Hãng sản xuất xe",
+      "Chia đều cho anh T và chủ xe"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 566: Ông B lập di chúc chia tài sản cho các con, nhưng sau đó các con không chăm sóc ông. Ông B đem bán hết tài sản lấy tiền đi du lịch và từ thiện. Việc này:",
+    "options": [
+      "Bị cấm vì đã có di chúc",
+      "Hợp pháp, vì người lập di chúc có quyền thay đổi, hủy bỏ di chúc hoặc định đoạt tài sản lúc còn sống",
+      "Làm ông B bị kiện",
+      "Các con có quyền đòi lại tiền từ thiện"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 567: Một sinh viên bị nhà trường kỷ luật đình chỉ học tập 1 năm vì gian lận trong thi cử. Đây là hình thức:",
+    "options": [
+      "Chế tài hình sự",
+      "Chế tài kỷ luật",
+      "Chế tài hành chính",
+      "Chế tài dân sự"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 568: Anh Nam phát hiện mình bị camera an ninh của một cửa hàng quay lại hình ảnh riêng tư và cửa hàng đó đăng lên mạng để câu view. Anh Nam có quyền:",
+    "options": [
+      "Yêu cầu gỡ bỏ và bồi thường thiệt hại do xâm phạm quyền hình ảnh cá nhân",
+      "Không làm gì được vì nơi công cộng",
+      "Chỉ được yêu cầu xin lỗi",
+      "Đến đập phá camera đó"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 569: Theo luật Phòng chống tham nhũng, người đứng đầu cơ quan để xảy ra tham nhũng trong đơn vị mình quản lý thì:",
+    "options": [
+      "Không liên quan nếu không trực tiếp làm",
+      "Phải chịu trách nhiệm kỷ luật hoặc trách nhiệm hình sự tùy mức độ",
+      "Chỉ bị nhắc nhở rút kinh nghiệm",
+      "Được miễn trách nhiệm nếu báo cáo sớm"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 570: Khi giải quyết tranh chấp dân sự, nếu không có quy định của pháp luật và các bên không có thỏa thuận, Tòa án có thể áp dụng:",
+    "options": [
+      "Tập quán, tương tự pháp luật hoặc các nguyên tắc cơ bản của luật dân sự",
+      "Luật của nước láng giềng",
+      "Ý kiến của đa số người dân",
+      "Quyết định của công an"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 571: Theo quan điểm của chủ nghĩa Mác-Lênin, nhà nước là một hiện tượng:",
+    "options": [
+      "Vĩnh cửu, bất biến",
+      "Xuất hiện và tồn tại cùng với sự xuất hiện của con người",
+      "Có tính lịch sử, chỉ ra đời khi có những điều kiện kinh tế - xã hội nhất định",
+      "Do sự phát triển của tư duy con người tạo nên"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 572: Tổ chức nào sau đây có quyền ban hành pháp luật và buộc mọi thành viên trong xã hội phải tuân theo?",
+    "options": [
+      "Đảng Cộng sản",
+      "Công đoàn",
+      "Nhà nước",
+      "Đoàn Thanh niên"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 573: Đặc điểm nào phân biệt Nhà nước với các tổ chức khác trong xã hội có giai cấp?",
+    "options": [
+      "Có mục đích hoạt động",
+      "Có người đứng đầu",
+      "Có quyền thu thuế và phát hành tiền",
+      "Có trụ sở làm việc"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 574: Chủ quyền quốc gia bao gồm những nội dung nào?",
+    "options": [
+      "Quyền tự quyết về đối nội",
+      "Quyền tự quyết về đối ngoại",
+      "Sự độc lập, tự giữ vững chủ quyền trong quan hệ quốc tế",
+      "Cả A, B và C"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 575: Theo quan điểm Mác-Lênin, nhà nước sẽ:",
+    "options": [
+      "Tồn tại mãi mãi",
+      "Tự tiêu vong khi các điều kiện khách quan cho sự tồn tại của nó không còn",
+      "Bị tiêu diệt bởi một thế lực siêu nhiên",
+      "Luôn luôn thay đổi hình thức nhưng không bao giờ mất đi"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 576: Sự ra đời của nhà nước theo quan điểm Mác-Lênin là kết quả của:",
+    "options": [
+      "2 lần phân công lao động xã hội",
+      "3 lần phân công lao động xã hội",
+      "Sự thỏa thuận của các thành viên trong xã hội",
+      "Sự tự nguyện của các thị tộc"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 577: 'Quyền lực chính trị đặc biệt' của nhà nước được thể hiện qua yếu tố nào?",
+    "options": [
+      "Quân đội, cảnh sát, nhà tù",
+      "Các tổ chức thiện nguyện",
+      "Các câu lạc bộ sở thích",
+      "Các quy tắc đạo đức"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 578: Nhà nước thực hiện thu thuế nhằm mục đích chính là:",
+    "options": [
+      "Làm giàu cho cán bộ nhà nước",
+      "Duy trì bộ máy và giải quyết các công việc chung của xã hội",
+      "Trừng phạt những người giàu",
+      "Tích lũy vốn để cho vay lấy lãi"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 579: Thuyết nào cho rằng Nhà nước ra đời từ một bản hợp đồng giữa con người với nhau?",
+    "options": [
+      "Thuyết Thần quyền",
+      "Thuyết Gia trưởng",
+      "Thuyết Khế ước xã hội",
+      "Thuyết Bạo lực"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 580: Yếu tố nào sau đây là căn cứ để xác định phạm vi thực thi quyền lực nhà nước?",
+    "options": [
+      "Dân số",
+      "Lãnh thổ",
+      "Số lượng đảng viên",
+      "Quy mô nền kinh tế"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 581: Bản chất giai cấp của nhà nước thể hiện ở chỗ:",
+    "options": [
+      "Nhà nước là công cụ để bảo vệ lợi ích của mọi tầng lớp",
+      "Nhà nước là bộ máy trấn áp giai cấp này đối với giai cấp khác",
+      "Nhà nước chỉ quan tâm đến người nghèo",
+      "Nhà nước không đứng về phía giai cấp nào"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 582: Vai trò xã hội của nhà nước thể hiện ở việc:",
+    "options": [
+      "Trấn áp những người chống đối",
+      "Bảo vệ lợi ích của giai cấp thống trị",
+      "Quản lý các công việc chung vì sự tồn tại và phát triển của xã hội",
+      "Xây dựng quân đội mạnh"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 583: Chức năng đối nội của nhà nước là:",
+    "options": [
+      "Tham gia các tổ chức quốc tế",
+      "Thiết lập quan hệ ngoại giao",
+      "Đảm bảo trật tự an toàn xã hội trong nước",
+      "Phòng thủ đất nước"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 584: Mối quan hệ giữa chức năng đối nội và đối ngoại là:",
+    "options": [
+      "Đối nội quyết định đối ngoại",
+      "Đối ngoại quyết định đối nội",
+      "Hai chức năng này độc lập hoàn toàn",
+      "Đối nội là kết quả của đối ngoại"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 585: Hình thức thực hiện chức năng nhà nước bao gồm:",
+    "options": [
+      "Lập pháp, hành pháp và tư pháp",
+      "Xây dựng pháp luật, tổ chức thực hiện pháp luật và bảo vệ pháp luật",
+      "Thuyết phục và cưỡng chế",
+      "Cả A và B đều đúng"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 586: Tính xã hội của nhà nước càng được mở rộng thì:",
+    "options": [
+      "Nhà nước càng trở nên độc tài",
+      "Nhà nước càng thể hiện rõ vai trò phục vụ nhân dân",
+      "Nhà nước sẽ nhanh chóng bị sụp đổ",
+      "Tính giai cấp sẽ hoàn toàn mất đi ngay lập tức"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 587: Hoạt động nào sau đây thuộc chức năng đối ngoại?",
+    "options": [
+      "Phổ cập giáo dục tiểu học",
+      "Chống buôn lậu qua biên giới",
+      "Hỗ trợ người dân vùng lũ lụt",
+      "Xử lý vi phạm giao thông"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 588: Kiểu nhà nước nào là kiểu nhà nước cuối cùng trong lịch sử?",
+    "options": [
+      "Nhà nước Phong kiến",
+      "Nhà nước Tư sản",
+      "Nhà nước Xã hội chủ nghĩa",
+      "Nhà nước Chủ nô"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 589: Sự thay thế các kiểu nhà nước trong lịch sử là một quá trình:",
+    "options": [
+      "Ngẫu nhiên",
+      "Tuần hoàn",
+      "Quy luật khách quan gắn liền với sự thay thế các hình thái kinh tế - xã hội",
+      "Do ý muốn của các vĩ nhân"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 590: Nhà nước khác với thị tộc ở điểm nào?",
+    "options": [
+      "Có sự phân chia cư dân theo lãnh thổ",
+      "Có hội đồng thị tộc",
+      "Có sự quản lý dựa trên huyết thống",
+      "Có các quy tắc tập quán"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 591: Hình thức chính thể là:",
+    "options": [
+      "Cách thức tổ chức các cơ quan quyền lực cao nhất",
+      "Cách thức chia đơn vị hành chính lãnh thổ",
+      "Cách thức thực hiện quyền lực chính trị",
+      "Tên gọi của quốc gia"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 592: Chính thể quân chủ tuyệt đối là:",
+    "options": [
+      "Quyền lực tối cao thuộc về một người theo nguyên tắc thừa kế và có giới hạn",
+      "Quyền lực tối cao thuộc về một người theo nguyên tắc thừa kế và không bị hạn chế",
+      "Quyền lực thuộc về một nhóm người do dân bầu",
+      "Quyền lực thuộc về Quốc hội"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 593: Việt Nam có hình thức chính thể nào?",
+    "options": [
+      "Quân chủ lập hiến",
+      "Cộng hòa dân chủ nhân dân",
+      "Cộng hòa xã hội chủ nghĩa",
+      "Cộng hòa tổng thống"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 594: Nhà nước đơn nhất là nhà nước:",
+    "options": [
+      "Có hai hệ thống cơ quan nhà nước và hai hệ thống pháp luật",
+      "Có một chủ quyền chung, một hệ thống cơ quan nhà nước và pháp luật thống nhất",
+      "Được hợp thành từ nhiều bang thành viên",
+      "Không có hiến pháp riêng"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 595: Chế độ chính trị là:",
+    "options": [
+      "Cách thức tổ chức bộ máy nhà nước",
+      "Tổng thể các phương pháp, thủ đoạn mà nhà nước sử dụng để thực hiện quyền lực",
+      "Cách thức bầu cử đại biểu Quốc hội",
+      "Các quy định về kinh tế"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 596: Hình thức cấu trúc của Nhà nước Việt Nam là:",
+    "options": [
+      "Nhà nước liên bang",
+      "Nhà nước đơn nhất",
+      "Nhà nước liên minh",
+      "Nhà nước cộng hòa"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 597: Chính thể Cộng hòa Đại nghị có đặc điểm:",
+    "options": [
+      "Tổng thống vừa là người đứng đầu nhà nước, vừa đứng đầu chính phủ",
+      "Chính phủ do Nghị viện lập ra và chịu trách nhiệm trước Nghị viện",
+      "Nhà vua nắm mọi quyền lực",
+      "Người dân trực tiếp bầu ra Thủ tướng"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 598: Trong hình thức chính thể Cộng hòa, quyền lực nhà nước được nắm giữ bởi:",
+    "options": [
+      "Một người duy nhất suốt đời",
+      "Một cơ quan được bầu ra trong một thời hạn nhất định",
+      "Các tổ chức tôn giáo",
+      "Các tập đoàn kinh tế"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 599: Hoa Kỳ (Mỹ) là ví dụ điển hình của:",
+    "options": [
+      "Nhà nước đơn nhất",
+      "Nhà nước liên bang",
+      "Nhà nước quân chủ",
+      "Nhà nước xã hội chủ nghĩa"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 600: Phương pháp dân chủ và phương pháp phản dân chủ thuộc về yếu tố nào của hình thức nhà nước?",
+    "options": [
+      "Hình thức chính thể",
+      "Hình thức cấu trúc",
+      "Chế độ chính trị",
+      "Bản chất nhà nước"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 601: Nhà nước pháp quyền là nhà nước:",
+    "options": [
+      "Đặt pháp luật lên vị trí tối thượng để quản lý xã hội",
+      "Chỉ dùng sự cưỡng chế để quản lý",
+      "Không cần đến Hiến pháp",
+      "Quyền lực tập trung hết vào tay một cá nhân"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 602: Quyền lực nhà nước Việt Nam được tổ chức theo nguyên tắc:",
+    "options": [
+      "Phân chia rạch ròi thành 3 quyền độc lập",
+      "Thống nhất, có sự phân công, phối hợp, kiểm soát giữa các cơ quan",
+      "Tập trung tuyệt đối vào Chính phủ",
+      "Chỉ tập trung vào Tòa án"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 603: Cơ quan quyền lực nhà nước cao nhất của nước ta là:",
+    "options": [
+      "Chính phủ",
+      "Tòa án nhân dân tối cao",
+      "Quốc hội",
+      "Chủ tịch nước"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 604: Đảng Cộng sản Việt Nam lãnh đạo Nhà nước thông qua:",
+    "options": [
+      "Việc ban hành các văn bản pháp luật",
+      "Việc bắt giữ người vi phạm",
+      "Đường lối, chủ trương và công tác cán bộ",
+      "Việc trực tiếp xét xử các vụ án"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 605: Hệ thống chính trị Việt Nam bao gồm:",
+    "options": [
+      "Đảng, Nhà nước, Mặt trận Tổ quốc và các tổ chức chính trị - xã hội",
+      "Quốc hội, Chính phủ, Tòa án",
+      "Các tập đoàn kinh tế và ngân hàng",
+      "Các hiệp hội nghề nghiệp"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 606: Cơ quan hành chính nhà nước cao nhất của nước ta là:",
+    "options": [
+      "Quốc hội",
+      "Chính phủ",
+      "Ủy ban nhân dân các cấp",
+      "Bộ Công an"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 607: Hiến pháp 2013 quy định Kiểm sát nhân dân có chức năng:",
+    "options": [
+      "Xét xử các vụ án hình sự",
+      "Thực hành quyền công tố và kiểm sát hoạt động tư pháp",
+      "Ban hành luật",
+      "Quản lý kinh tế"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 608: Hội đồng nhân dân là:",
+    "options": [
+      "Cơ quan hành chính ở địa phương",
+      "Cơ quan quyền lực nhà nước ở địa phương",
+      "Cơ quan tư pháp ở địa phương",
+      "Cơ quan của Đảng ở địa phương"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 609: Chủ tịch nước nước Cộng hòa XHCN Việt Nam do ai bầu?",
+    "options": [
+      "Nhân dân trực tiếp bầu",
+      "Quốc hội bầu trong số đại biểu Quốc hội",
+      "Chính phủ bổ nhiệm",
+      "Đảng Cộng sản chỉ định"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 610: Tòa án nhân dân có nhiệm vụ chính là:",
+    "options": [
+      "Quản lý trật tự giao thông",
+      "Bảo vệ công lý, bảo vệ quyền con người, quyền công dân thông qua hoạt động xét xử",
+      "Thu thuế của người dân",
+      "Tổ chức các hoạt động văn hóa"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 611: Việc bầu cử đại biểu Quốc hội và đại biểu HĐND được tiến hành theo nguyên tắc:",
+    "options": [
+      "Phổ thông, bình đẳng, trực tiếp và bỏ phiếu kín",
+      "Phổ thông, công khai, nhanh chóng",
+      "Chỉ dành cho những người có học hàm, học vị cao",
+      "Do nhà nước chỉ định"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 612: Nhà nước pháp quyền XHCN Việt Nam mang bản chất của giai cấp nào?",
+    "options": [
+      "Giai cấp nông dân",
+      "Giai cấp công nhân",
+      "Tầng lớp trí thức",
+      "Toàn thể nhân dân lao động"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 613: Ai là người đứng đầu Chính phủ nước ta hiện nay?",
+    "options": [
+      "Chủ tịch nước",
+      "Thủ tướng Chính phủ",
+      "Chủ tịch Quốc hội",
+      "Tổng Bí thư"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 614: Ủy ban nhân dân các cấp do ai bầu ra?",
+    "options": [
+      "Nhân dân địa phương trực tiếp bầu",
+      "Hội đồng nhân dân cùng cấp bầu",
+      "Chủ tịch nước bổ nhiệm",
+      "Quốc hội phê chuẩn"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 615: 'Thực hiện dân chủ xã hội chủ nghĩa' là:",
+    "options": [
+      "Phát huy quyền làm chủ của nhân dân",
+      "Cho phép nhân dân làm bất cứ điều gì mình thích",
+      "Chỉ có cán bộ mới có quyền dân chủ",
+      "Dân chủ chỉ trên lý thuyết"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 616: Một trong những đặc điểm của Nhà nước pháp quyền XHCN Việt Nam là:",
+    "options": [
+      "Không thừa nhận quyền con người",
+      "Tôn trọng và bảo đảm quyền con người, quyền công dân",
+      "Pháp luật chỉ dùng để trừng phạt dân nghèo",
+      "Nhà nước đứng trên pháp luật"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 617: Cơ quan nào có quyền sửa đổi Hiến pháp?",
+    "options": [
+      "Chính phủ",
+      "Tòa án nhân dân tối cao",
+      "Quốc hội",
+      "Viện kiểm sát nhân dân tối cao"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 618: Mối quan hệ giữa Nhà nước và Công dân được thể hiện qua:",
+    "options": [
+      "Quyền và nghĩa vụ pháp lý của đôi bên",
+      "Sự ban ơn của Nhà nước",
+      "Sự phục tùng tuyệt đối không điều kiện của công dân",
+      "Không có mối quan hệ nào"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 619: Các tổ chức chính trị - xã hội ở Việt Nam có vai trò:",
+    "options": [
+      "Thay thế Nhà nước quản lý xã hội",
+      "Tập hợp, đoàn kết các tầng lớp nhân dân và tham gia quản lý nhà nước",
+      "Ban hành pháp luật",
+      "Cưỡng chế các thành viên"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 620: Mục tiêu cuối cùng của Nhà nước XHCN Việt Nam là:",
+    "options": [
+      "Trở thành cường quốc quân sự",
+      "Dân giàu, nước mạnh, dân chủ, công bằng, văn minh",
+      "Thu được thật nhiều thuế",
+      "Mở rộng lãnh thổ"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 621: Theo quan điểm của chủ nghĩa Mác-Lênin, pháp luật có nguồn gốc từ:",
+    "options": [
+      "Ý chí của Thượng đế",
+      "Sự thỏa thuận giữa các cá nhân trong xã hội",
+      "Những điều kiện kinh tế - xã hội dẫn đến sự ra đời của nhà nước",
+      "Sự phát triển tự nhiên của đạo đức con người"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 622: Đặc điểm nào sau đây thể hiện tính quyền lực nhà nước của pháp luật?",
+    "options": [
+      "Tính hệ thống",
+      "Tính phổ biến",
+      "Tính cưỡng chế",
+      "Tính minh bạch"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 623: Bản chất giai cấp của pháp luật thể hiện ở việc pháp luật phản ánh:",
+    "options": [
+      "Ý chí của giai cấp thống trị",
+      "Ý chí của mọi tầng lớp trong xã hội",
+      "Ý chí của các tổ chức tôn giáo",
+      "Ý chí của các nhà khoa học"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 624: Pháp luật và Đạo đức có điểm chung nào sau đây?",
+    "options": [
+      "Đều là các quy tắc xử sự chung để điều chỉnh quan hệ xã hội",
+      "Đều do nhà nước ban hành",
+      "Đều được bảo đảm bằng sự cưỡng chế nhà nước",
+      "Đều được thể hiện bằng văn bản quy phạm pháp luật"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 625: Hình thức pháp luật nào là nguồn chủ yếu của pháp luật Việt Nam hiện nay?",
+    "options": [
+      "Tập quán pháp",
+      "Tiền lệ pháp (Án lệ)",
+      "Văn bản quy phạm pháp luật",
+      "Quy tắc của các hiệp hội"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 626: Quy phạm pháp luật là quy tắc xử sự chung do ai ban hành?",
+    "options": [
+      "Các tổ chức xã hội",
+      "Nhà nước",
+      "Các công ty đa quốc gia",
+      "Các cộng đồng dân cư"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 627: Bộ phận nào của quy phạm pháp luật nêu lên những điều kiện, hoàn cảnh xảy ra trong thực tế?",
+    "options": [
+      "Quy định",
+      "Chế tài",
+      "Giả định",
+      "Kết luận"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 628: Bộ phận nào của quy phạm pháp luật nêu lên cách xử sự mà chủ thể được làm, không được làm hoặc phải làm?",
+    "options": [
+      "Giả định",
+      "Quy định",
+      "Chế tài",
+      "Lời mở đầu"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 629: Bộ phận 'Chế tài' trong quy phạm pháp luật có vai trò:",
+    "options": [
+      "Nêu lên các biện pháp tác động (xử phạt) khi chủ thể vi phạm",
+      "Mô tả hoàn cảnh thực tế",
+      "Hướng dẫn cách thức ký kết hợp đồng",
+      "Giải thích từ ngữ trong luật"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 630: Năng lực pháp luật của cá nhân có từ khi nào?",
+    "options": [
+      "Từ khi sinh ra",
+      "Khi đủ 18 tuổi",
+      "Khi đủ 6 tuổi",
+      "Khi bắt đầu đi làm"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 631: Văn bản nào có hiệu lực pháp lý cao nhất trong hệ thống pháp luật Việt Nam?",
+    "options": [
+      "Luật Dân sự",
+      "Hiến pháp",
+      "Nghị định của Chính phủ",
+      "Thông tư của Bộ trưởng"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 632: Cơ quan nào có thẩm quyền ban hành 'Luật'?",
+    "options": [
+      "Chính phủ",
+      "Chủ tịch nước",
+      "Quốc hội",
+      "Tòa án nhân dân tối cao"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 633: 'Nghị định' là văn bản quy phạm pháp luật do cơ quan nào ban hành?",
+    "options": [
+      "Quốc hội",
+      "Ủy ban thường vụ Quốc hội",
+      "Chính phủ",
+      "Hội đồng nhân dân"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 634: Quan hệ pháp luật là quan hệ xã hội được quy phạm pháp luật nào điều chỉnh?",
+    "options": [
+      "Quy phạm đạo đức",
+      "Quy phạm tôn giáo",
+      "Quy phạm pháp luật",
+      "Quy phạm tập quán"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 635: Chủ thể của quan hệ pháp luật bao gồm:",
+    "options": [
+      "Cá nhân và tổ chức",
+      "Chỉ bao gồm công dân Việt Nam",
+      "Chỉ bao gồm các cơ quan nhà nước",
+      "Chỉ bao gồm các doanh nghiệp"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 636: Khách thể của quan hệ pháp luật là:",
+    "options": [
+      "Những lợi ích mà các chủ thể mong muốn đạt được khi tham gia quan hệ đó",
+      "Bản thân các chủ thể tham gia",
+      "Các quy định của nhà nước",
+      "Sổ hộ khẩu và giấy khai sinh"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 637: Nội dung của quan hệ pháp luật bao gồm:",
+    "options": [
+      "Các hành vi trái pháp luật",
+      "Quyền và nghĩa vụ pháp lý của các chủ thể",
+      "Các biện pháp cưỡng chế",
+      "Tiền bạc và tài sản"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 638: Sự kiện pháp lý là những tình huống thực tế mà pháp luật gắn sự xuất hiện của chúng với:",
+    "options": [
+      "Việc phát sinh, thay đổi hoặc chấm dứt quan hệ pháp luật",
+      "Việc ban hành một bộ luật mới",
+      "Việc họp Quốc hội",
+      "Việc thay đổi cán bộ nhà nước"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 639: Vi phạm pháp luật là hành vi có lỗi do chủ thể có năng lực trách nhiệm pháp lý thực hiện, mang tính:",
+    "options": [
+      "Có lợi cho xã hội",
+      "Trái pháp luật và xâm hại các quan hệ xã hội được pháp luật bảo vệ",
+      "Bình thường trong đời sống",
+      "Khuyến khích mọi người làm theo"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 640: Cấu thành vi phạm pháp luật bao gồm mấy yếu tố?",
+    "options": [
+      "2 yếu tố",
+      "3 yếu tố",
+      "4 yếu tố",
+      "5 yếu tố"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 641: Yếu tố nào thuộc mặt khách quan của vi phạm pháp luật?",
+    "options": [
+      "Lỗi của người vi phạm",
+      "Động cơ và mục đích",
+      "Hành vi trái pháp luật và hậu quả",
+      "Năng lực nhận thức"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 642: Yếu tố nào thuộc mặt chủ quan của vi phạm pháp luật?",
+    "options": [
+      "Thời gian và địa điểm",
+      "Lỗi, động cơ, mục đích",
+      "Công cụ gây án",
+      "Mối quan hệ nhân quả"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 643: Lỗi 'Cố ý trực tiếp' là trường hợp người vi phạm:",
+    "options": [
+      "Thấy trước hậu quả và mong muốn hậu quả xảy ra",
+      "Thấy trước hậu quả nhưng không mong muốn nhưng để mặc hậu quả xảy ra",
+      "Không thấy trước hậu quả mặc dù phải thấy trước",
+      "Thấy trước hậu quả nhưng tin rằng hậu quả không xảy ra"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 644: Trách nhiệm pháp lý là hậu quả bất lợi mà nhà nước buộc chủ thể vi phạm phải gánh chịu, thể hiện tính:",
+    "options": [
+      "Tự nguyện",
+      "Cưỡng chế của nhà nước",
+      "Thỏa thuận",
+      "Khuyên răn"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 645: Loại vi phạm pháp luật nào có độ nguy hiểm cao nhất cho xã hội?",
+    "options": [
+      "Vi phạm hành chính",
+      "Vi phạm dân sự",
+      "Tội phạm (Vi phạm hình sự)",
+      "Vi phạm kỷ luật"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 646: Trách nhiệm kỷ luật thường áp dụng đối với:",
+    "options": [
+      "Mọi công dân trong xã hội",
+      "Cán bộ, công chức, viên chức, người lao động vi phạm quy định nội bộ",
+      "Người lái xe vượt đèn đỏ",
+      "Người trộm cắp tài sản công dân"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 647: Hình thức thực hiện pháp luật nào mà chủ thể thực hiện quyền (được làm) của mình?",
+    "options": [
+      "Tuân thủ pháp luật",
+      "Thi hành pháp luật",
+      "Sử dụng pháp luật",
+      "Áp dụng pháp luật"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 648: 'Tuân thủ pháp luật' là hình thức thực hiện pháp luật mang tính chất:",
+    "options": [
+      "Chủ động thực hiện nghĩa vụ",
+      "Kiềm chế không làm những điều mà pháp luật cấm",
+      "Sử dụng các quyền tự do cá nhân",
+      "Ban hành các quyết định hành chính"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 649: Áp dụng pháp luật là hình thức thực hiện pháp luật của:",
+    "options": [
+      "Mọi cá nhân trong xã hội",
+      "Cơ quan nhà nước, nhà chức trách có thẩm quyền",
+      "Các tổ chức phi chính phủ",
+      "Các hộ gia đình"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 650: Hệ thống pháp luật bao gồm các yếu tố cấu thành nào?",
+    "options": [
+      "Quy phạm pháp luật, chế định pháp luật và ngành luật",
+      "Các bộ luật và các nghị định",
+      "Tòa án và Viện kiểm sát",
+      "Công an và quân đội"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 651: Căn cứ chủ yếu để phân chia các ngành luật là:",
+    "options": [
+      "Số lượng các điều luật",
+      "Đối tượng điều chỉnh và phương pháp điều chỉnh",
+      "Tên gọi của văn bản luật",
+      "Cơ quan ban hành văn bản"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 652: Ngành luật nào là ngành luật gốc, quy định những vấn đề cơ bản nhất của quốc gia?",
+    "options": [
+      "Luật Hình sự",
+      "Luật Dân sự",
+      "Luật Hiến pháp",
+      "Luật Hành chính"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 653: Năng lực hành vi dân sự của cá nhân đạt mức đầy đủ khi:",
+    "options": [
+      "Đủ 14 tuổi",
+      "Đủ 16 tuổi",
+      "Đủ 18 tuổi và không mắc các bệnh làm mất khả năng nhận thức",
+      "Từ khi sinh ra"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 654: Văn bản quy phạm pháp luật do Hội đồng nhân dân ban hành là:",
+    "options": [
+      "Nghị quyết",
+      "Nghị định",
+      "Quyết định",
+      "Thông tư"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 655: Hiệu lực của văn bản quy phạm pháp luật bao gồm:",
+    "options": [
+      "Hiệu lực theo thời gian",
+      "Hiệu lực theo không gian",
+      "Hiệu lực theo đối tượng áp dụng",
+      "Cả A, B và C"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 656: Một người đi xe máy vào đường cấm là hành vi:",
+    "options": [
+      "Vi phạm hình sự",
+      "Vi phạm hành chính",
+      "Vi phạm dân sự",
+      "Vi phạm kỷ luật"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 657: 'Sự biến pháp lý' là những sự kiện xảy ra:",
+    "options": [
+      "Theo ý chí của con người",
+      "Nằm ngoài ý chí của con người (như thiên tai, dịch bệnh) mà pháp luật gắn với hậu quả pháp lý",
+      "Do lỗi của cơ quan nhà nước",
+      "Do sự thỏa thuận giữa các bên"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 658: Pháp luật có chức năng giáo dục nhằm:",
+    "options": [
+      "Đe dọa người dân",
+      "Xây dựng ý thức tôn trọng pháp luật và định hướng hành vi xử sự đúng đắn",
+      "Thay thế các lớp học văn hóa",
+      "Trừng trị các hành vi sai trái"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 659: 'Tiền lệ pháp' còn được gọi là:",
+    "options": [
+      "Tập quán pháp",
+      "Án lệ",
+      "Văn bản luật",
+      "Luật tôn giáo"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 660: Quan hệ nào sau đây không phải là quan hệ pháp luật?",
+    "options": [
+      "Quan hệ mua bán hàng hóa",
+      "Quan hệ vợ chồng",
+      "Quan hệ tình bạn thuần túy",
+      "Quan hệ giữa cảnh sát giao thông và người vi phạm"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 661: Chế tài hình sự là hình thức nghiêm khắc nhất, bao gồm các biện pháp như:",
+    "options": [
+      "Phạt tiền hành chính",
+      "Phạt tù, tử hình",
+      "Cảnh cáo tại nơi làm việc",
+      "Bồi thường thiệt hại tài sản"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 662: Mục đích của trách nhiệm pháp lý là:",
+    "options": [
+      "Trừng trị người vi phạm",
+      "Giáo dục, răn đe và ngăn ngừa vi phạm mới",
+      "Khắc phục hậu quả do vi phạm gây ra",
+      "Cả A, B và C"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 663: Văn bản quy phạm pháp luật không được có hiệu lực hồi tố (trở về trước) trừ trường hợp:",
+    "options": [
+      "Có lợi cho người vi phạm",
+      "Để trừng trị nặng hơn",
+      "Do người dân yêu cầu",
+      "Do cơ quan công an đề nghị"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 664: Khách thể của vi phạm pháp luật là:",
+    "options": [
+      "Người bị hại",
+      "Các quan hệ xã hội được pháp luật bảo vệ bị xâm hại",
+      "Tang vật của vụ việc",
+      "Nơi xảy ra vi phạm"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 665: Lỗi 'Vô ý do cẩu thả' là trường hợp người vi phạm:",
+    "options": [
+      "Mong muốn hậu quả xảy ra",
+      "Thấy trước hậu quả nhưng tin rằng ngăn chặn được",
+      "Không thấy trước hậu quả mặc dù pháp luật buộc phải thấy trước",
+      "Cố tình để mặc cho hậu quả xảy ra"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 666: Theo quy định, văn bản quy phạm pháp luật phải có tên gọi, nội dung và:",
+    "options": [
+      "Được viết bằng tay",
+      "Trình tự, thẩm quyền ban hành do luật định",
+      "Được lưu hành nội bộ",
+      "Không cần ghi ngày tháng"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 667: 'Ngành luật' là tập hợp các quy phạm pháp luật điều chỉnh:",
+    "options": [
+      "Một nhóm quan hệ xã hội cùng loại",
+      "Mọi quan hệ xã hội trong nước",
+      "Các quan hệ với nước ngoài",
+      "Chỉ các quan hệ về kinh tế"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 668: Hình thức 'Thi hành pháp luật' yêu cầu chủ thể phải:",
+    "options": [
+      "Chủ động thực hiện các nghĩa vụ pháp lý mà pháp luật quy định",
+      "Không làm những gì luật cấm",
+      "Hủy bỏ các văn bản cũ",
+      "Đi bỏ phiếu bầu cử"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 669: Cơ quan nào ban hành 'Thông tư'?",
+    "options": [
+      "Chính phủ",
+      "Thủ tướng Chính phủ",
+      "Bộ trưởng, Thủ trưởng cơ quan ngang bộ",
+      "Chủ tịch nước"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 670: Một hành vi vi phạm pháp luật dân sự thường dẫn đến trách nhiệm:",
+    "options": [
+      "Đi tù",
+      "Bồi thường thiệt hại, khắc phục tình trạng ban đầu",
+      "Bị tước quyền bầu cử",
+      "Bị hạ bậc lương"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 671: Luật Hiến pháp là ngành luật chủ đạo trong hệ thống pháp luật vì:",
+    "options": [
+      "Quy định những vấn đề cơ bản, quan trọng nhất của quốc gia",
+      "Là cơ sở để xây dựng các ngành luật khác",
+      "Có giá trị pháp lý cao nhất",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 672: Theo Hiến pháp 2013, bản chất của Nhà nước ta là nhà nước pháp quyền XHCN của nhân dân, do nhân dân và vì nhân dân, do giai cấp nào lãnh đạo?",
+    "options": [
+      "Giai cấp nông dân",
+      "Giai cấp công nhân",
+      "Đội ngũ trí thức",
+      "Tầng lớp doanh nhân"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 673: Cơ quan nào có quyền lập hiến và lập pháp?",
+    "options": [
+      "Chính phủ",
+      "Quốc hội",
+      "Chủ tịch nước",
+      "Tòa án nhân dân tối cao"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 674: Quốc hội nước Cộng hòa XHCN Việt Nam là cơ quan:",
+    "options": [
+      "Đại biểu cao nhất của nhân dân",
+      "Quyền lực nhà nước cao nhất",
+      "Duy nhất có quyền ban hành Hiến pháp và Luật",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 675: Nhiệm kỳ của mỗi khóa Quốc hội là:",
+    "options": [
+      "4 năm",
+      "5 năm",
+      "6 năm",
+      "3 năm"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 676: Cơ quan thường trực của Quốc hội là:",
+    "options": [
+      "Hội đồng dân tộc",
+      "Ủy ban Thường vụ Quốc hội",
+      "Văn phòng Quốc hội",
+      "Chính phủ"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 677: Chủ tịch nước là người đứng đầu Nhà nước, thay mặt nước Cộng hòa XHCN Việt Nam về:",
+    "options": [
+      "Đối nội và đối ngoại",
+      "Chỉ về đối nội",
+      "Chỉ về đối ngoại",
+      "Công tác xét xử"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 678: Ai có quyền thống lĩnh lực lượng vũ trang nhân dân Việt Nam?",
+    "options": [
+      "Bộ trưởng Bộ Quốc phòng",
+      "Thủ tướng Chính phủ",
+      "Chủ tịch nước",
+      "Chủ tịch Quốc hội"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 679: Chính phủ là cơ quan:",
+    "options": [
+      "Hành chính nhà nước cao nhất",
+      "Thực hiện quyền hành pháp",
+      "Cơ quan chấp hành của Quốc hội",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 680: Thủ tướng Chính phủ do ai bầu trong số đại biểu Quốc hội?",
+    "options": [
+      "Nhân dân bầu trực tiếp",
+      "Quốc hội bầu theo đề nghị của Chủ tịch nước",
+      "Chủ tịch nước bổ nhiệm",
+      "Đảng Cộng sản chỉ định"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 681: Hội đồng nhân dân là cơ quan quyền lực nhà nước ở địa phương, do ai bầu ra?",
+    "options": [
+      "Ủy ban nhân dân bổ nhiệm",
+      "Cử tri ở địa phương bầu ra",
+      "Quốc hội chỉ định",
+      "Chủ tịch nước quyết định"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 682: Ủy ban nhân dân là cơ quan:",
+    "options": [
+      "Chấp hành của Hội đồng nhân dân",
+      "Hành chính nhà nước ở địa phương",
+      "Chịu trách nhiệm trước Hội đồng nhân dân cùng cấp và cơ quan hành chính cấp trên",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 683: Cơ quan xét xử của nước Cộng hòa XHCN Việt Nam là:",
+    "options": [
+      "Viện Kiểm sát",
+      "Tòa án nhân dân",
+      "Cơ quan Công an",
+      "Ủy ban nhân dân"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 684: Nguyên tắc quan trọng nhất trong xét xử của Tòa án là:",
+    "options": [
+      "Xét xử kín",
+      "Thẩm phán và Hội thẩm xét xử độc lập và chỉ tuân theo pháp luật",
+      "Xét xử theo ý kiến của đa số nhân dân",
+      "Tuân theo sự chỉ đạo của UBND cấp tỉnh"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 685: Viện Kiểm sát nhân dân thực hiện chức năng gì?",
+    "options": [
+      "Xét xử các vụ án",
+      "Thực hành quyền công tố và kiểm sát hoạt động tư pháp",
+      "Ban hành các nghị định hành chính",
+      "Điều tra tội phạm xã hội"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 686: Công dân có quyền bầu cử Quốc hội và Hội đồng nhân dân khi đủ:",
+    "options": [
+      "16 tuổi",
+      "18 tuổi",
+      "21 tuổi",
+      "20 tuổi"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 687: Công dân có quyền ứng cử vào Quốc hội, Hội đồng nhân dân khi đủ:",
+    "options": [
+      "18 tuổi",
+      "21 tuổi",
+      "25 tuổi",
+      "30 tuổi"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 688: Theo Hiến pháp 2013, quyền con người, quyền công dân chỉ có thể bị hạn chế theo quy định của:",
+    "options": [
+      "Thông tư",
+      "Nghị định",
+      "Luật",
+      "Văn bản của UBND"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 689: Đơn vị hành chính của nước ta chia làm mấy cấp?",
+    "options": [
+      "2 cấp",
+      "3 cấp",
+      "4 cấp",
+      "5 cấp"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 690: Cơ quan nào có thẩm quyền bãi bỏ văn bản quy phạm pháp luật của Chính phủ trái với Hiến pháp, Luật?",
+    "options": [
+      "Chủ tịch nước",
+      "Quốc hội",
+      "Tòa án nhân dân tối cao",
+      "Viện kiểm sát nhân dân tối cao"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 691: Hình thức dân chủ nào mà nhân dân trực tiếp biểu quyết các vấn đề quan trọng của quốc gia khi Nhà nước tổ chức?",
+    "options": [
+      "Trưng cầu ý dân",
+      "Bầu cử",
+      "Khiếu nại",
+      "Tố cáo"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 692: Quốc gia nào sau đây được quy định là Thủ đô của nước Cộng hòa XHCN Việt Nam?",
+    "options": [
+      "Thành phố Hồ Chí Minh",
+      "Hà Nội",
+      "Đà Nẵng",
+      "Huế"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 693: Các dân tộc trong nước Việt Nam có quan hệ như thế nào?",
+    "options": [
+      "Bình đẳng, đoàn kết, tôn trọng và giúp nhau cùng phát triển",
+      "Dân tộc đa số có quyền hơn dân tộc thiểu số",
+      "Mỗi dân tộc tự quyết hoàn toàn độc lập",
+      "Phân biệt đối xử giữa các vùng miền"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 694: Hiến pháp 2013 quy định ngôn ngữ quốc gia là:",
+    "options": [
+      "Tiếng Anh",
+      "Tiếng Việt",
+      "Tiếng Pháp",
+      "Tiếng Hán"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 695: Quốc kỳ nước Cộng hòa XHCN Việt Nam có đặc điểm:",
+    "options": [
+      "Hình chữ nhật, chiều rộng bằng hai phần ba chiều dài, nền đỏ, giữa có ngôi sao vàng năm cánh",
+      "Hình vuông, nền đỏ, ngôi sao vàng",
+      "Hình chữ nhật, nền vàng, ba sọc đỏ",
+      "Hình tròn, nền xanh, ngôi sao trắng"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 696: Cơ quan nào bầu Chủ tịch nước?",
+    "options": [
+      "Nhân dân cả nước",
+      "Quốc hội",
+      "Chính phủ",
+      "Hội đồng Quốc phòng và An ninh"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 697: Quyền nào sau đây là nghĩa vụ cao cả và quyền thiêng liêng của công dân?",
+    "options": [
+      "Quyền tự do kinh doanh",
+      "Bảo vệ Tổ quốc",
+      "Quyền đi học",
+      "Quyền nghiên cứu khoa học"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 698: Tôn giáo ở Việt Nam được Nhà nước đối xử như thế nào?",
+    "options": [
+      "Ưu tiên một số giáo phái",
+      "Các tôn giáo đều bình đẳng trước pháp luật",
+      "Không cho phép hoạt động tôn giáo",
+      "Bắt buộc mọi người phải theo một tôn giáo"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 699: Kinh tế Nhà nước giữ vai trò gì trong nền kinh tế Việt Nam?",
+    "options": [
+      "Vai trò phụ trợ",
+      "Vai trò chủ đạo",
+      "Vai trò độc quyền hoàn toàn",
+      "Không có vai trò gì"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 700: Hiến pháp hiện hành của Việt Nam được thông qua vào ngày tháng năm nào?",
+    "options": [
+      "28/11/2013",
+      "01/01/2014",
+      "15/12/1992",
+      "02/09/1945"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 701: Đại biểu Quốc hội là người đại diện cho ý chí, nguyện vọng của:",
+    "options": [
+      "Nhân dân đơn vị bầu cử ra mình",
+      "Nhân dân cả nước",
+      "Cả A và B",
+      "Chỉ đại diện cho tầng lớp mình"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 702: Cơ quan nào có thẩm quyền quyết định việc đại xá?",
+    "options": [
+      "Chủ tịch nước",
+      "Quốc hội",
+      "Chính phủ",
+      "Bộ Công an"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 703: Việc thành lập Chính phủ mới sau mỗi kỳ bầu cử Quốc hội do cơ quan nào thực hiện?",
+    "options": [
+      "Chủ tịch nước bổ nhiệm trực tiếp",
+      "Quốc hội bầu và phê chuẩn theo đề nghị của Thủ tướng và Chủ tịch nước",
+      "Tòa án công nhận",
+      "Bộ Nội vụ chỉ định"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 704: Theo Hiến pháp, mọi người có quyền tự do tín ngưỡng, tôn giáo, theo hoặc không theo một tôn giáo nào. Đây là quyền về:",
+    "options": [
+      "Chính trị",
+      "Tự do dân chủ và nhân thân",
+      "Kinh tế",
+      "Văn hóa"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 705: Tòa án nhân dân xét xử theo nguyên tắc nào sau đây?",
+    "options": [
+      "Xét xử công khai (trừ trường hợp đặc biệt luật định)",
+      "Xét xử tập thể và quyết định theo đa số",
+      "Có sự tham gia của Hội thẩm nhân dân",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 706: Ai là người đứng đầu cơ quan hành chính nhà nước ở địa phương (tỉnh, huyện, xã)?",
+    "options": [
+      "Chủ tịch Hội đồng nhân dân",
+      "Chủ tịch Ủy ban nhân dân",
+      "Bí thư Đảng ủy",
+      "Trưởng Công an"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 707: Quyền khiếu nại, tố cáo là công cụ để công dân:",
+    "options": [
+      "Chống lại nhà nước",
+      "Bảo vệ quyền và lợi ích hợp pháp của mình và đấu tranh chống hành vi trái pháp luật",
+      "Gây khó khăn cho cán bộ",
+      "Yêu cầu được cấp tiền"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 708: Chế độ bầu cử ở nước ta hiện nay là:",
+    "options": [
+      "Bầu cử trực tiếp",
+      "Bầu cử gián tiếp thông qua đại cử tri",
+      "Chỉ có đảng viên mới được bầu",
+      "Bầu cử công khai bằng cách giơ tay"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 709: Văn bản pháp lý có giá trị cao nhất dùng để tổ chức quyền lực nhà nước là:",
+    "options": [
+      "Luật Tổ chức Chính phủ",
+      "Hiến pháp",
+      "Luật Tổ chức Quốc hội",
+      "Cương lĩnh chính trị"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 710: Cơ quan nào có thẩm quyền giải thích Hiến pháp, luật, pháp lệnh?",
+    "options": [
+      "Tòa án nhân dân tối cao",
+      "Ủy ban thường vụ Quốc hội",
+      "Chính phủ",
+      "Viện kiểm sát nhân dân tối cao"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 711: Công dân Việt Nam là người:",
+    "options": [
+      "Sinh sống tại Việt Nam",
+      "Có quốc tịch Việt Nam",
+      "Nói tiếng Việt",
+      "Có nhà tại Việt Nam"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 712: Quyền lực nhà nước Việt Nam là thống nhất nhưng có sự phân công giữa các cơ quan trong việc thực hiện các quyền:",
+    "options": [
+      "Lập pháp, hành pháp, tư pháp",
+      "Bầu cử, ứng cử, xét xử",
+      "Kiểm tra, giám sát, kỷ luật",
+      "Kinh tế, chính trị, văn hóa"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 713: Hội đồng nhân dân và Ủy ban nhân dân được tổ chức ở các đơn vị hành chính nào?",
+    "options": [
+      "Tỉnh và tương đương",
+      "Huyện và tương đương",
+      "Xã và tương đương",
+      "Cả 3 cấp trên (trừ trường hợp thí điểm không tổ chức HĐND)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 714: Cơ quan nào có quyền bãi miễn đại biểu Quốc hội khi đại biểu đó không còn xứng đáng với sự tín nhiệm của nhân dân?",
+    "options": [
+      "Chính phủ",
+      "Cử tri hoặc Quốc hội",
+      "Tòa án",
+      "Công an"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 715: Việt Nam có bao nhiêu bản Hiến pháp tính từ năm 1945 đến nay?",
+    "options": [
+      "3 bản",
+      "4 bản",
+      "5 bản (1946, 1959, 1980, 1992, 2013)",
+      "6 bản"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 716: Quyền tự do kinh doanh của công dân có nghĩa là:",
+    "options": [
+      "Được kinh doanh bất cứ mặt hàng nào kể cả hàng cấm",
+      "Được tự do kinh doanh những ngành nghề mà pháp luật không cấm",
+      "Kinh doanh không cần nộp thuế",
+      "Kinh doanh không cần đăng ký"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 717: Đối với người nước ngoài cư trú tại Việt Nam, Hiến pháp quy định:",
+    "options": [
+      "Được bảo hộ tính mạng, tài sản và các quyền lợi theo pháp luật Việt Nam",
+      "Có đầy đủ quyền như công dân Việt Nam",
+      "Không có quyền gì",
+      "Được đi bầu cử tại Việt Nam"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 718: 'Không ai bị coi là có tội và phải chịu hình phạt khi chưa có bản án kết tội của Tòa án đã có hiệu lực pháp luật' là nguyên tắc:",
+    "options": [
+      "Suy đoán vô tội",
+      "Bình đẳng trước pháp luật",
+      "Độc lập xét xử",
+      "Công khai minh bạch"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 719: Quyền nào sau đây thuộc về quyền văn hóa, xã hội của công dân?",
+    "options": [
+      "Quyền được bảo đảm an sinh xã hội",
+      "Quyền nghiên cứu khoa học, nghệ thuật",
+      "Quyền học tập",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 720: Theo Hiến pháp 2013, nhân dân thực hiện quyền lực nhà nước bằng:",
+    "options": [
+      "Dân chủ trực tiếp",
+      "Dân chủ đại diện thông qua Quốc hội và Hội đồng nhân dân",
+      "Thông qua các cơ quan khác của Nhà nước",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 721: Đối tượng điều chỉnh của Luật Hành chính là các quan hệ xã hội phát sinh trong quá trình:",
+    "options": [
+      "Tổ chức và thực hiện hoạt động chấp hành - điều hành của nhà nước",
+      "Xử lý các loại tội phạm đặc biệt nghiêm trọng",
+      "Giải quyết tranh chấp về hợp đồng dân sự",
+      "Bầu cử các cơ quan quyền lực nhà nước"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 722: Phương pháp điều chỉnh đặc trưng của Luật Hành chính là:",
+    "options": [
+      "Phương pháp bình đẳng, thỏa thuận",
+      "Phương pháp mệnh lệnh - phục tùng",
+      "Phương pháp tự nguyện, tự định đoạt",
+      "Phương pháp hòa giải"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 723: Cơ quan nào sau đây là chủ thể quan trọng nhất của Luật Hành chính?",
+    "options": [
+      "Cơ quan lập pháp",
+      "Cơ quan hành chính nhà nước",
+      "Cơ quan tư pháp",
+      "Các tổ chức chính trị - xã hội"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 724: Vi phạm hành chính là hành vi có lỗi, xâm phạm các quy tắc quản lý nhà nước mà:",
+    "options": [
+      "Được coi là tội phạm",
+      "Chưa đến mức truy cứu trách nhiệm hình sự",
+      "Chỉ bị xử lý kỷ luật nội bộ",
+      "Không gây hại cho xã hội"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 725: Người từ đủ bao nhiêu tuổi trở lên phải chịu trách nhiệm hành chính về mọi vi phạm do mình gây ra?",
+    "options": [
+      "Đủ 14 tuổi",
+      "Đủ 16 tuổi",
+      "Đủ 18 tuổi",
+      "Đủ 21 tuổi"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 726: Đối với người từ đủ 14 tuổi đến dưới 16 tuổi, vi phạm hành chính bị xử phạt khi:",
+    "options": [
+      "Thực hiện với lỗi vô ý",
+      "Thực hiện với lỗi cố ý",
+      "Gây thiệt hại trên 2 triệu đồng",
+      "Bị cha mẹ yêu cầu xử phạt"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 727: Hình thức xử phạt hành chính 'Cảnh cáo' được áp dụng đối với:",
+    "options": [
+      "Mọi hành vi vi phạm lần đầu",
+      "Vi phạm hành chính nhỏ, lần đầu, có tình tiết giảm nhẹ hoặc do người chưa thành niên thực hiện",
+      "Vi phạm gây thiệt hại lớn về tài sản",
+      "Hành vi trốn thuế"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 728: Thời hiệu xử phạt vi phạm hành chính thông thường là:",
+    "options": [
+      "06 tháng",
+      "01 năm",
+      "02 năm",
+      "05 năm"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 729: Biện pháp nào sau đây là hình thức xử phạt trục xuất?",
+    "options": [
+      "Buộc người nước ngoài rời khỏi lãnh thổ Việt Nam",
+      "Buộc công dân Việt Nam đi khỏi nơi cư trú",
+      "Đưa người vi phạm vào cơ sở giáo dục bắt buộc",
+      "Cấm đi khỏi nơi cư trú"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 730: Luật Hình sự là ngành luật quy định về:",
+    "options": [
+      "Các thủ tục hành chính",
+      "Tội phạm và hình phạt",
+      "Các quan hệ kinh tế quốc tế",
+      "Quyền thừa kế tài sản"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 731: Căn cứ vào tính chất và mức độ nguy hiểm cho xã hội, tội phạm được chia làm mấy loại?",
+    "options": [
+      "2 loại",
+      "3 loại",
+      "4 loại",
+      "5 loại"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 732: Tội phạm nghiêm trọng là tội phạm có mức cao nhất của khung hình phạt là:",
+    "options": [
+      "Đến 03 năm tù",
+      "Từ trên 03 năm đến 07 năm tù",
+      "Từ trên 07 năm đến 15 năm tù",
+      "Trên 15 năm tù"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 733: Hình phạt nào sau đây chỉ áp dụng đối với cá nhân phạm tội?",
+    "options": [
+      "Phạt tiền",
+      "Tước quyền sử dụng giấy phép",
+      "Tù có thời hạn",
+      "Đình chỉ hoạt động có thời hạn"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 734: Độ tuổi tối thiểu phải chịu trách nhiệm hình sự về mọi tội phạm là:",
+    "options": [
+      "Đủ 14 tuổi",
+      "Đủ 16 tuổi",
+      "Đủ 18 tuổi",
+      "Đủ 21 tuổi"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 735: Người từ đủ 14 tuổi đến dưới 16 tuổi phải chịu trách nhiệm hình sự về:",
+    "options": [
+      "Mọi loại tội phạm",
+      "Tội phạm rất nghiêm trọng và tội phạm đặc biệt nghiêm trọng quy định tại một số điều luật cụ thể",
+      "Chỉ các tội phạm về ma túy",
+      "Chỉ các tội phạm về kinh tế"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 736: Hệ thống hình phạt đối với cá nhân bao gồm:",
+    "options": [
+      "Hình phạt chính và hình phạt bổ sung",
+      "Hình phạt vật chất và hình phạt tinh thần",
+      "Hình phạt tù và hình phạt tiền",
+      "Cảnh cáo và cải tạo"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 737: Hình phạt nào sau đây là hình phạt chính?",
+    "options": [
+      "Cấm cư trú",
+      "Quản chế",
+      "Cải tạo không giam giữ",
+      "Tịch thu tài sản"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 738: Thời hạn của hình phạt 'Cải tạo không giam giữ' là từ:",
+    "options": [
+      "06 tháng đến 01 năm",
+      "06 tháng đến 03 năm",
+      "01 năm đến 05 năm",
+      "03 năm đến 10 năm"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 739: Hình phạt tử hình không áp dụng đối với đối tượng nào sau đây?",
+    "options": [
+      "Người từ đủ 70 tuổi trở lên",
+      "Người chưa thành niên khi phạm tội",
+      "Phụ nữ đang có thai hoặc đang nuôi con dưới 36 tháng tuổi",
+      "Cả B và C đều đúng"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 740: Đồng phạm là trường hợp có từ bao nhiêu người trở lên cố ý cùng thực hiện một tội phạm?",
+    "options": [
+      "2 người",
+      "3 người",
+      "4 người",
+      "5 người"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 741: Trong đồng phạm, người xúi giục là người:",
+    "options": [
+      "Trực tiếp thực hiện tội phạm",
+      "Kích động, dụ dỗ, thúc đẩy người khác thực hiện tội phạm",
+      "Chủ mưu, cầm đầu",
+      "Tạo điều kiện tinh thần cho người khác thực hiện tội phạm"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 742: Phòng vệ chính đáng là hành vi gây thiệt hại cho người đang có hành vi xâm phạm lợi ích của Nhà nước, tổ chức, quyền của mình hoặc của người khác. Hành vi này:",
+    "options": [
+      "Là tội phạm nhưng được giảm nhẹ",
+      "Không phải là tội phạm",
+      "Bị xử lý hành chính",
+      "Bị phạt tiền"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 743: Tình thế cấp thiết là tình thế của người vì muốn tránh một nguy cơ đang thực tế đe dọa lợi ích của Nhà nước, tổ chức, quyền của mình hoặc của người khác mà phải:",
+    "options": [
+      "Đánh trả người tấn công",
+      "Gây một thiệt hại khác nhỏ hơn thiệt hại cần ngăn ngừa",
+      "Bỏ chạy",
+      "Báo cho cơ quan công an"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 744: Thời hiệu truy cứu trách nhiệm hình sự đối với tội phạm đặc biệt nghiêm trọng là:",
+    "options": [
+      "05 năm",
+      "10 năm",
+      "15 năm",
+      "20 năm"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 745: Xóa án tích có nghĩa là người đã bị kết án được coi là:",
+    "options": [
+      "Chưa từng phạm tội",
+      "Chưa bị kết án",
+      "Đã hết tội",
+      "Không phải nộp phạt nữa"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 746: Khách thể của tội phạm là:",
+    "options": [
+      "Người bị hại",
+      "Vật chứng của vụ án",
+      "Các quan hệ xã hội được luật hình sự bảo vệ và bị tội phạm xâm hại",
+      "Địa điểm xảy ra tội phạm"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 747: Mặt khách quan của tội phạm bao gồm các yếu tố nào?",
+    "options": [
+      "Lỗi, động cơ, mục đích",
+      "Hành vi nguy hiểm cho xã hội, hậu quả, mối quan hệ nhân quả",
+      "Năng lực trách nhiệm hình sự",
+      "Độ tuổi của người phạm tội"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 748: Lỗi vô ý do quá tự tin là trường hợp người phạm tội:",
+    "options": [
+      "Không thấy trước hậu quả mặc dù phải thấy trước",
+      "Thấy trước hậu quả nhưng cho rằng hậu quả không xảy ra hoặc có thể ngăn chặn được",
+      "Thấy trước hậu quả và để mặc cho nó xảy ra",
+      "Mong muốn hậu quả xảy ra"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 749: Hình phạt tù chung thân không áp dụng đối với đối tượng nào?",
+    "options": [
+      "Người từ đủ 18 tuổi phạm tội",
+      "Người chưa thành niên phạm tội",
+      "Người phạm tội kinh tế",
+      "Phụ nữ phạm tội"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 750: Cơ quan nào có thẩm quyền tuyên một người là phạm tội và áp dụng hình phạt?",
+    "options": [
+      "Viện Kiểm sát",
+      "Cơ quan Công an",
+      "Tòa án nhân dân",
+      "Ủy ban nhân dân"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 751: Mục đích của hình phạt trong Luật Hình sự là:",
+    "options": [
+      "Trừng trị người phạm tội",
+      "Giáo dục họ trở thành người có ích và phòng ngừa tội phạm",
+      "Trả thù cho người bị hại",
+      "Cả A và B đều đúng"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 752: Trong Luật Hành chính, cán bộ, công chức vi phạm kỷ luật thì bị áp dụng:",
+    "options": [
+      "Hình phạt tù",
+      "Trách nhiệm kỷ luật",
+      "Trách nhiệm hình sự",
+      "Bồi thường dân sự"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 753: Giai đoạn chuẩn bị phạm tội chỉ bị truy cứu trách nhiệm hình sự đối với:",
+    "options": [
+      "Tội phạm ít nghiêm trọng",
+      "Tội phạm nghiêm trọng",
+      "Tội phạm rất nghiêm trọng và đặc biệt nghiêm trọng được luật định",
+      "Mọi loại tội phạm"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 754: Tạm giữ hành chính là biện pháp nhằm:",
+    "options": [
+      "Trừng trị người vi phạm",
+      "Ngăn chặn ngay hành vi vi phạm hoặc để bảo đảm việc xử lý",
+      "Cải tạo người vi phạm",
+      "Thu hồi tài sản vi phạm"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 755: Đối tượng điều chỉnh của Luật Hình sự là quan hệ xã hội phát sinh giữa:",
+    "options": [
+      "Công dân với công dân",
+      "Nhà nước và người phạm tội",
+      "Cơ quan nhà nước với nhau",
+      "Doanh nghiệp và khách hàng"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 756: Trách nhiệm hình sự của pháp nhân thương mại được áp dụng từ Bộ luật Hình sự năm nào?",
+    "options": [
+      "1985",
+      "1999",
+      "2015",
+      "2003"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 757: Hình thức xử phạt 'Tịch thu tang vật, phương tiện vi phạm hành chính' là:",
+    "options": [
+      "Việc sung vào ngân sách nhà nước tài sản liên quan trực tiếp đến vi phạm",
+      "Việc tiêu hủy hoàn toàn tài sản",
+      "Việc trả lại tài sản cho chủ sở hữu",
+      "Việc tạm giữ tài sản để điều tra"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 758: Cấu thành tội phạm bao gồm các mặt nào sau đây?",
+    "options": [
+      "Mặt khách quan, mặt chủ quan",
+      "Khách thể, Chủ thể",
+      "Cả A và B",
+      "Động cơ và hậu quả"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 759: 'Án treo' là:",
+    "options": [
+      "Một loại hình phạt chính",
+      "Một loại hình phạt bổ sung",
+      "Biện pháp miễn chấp hành hình phạt tù có điều kiện",
+      "Biện pháp cải tạo tại chỗ"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 760: Trường hợp nào sau đây là tình tiết giảm nhẹ trách nhiệm hình sự?",
+    "options": [
+      "Người phạm tội tự nguyện sửa chữa, bồi thường thiệt hại",
+      "Phạm tội có tổ chức",
+      "Phạm tội đối với người già",
+      "Tái phạm nguy hiểm"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 761: Một người bị phạt tiền 500.000 đồng vì vi phạm luật giao thông, đây là:",
+    "options": [
+      "Hình phạt hình sự",
+      "Xử phạt hành chính",
+      "Bồi thường dân sự",
+      "Kỷ luật lao động"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 762: Kháng cáo bản án hình sự sơ thẩm được thực hiện trong thời hạn:",
+    "options": [
+      "07 ngày",
+      "15 ngày",
+      "30 ngày",
+      "60 ngày"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 763: Người thực hành trong đồng phạm là người:",
+    "options": [
+      "Xúi giục người khác làm",
+      "Trực tiếp thực hiện tội phạm",
+      "Giúp sức về vật chất",
+      "Lên kế hoạch thực hiện"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 764: Tội phạm ít nghiêm trọng là tội phạm có mức cao nhất của khung hình phạt là:",
+    "options": [
+      "Phạt tiền",
+      "Cải tạo không giam giữ",
+      "Đến 03 năm tù",
+      "Cả A, B và C đều đúng"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 765: Quyết định hành chính mang tính chất gì?",
+    "options": [
+      "Tính chất cá biệt, áp dụng một lần đối với đối tượng cụ thể",
+      "Tính chất phổ biến, áp dụng nhiều lần",
+      "Tính chất quy phạm",
+      "Tính chất thỏa thuận"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 766: Đối với tội phạm do vô ý, hành vi chuẩn bị phạm tội:",
+    "options": [
+      "Luôn bị xử lý hình sự",
+      "Không bị truy cứu trách nhiệm hình sự",
+      "Chỉ bị phạt tiền",
+      "Bị phạt tù đến 1 năm"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 767: Hình phạt bổ sung 'Cấm đảm nhiệm chức vụ' có thời hạn là:",
+    "options": [
+      "01 năm đến 05 năm",
+      "05 năm đến 10 năm",
+      "Vĩnh viễn",
+      "Do Thủ tướng quyết định"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 768: Công dân có quyền khiếu nại hành chính khi:",
+    "options": [
+      "Thấy hành vi vi phạm pháp luật của người khác",
+      "Quyền và lợi ích hợp pháp của mình bị xâm phạm bởi quyết định, hành vi hành chính",
+      "Muốn thay đổi luật",
+      "Bị tòa án tuyên phạt tù"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 769: Tố cáo là việc công dân báo cho cơ quan thẩm quyền biết về:",
+    "options": [
+      "Hành vi vi phạm pháp luật của bất cứ cá nhân, tổ chức nào",
+      "Sự không đồng ý với quyết định của sếp",
+      "Yêu cầu được tăng lương",
+      "Tranh chấp đất đai với hàng xóm"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 770: Trách nhiệm hành chính khác trách nhiệm hình sự chủ yếu ở:",
+    "options": [
+      "Mức độ nguy hiểm của hành vi",
+      "Chủ thể có thẩm quyền áp dụng",
+      "Hậu quả pháp lý (án tích)",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 771: Đối tượng điều chỉnh của Luật Dân sự bao gồm các quan hệ nào?",
+    "options": [
+      "Quan hệ tài sản và quan hệ nhân thân",
+      "Quan hệ quản lý hành chính",
+      "Quan hệ tội phạm và hình phạt",
+      "Quan hệ kỷ luật lao động"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 772: Phương pháp điều chỉnh của Luật Dân sự dựa trên nguyên tắc:",
+    "options": [
+      "Mệnh lệnh và phục tùng",
+      "Bình đẳng, tự nguyện, tự thỏa thuận và tự chịu trách nhiệm",
+      "Quyền uy và cưỡng chế",
+      "Thuyết phục và giáo dục"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 773: Năng lực pháp luật dân sự của cá nhân có từ khi nào?",
+    "options": [
+      "Khi đủ 18 tuổi",
+      "Từ khi sinh ra",
+      "Từ khi bắt đầu đi học",
+      "Từ khi có tài sản riêng"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 774: Người chưa đủ 6 tuổi trong giao dịch dân sự được coi là:",
+    "options": [
+      "Có năng lực hành vi dân sự đầy đủ",
+      "Có năng lực hành vi dân sự một phần",
+      "Không có năng lực hành vi dân sự",
+      "Bị mất năng lực hành vi dân sự"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 775: Quyền sở hữu bao gồm các quyền năng nào sau đây?",
+    "options": [
+      "Quyền chiếm hữu, quyền sử dụng và quyền định đoạt",
+      "Quyền mua, quyền bán và quyền tặng cho",
+      "Quyền trông giữ và quyền khai thác",
+      "Quyền quản lý và quyền thu lợi nhuận"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 776: Quyền định đoạt là quyền của chủ sở hữu nhằm:",
+    "options": [
+      "Nắm giữ, quản lý tài sản",
+      "Khai thác công dụng của tài sản",
+      "Chuyển giao quyền sở hữu, từ bỏ hoặc tiêu dùng tài sản",
+      "Cho người khác mượn tài sản"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 777: Thừa kế theo di chúc là việc chuyển dịch tài sản của người chết cho người sống theo:",
+    "options": [
+      "Ý chí của người để lại di sản",
+      "Quy định mặc định của pháp luật",
+      "Quyết định của Tòa án nhân dân",
+      "Sự thỏa thuận của các con"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 778: Hàng thừa kế thứ nhất theo pháp luật bao gồm:",
+    "options": [
+      "Vợ, chồng, cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi, con đẻ, con nuôi của người chết",
+      "Anh ruột, chị ruột, em ruột của người chết",
+      "Ông nội, bà nội, ông ngoại, bà ngoại",
+      "Cháu ruột của người chết"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 779: Những người ở hàng thừa kế sau được hưởng thừa kế khi nào?",
+    "options": [
+      "Khi họ có hoàn cảnh khó khăn hơn hàng trước",
+      "Khi hàng thừa kế trước không còn ai do đã chết, không có quyền hưởng hoặc từ chối",
+      "Khi họ có công chăm sóc người chết nhiều hơn",
+      "Khi người chết không để lại di chúc"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 780: Di sản thừa kế bao gồm:",
+    "options": [
+      "Tài sản riêng của người chết",
+      "Phần tài sản của người chết trong tài sản chung với người khác",
+      "Các nghĩa vụ tài sản (nợ) trong phạm vi di sản",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 781: Thời điểm mở thừa kế là:",
+    "options": [
+      "Thời điểm người có tài sản chết",
+      "Thời điểm công bố di chúc",
+      "Thời điểm chia tài sản xong",
+      "Sau 49 ngày kể từ khi chết"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 782: Theo Luật Hôn nhân và Gia đình 2014, độ tuổi kết hôn là:",
+    "options": [
+      "Nam từ đủ 20 tuổi trở lên, nữ từ đủ 18 tuổi trở lên",
+      "Cả nam và nữ đủ 18 tuổi",
+      "Nam từ đủ 22 tuổi, nữ từ đủ 20 tuổi",
+      "Nam đủ 18 tuổi, nữ đủ 16 tuổi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 783: Cơ quan có thẩm quyền đăng ký kết hôn giữa công dân Việt Nam với nhau ở trong nước là:",
+    "options": [
+      "Tòa án nhân dân cấp huyện",
+      "Ủy ban nhân dân cấp xã nơi cư trú của một trong hai bên",
+      "Công an phường/xã",
+      "Sở Tư pháp"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 784: Tài sản chung của vợ chồng bao gồm:",
+    "options": [
+      "Tài sản do vợ, chồng tạo ra, thu nhập từ lao động, sản xuất kinh doanh trong thời kỳ hôn nhân",
+      "Tài sản được thừa kế riêng",
+      "Tài sản có trước khi kết hôn",
+      "Đồ dùng cá nhân thiết yếu"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 785: Trường hợp nào người chồng không có quyền yêu cầu ly hôn?",
+    "options": [
+      "Vợ đang có thai, sinh con hoặc đang nuôi con dưới 12 tháng tuổi",
+      "Vợ bị bệnh hiểm nghèo",
+      "Vợ không có khả năng lao động",
+      "Vợ vi phạm nghĩa vụ một vợ một chồng"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 786: Sau khi ly hôn, con dưới bao nhiêu tháng tuổi sẽ được giao trực tiếp cho mẹ nuôi (trừ trường hợp có thỏa thuận khác)?",
+    "options": [
+      "Dưới 12 tháng tuổi",
+      "Dưới 24 tháng tuổi",
+      "Dưới 36 tháng tuổi",
+      "Dưới 72 tháng tuổi"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 787: Giao dịch dân sự vô hiệu khi:",
+    "options": [
+      "Vi phạm điều cấm của luật, trái đạo đức xã hội",
+      "Người tham gia bị lừa dối, đe dọa",
+      "Người tham gia không có năng lực hành vi dân sự phù hợp",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 788: Thời hiệu khởi kiện để người thừa kế yêu cầu chia di sản đối với bất động sản là:",
+    "options": [
+      "10 năm",
+      "20 năm",
+      "30 năm",
+      "Vĩnh viễn"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 789: Hợp đồng dân sự là:",
+    "options": [
+      "Sự thỏa thuận giữa các bên về việc xác lập, thay đổi hoặc chấm dứt quyền, nghĩa vụ dân sự",
+      "Văn bản do cơ quan nhà nước ban hành để áp dụng cho dân",
+      "Sự tự nguyện của một bên đối với bên kia",
+      "Mệnh lệnh của chủ nợ đối với người nợ"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 790: Hình thức của hợp đồng dân sự có thể được thể hiện bằng:",
+    "options": [
+      "Lời nói",
+      "Văn bản",
+      "Hành vi cụ thể",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 791: Người thừa kế kế vị phát sinh khi nào?",
+    "options": [
+      "Con của người để lại di sản chết trước hoặc cùng lúc với người để lại di sản",
+      "Người thừa kế không muốn nhận tài sản",
+      "Người thừa kế bị tước quyền",
+      "Người để lại di sản không có con"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 792: Quan hệ giữa những người có cùng dòng máu về trực hệ bị cấm kết hôn là giữa:",
+    "options": [
+      "Cha mẹ với con; ông bà với cháu",
+      "Anh chị em họ",
+      "Những người cùng cơ quan",
+      "Những người cùng tôn giáo"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 793: Tài sản riêng của vợ, chồng là:",
+    "options": [
+      "Tài sản mỗi người có trước khi kết hôn",
+      "Tài sản được thừa kế riêng, tặng cho riêng trong thời kỳ hôn nhân",
+      "Tài sản phục vụ nhu cầu thiết yếu của mỗi người",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 794: Theo quy định, con từ đủ bao nhiêu tuổi trở lên thì Tòa án phải xem xét nguyện vọng của con khi giải quyết việc nuôi con lúc ly hôn?",
+    "options": [
+      "Đủ 3 tuổi",
+      "Đủ 7 tuổi",
+      "Đủ 9 tuổi",
+      "Đủ 12 tuổi"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 795: Nghĩa vụ bồi thường thiệt hại ngoài hợp đồng phát sinh khi:",
+    "options": [
+      "Có hành vi xâm phạm tính mạng, sức khỏe, tài sản của người khác mà không có hợp đồng trước đó",
+      "Một bên không thực hiện đúng điều khoản trong hợp đồng thuê nhà",
+      "Người vay tiền trả nợ muộn",
+      "Nhà nước thu hồi đất theo quy hoạch"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 796: Pháp nhân là một tổ chức phải có điều kiện nào sau đây?",
+    "options": [
+      "Được thành lập hợp pháp",
+      "Có cơ cấu tổ chức và có tài sản độc lập với cá nhân, pháp nhân khác",
+      "Nhân danh mình tham gia quan hệ pháp luật một cách độc lập",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 797: Chế độ tài sản của vợ chồng theo thỏa thuận phải được lập bằng văn bản vào thời điểm nào?",
+    "options": [
+      "Sau khi kết hôn 1 năm",
+      "Trước khi kết hôn",
+      "Khi có tranh chấp xảy ra",
+      "Khi chuẩn bị ly hôn"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 798: Người từ đủ 15 tuổi đến chưa đủ 18 tuổi có tài sản riêng bảo đảm thực hiện nghĩa vụ thì:",
+    "options": [
+      "Có thể tự mình xác lập, thực hiện giao dịch dân sự mà không cần sự đồng ý của người đại diện",
+      "Chỉ được thực hiện giao dịch nhỏ phục vụ nhu cầu sinh hoạt",
+      "Phải có người giám hộ quyết định thay hoàn toàn",
+      "Không được tham gia bất kỳ giao dịch nào"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 799: Di chúc bằng văn bản không có công chứng, chứng thực chỉ được coi là hợp pháp khi:",
+    "options": [
+      "Người lập di chúc tự viết và ký tên",
+      "Có đầy đủ các điều kiện về nội dung và người lập di chúc minh mẫn, không bị lừa dối",
+      "Có chữ ký của tất cả các con",
+      "Được lưu giữ tại ngân hàng"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 800: Quyền nhân thân là quyền dân sự gắn liền với:",
+    "options": [
+      "Mỗi cá nhân, không thể chuyển giao cho người khác (trừ trường hợp luật quy định)",
+      "Tài sản của cá nhân",
+      "Vị trí công tác của cá nhân",
+      "Hợp đồng kinh tế"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 801: Một cá nhân bị Tòa án tuyên bố mất năng lực hành vi dân sự khi:",
+    "options": [
+      "Bị bệnh tâm thần hoặc bệnh khác mà không thể nhận thức, làm chủ hành vi và có yêu cầu của người có quyền lợi liên quan",
+      "Người đó đi khỏi nơi cư trú 02 năm liền",
+      "Người đó nghiện ma túy",
+      "Người đó chưa đủ 18 tuổi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 802: Việc chiếm hữu có căn cứ pháp luật là việc chiếm hữu tài sản dựa trên:",
+    "options": [
+      "Quyền sở hữu của mình",
+      "Được chủ sở hữu chuyển giao thông qua giao dịch",
+      "Quyết định của cơ quan nhà nước có thẩm quyền",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 803: Nghĩa vụ dân sự chấm dứt trong trường hợp nào?",
+    "options": [
+      "Nghĩa vụ được hoàn thành",
+      "Theo thỏa thuận của các bên",
+      "Bên có nghĩa vụ là cá nhân chết mà nghĩa vụ đó phải do chính người đó thực hiện",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 804: Biện pháp đặt cọc nhằm mục đích:",
+    "options": [
+      "Bảo đảm việc giao kết hoặc thực hiện hợp đồng",
+      "Thay thế cho việc trả tiền",
+      "Phạt vi phạm hợp đồng",
+      "Chuyển quyền sở hữu tài sản"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 805: Trong quan hệ thừa kế, con dâu và mẹ chồng thuộc hàng thừa kế thứ mấy của nhau?",
+    "options": [
+      "Hàng thứ nhất",
+      "Hàng thứ hai",
+      "Hàng thứ ba",
+      "Không thuộc hàng thừa kế nào theo pháp luật"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 806: Việc kết hôn giữa những người có họ trong phạm vi ba đời bị cấm, đời thứ nhất là:",
+    "options": [
+      "Cha mẹ",
+      "Ông bà",
+      "Cha đẻ, mẹ đẻ",
+      "Cụ nội, cụ ngoại"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 807: Khi vợ hoặc chồng bị Tòa án tuyên bố mất tích thì bên còn lại yêu cầu ly hôn:",
+    "options": [
+      "Tòa án giải quyết cho ly hôn",
+      "Phải đợi người đó quay về",
+      "Không được phép ly hôn",
+      "Phải xin ý kiến gia đình bên kia"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 808: Di chúc miệng được coi là hợp pháp nếu người di chúc thể hiện ý chí cuối cùng trước mặt ít nhất mấy người làm chứng?",
+    "options": [
+      "01 người",
+      "02 người",
+      "03 người",
+      "05 người"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 809: Sau khi di chúc miệng được thể hiện, những người làm chứng phải ghi chép lại, ký tên và công chứng/chứng thực trong thời hạn:",
+    "options": [
+      "03 ngày làm việc",
+      "05 ngày làm việc",
+      "10 ngày làm việc",
+      "30 ngày làm việc"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 810: Hành vi tảo hôn là việc:",
+    "options": [
+      "Kết hôn khi một hoặc cả hai bên chưa đủ tuổi theo quy định",
+      "Kết hôn giả tạo để đi nước ngoài",
+      "Kết hôn giữa những người cùng giới tính",
+      "Kết hôn mà không tổ chức đám cưới"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 811: Cha mẹ có quyền định đoạt tài sản riêng của con chưa thành niên vì lợi ích của con không?",
+    "options": [
+      "Không bao giờ",
+      "Có quyền, nhưng phải nhằm mục đích phục vụ lợi ích của con",
+      "Chỉ khi con đồng ý",
+      "Chỉ khi có lệnh của Công an"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 812: Tài sản nào sau đây không thể là đối tượng của quyền sở hữu cá nhân?",
+    "options": [
+      "Nhà ở",
+      "Xe máy",
+      "Đất đai (thuộc sở hữu toàn dân)",
+      "Tiền tiết kiệm"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 813: Một người nhặt được của rơi không xác định được chủ sở hữu, sau 01 năm thông báo công khai mà vẫn không có người nhận thì:",
+    "options": [
+      "Người nhặt được trở thành chủ sở hữu (nếu giá trị tài sản không quá 10 tháng lương cơ sở)",
+      "Phải nộp hết cho nhà nước",
+      "Phải vứt bỏ",
+      "Phải chia cho hàng xóm"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 814: Trách nhiệm bồi thường thiệt hại của nguồn nguy hiểm cao độ (như xe cơ giới) phát sinh ngay cả khi:",
+    "options": [
+      "Người sở hữu không có lỗi (trừ trường hợp bất khả kháng hoặc lỗi hoàn toàn của người bị hại)",
+      "Người bị hại không yêu cầu",
+      "Xe đang dừng đỗ đúng quy định",
+      "Xe đã được bảo hiểm"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 815: Hình thức kết hôn nào được pháp luật Việt Nam công nhận là hôn nhân hợp pháp?",
+    "options": [
+      "Chung sống như vợ chồng có sự chứng kiến của họ hàng",
+      "Kết hôn có đăng ký tại cơ quan nhà nước có thẩm quyền",
+      "Kết hôn theo nghi thức tôn giáo",
+      "Chỉ cần tổ chức đám cưới linh đình"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 816: Di chúc bị thất lạc hoặc bị hư hại đến mức không thể hiện được đầy đủ ý chí của người lập di chúc thì:",
+    "options": [
+      "Di chúc đó không có hiệu lực, chia thừa kế theo pháp luật",
+      "Các con tự thỏa thuận chia",
+      "Tòa án tự đoán ý chí người chết",
+      "Di sản thuộc về nhà nước"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 817: Việc chia tài sản chung của vợ chồng trong thời kỳ hôn nhân có làm chấm dứt quan hệ hôn nhân không?",
+    "options": [
+      "Có",
+      "Không",
+      "Chỉ khi có con chung",
+      "Tùy theo quyết định của vợ"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 818: Quyền đòi lại tài sản từ người chiếm hữu không có căn cứ pháp luật 'ngay tình' bị hạn chế đối với:",
+    "options": [
+      "Động sản không phải đăng ký quyền sở hữu đã được chuyển giao qua giao dịch có đền bù",
+      "Bất động sản",
+      "Xe ô tô",
+      "Tài sản bị lấy cắp"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 819: Người thừa kế không có quyền hưởng di sản nếu:",
+    "options": [
+      "Bị kết án về hành vi cố ý xâm phạm tính mạng, sức khỏe của người để lại di sản",
+      "Vi phạm nghiêm trọng nghĩa vụ nuôi dưỡng người để lại di sản",
+      "Lừa dối, cưỡng ép người để lại di sản lập di chúc trái ý muốn",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 820: Thời điểm phát sinh quyền sở hữu đối với bất động sản (như nhà đất) thường là:",
+    "options": [
+      "Thời điểm ký hợp đồng",
+      "Thời điểm giao tiền",
+      "Thời điểm đăng ký quyền sở hữu tại cơ quan có thẩm quyền",
+      "Thời điểm dọn vào ở"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 821: Đối tượng điều chỉnh của Luật Lao động là:",
+    "options": [
+      "Quan hệ lao động giữa người lao động và người sử dụng lao động",
+      "Các quan hệ xã hội liên quan trực tiếp đến quan hệ lao động",
+      "Quan hệ giữa các công ty với nhau trên thị trường",
+      "Cả A và B đều đúng"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 822: Theo Bộ luật Lao động 2019, độ tuổi lao động tối thiểu của người lao động là:",
+    "options": [
+      "Đủ 13 tuổi",
+      "Đủ 15 tuổi",
+      "Đủ 16 tuổi",
+      "Đủ 18 tuổi"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 823: Hình thức của hợp đồng lao động phải được giao kết bằng:",
+    "options": [
+      "Văn bản",
+      "Lời nói (đối với công việc tạm thời dưới 01 tháng)",
+      "Thông điệp dữ liệu thông qua phương tiện điện tử",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 824: Loại hợp đồng lao động nào sau đây được pháp luật quy định hiện nay?",
+    "options": [
+      "Hợp đồng lao động không xác định thời hạn",
+      "Hợp đồng lao động xác định thời hạn (không quá 36 tháng)",
+      "Hợp đồng lao động theo mùa vụ",
+      "Chỉ A và B"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 825: Thời gian thử việc đối với công việc có chức danh nghề nghiệp cần trình độ chuyên môn, kỹ thuật từ cao đẳng trở lên là:",
+    "options": [
+      "Không quá 30 ngày",
+      "Không quá 60 ngày",
+      "Không quá 90 ngày",
+      "Không quá 180 ngày"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 826: Trong thời gian thử việc, mỗi bên có quyền hủy bỏ thỏa thuận thử việc mà:",
+    "options": [
+      "Không cần báo trước và không phải bồi thường",
+      "Phải báo trước 03 ngày",
+      "Phải báo trước 15 ngày",
+      "Phải bồi thường một tháng lương"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 827: Tiền lương của người lao động trong thời gian thử việc ít nhất phải bằng bao nhiêu % mức lương của công việc đó?",
+    "options": [
+      "75%",
+      "80%",
+      "85%",
+      "90%"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 828: Người sử dụng lao động có quyền đơn phương chấm dứt hợp đồng lao động trong trường hợp nào?",
+    "options": [
+      "Người lao động thường xuyên không hoàn thành công việc",
+      "Người lao động bị ốm đau đã điều trị quá thời hạn quy định mà khả năng lao động chưa hồi phục",
+      "Do thiên tai, hỏa hoạn mà người sử dụng lao động đã tìm mọi biện pháp khắc phục nhưng vẫn buộc phải thu hẹp sản xuất",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 829: Khi đơn phương chấm dứt hợp đồng lao động không xác định thời hạn, người lao động phải báo trước ít nhất:",
+    "options": [
+      "30 ngày",
+      "45 ngày",
+      "60 ngày",
+      "03 ngày làm việc"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 830: Thời giờ làm việc bình thường không quá bao nhiêu giờ trong 01 ngày?",
+    "options": [
+      "08 giờ",
+      "10 giờ",
+      "12 giờ",
+      "06 giờ"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 831: Người lao động làm việc vào ngày nghỉ lễ, tết được hưởng ít nhất bao nhiêu % lương?",
+    "options": [
+      "150%",
+      "200%",
+      "300% (chưa kể tiền lương ngày lễ, tết có hưởng lương)",
+      "400%"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 832: Mỗi năm làm việc đủ 12 tháng cho một người sử dụng lao động, người lao động làm công việc bình thường được nghỉ hằng năm hưởng nguyên lương ít nhất là:",
+    "options": [
+      "10 ngày làm việc",
+      "12 ngày làm việc",
+      "14 ngày làm việc",
+      "16 ngày làm việc"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 833: Hình thức kỷ luật lao động cao nhất là:",
+    "options": [
+      "Kéo dài thời hạn nâng lương không quá 06 tháng",
+      "Cách chức",
+      "Sa thải",
+      "Khiển trách"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 834: Không được xử lý kỷ luật lao động đối với người lao động đang trong thời gian nào?",
+    "options": [
+      "Nghỉ ốm đau, điều dưỡng",
+      "Đang nuôi con dưới 12 tháng tuổi",
+      "Nghỉ hưởng chế độ thai sản",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 835: Theo Luật Phòng, chống tham nhũng, 'Tham nhũng' là hành vi của:",
+    "options": [
+      "Người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi",
+      "Bất kỳ ai thực hiện hành vi trộm cắp",
+      "Người kinh doanh trốn thuế",
+      "Người dân hối lộ cảnh sát giao thông"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 836: Nhóm hành vi tham nhũng trong khu vực nhà nước bao gồm:",
+    "options": [
+      "Tham ô tài sản; Nhận hối lộ",
+      "Lạm dụng chức vụ, quyền hạn chiếm đoạt tài sản",
+      "Lợi dụng chức vụ, quyền hạn trong khi thi hành công vụ vì vụ lợi",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 837: Đối tượng nào sau đây có nghĩa vụ kê khai tài sản, thu nhập?",
+    "options": [
+      "Cán bộ, công chức",
+      "Sĩ quan Quân đội nhân dân, sĩ quan Công an nhân dân",
+      "Người giữ chức vụ từ Phó trưởng phòng trở lên tại các đơn vị sự nghiệp công lập",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 838: Tài sản, thu nhập phải kê khai bao gồm:",
+    "options": [
+      "Quyền sử dụng đất, nhà ở",
+      "Kim khí quý, đá quý, tiền, giấy tờ có giá trị từ 50 triệu đồng trở lên",
+      "Tài sản, tài khoản ở nước ngoài",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 839: Cơ quan nào có vai trò nòng cốt trong việc phát hiện và xử lý tham nhũng?",
+    "options": [
+      "Thanh tra Chính phủ",
+      "Kiểm toán Nhà nước",
+      "Cơ quan Công an, Viện kiểm sát, Tòa án",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 840: Một trong những nguyên tắc phòng, chống tham nhũng là:",
+    "options": [
+      "Công khai, minh bạch trong hoạt động của cơ quan, tổ chức",
+      "Xử lý nội bộ để giữ uy tín",
+      "Chỉ xử lý người nhận hối lộ, không xử lý người đưa hối lộ",
+      "Bí mật thông tin về tài sản của lãnh đạo"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 841: Hành vi nào sau đây là tham nhũng trong khu vực ngoài nhà nước?",
+    "options": [
+      "Tham ô tài sản do người giữ chức vụ trong doanh nghiệp, tổ chức ngoài nhà nước thực hiện",
+      "Nhận hối lộ để làm một việc vì lợi ích của doanh nghiệp đó",
+      "Nhẫn hối lộ để môi giới cho doanh nghiệp khác",
+      "Cả A và B"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 842: Việc tặng quà và nhận quà tặng của người có chức vụ, quyền hạn bị nghiêm cấm khi:",
+    "options": [
+      "Quà tặng liên quan đến công việc mà mình giải quyết hoặc thuộc phạm vi quản lý",
+      "Quà tặng của người thân trong gia đình nhân dịp lễ tết",
+      "Quà tặng có giá trị dưới 100.000 đồng",
+      "Quà tặng từ đồng nghiệp cùng cấp"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 843: Người có hành vi tham nhũng tùy theo tính chất, mức độ vi phạm sẽ bị:",
+    "options": [
+      "Xử lý kỷ luật",
+      "Xử phạt vi phạm hành chính",
+      "Truy cứu trách nhiệm hình sự",
+      "Cả A và C"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 844: Công dân có quyền gì trong phòng, chống tham nhũng?",
+    "options": [
+      "Phát hiện, tố cáo hành vi tham nhũng",
+      "Được bảo vệ và khen thưởng khi có thành tích",
+      "Giám sát việc thực hiện pháp luật về phòng, chống tham nhũng",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 845: Trách nhiệm của người đứng đầu khi để xảy ra tham nhũng tại đơn vị mình quản lý là:",
+    "options": [
+      "Không chịu trách nhiệm vì không trực tiếp làm",
+      "Chịu trách nhiệm trực tiếp hoặc trách nhiệm liên đới tùy mức độ vụ việc",
+      "Chỉ bị khiển trách nhẹ",
+      "Được miễn trách nhiệm nếu đã có quy chế phòng chống"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 846: Theo Luật Lao động, hành vi nào bị nghiêm cấm đối với người sử dụng lao động?",
+    "options": [
+      "Cưỡng bức lao động",
+      "Phân biệt đối xử tại nơi làm việc",
+      "Ngược đãi, quấy rối tình dục tại nơi làm việc",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 847: Lao động nữ được nghỉ thai sản trước và sau khi sinh con là:",
+    "options": [
+      "04 tháng",
+      "05 tháng",
+      "06 tháng",
+      "07 tháng"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 848: Tranh chấp lao động cá nhân là tranh chấp giữa:",
+    "options": [
+      "Người lao động với người sử dụng lao động",
+      "Tập thể lao động với người sử dụng lao động",
+      "Hai doanh nghiệp với nhau",
+      "Hai người lao động với nhau"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 849: 'Đình công' là việc:",
+    "options": [
+      "Người lao động nghỉ việc để đi du lịch",
+      "Ngừng việc tạm thời, tự nguyện và có tổ chức của tập thể lao động nhằm giải quyết tranh chấp lao động tập thể",
+      "Người sử dụng lao động đóng cửa nhà máy",
+      "Người lao động bỏ việc hàng loạt để sang công ty khác"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 850: Tài sản tham nhũng phải được:",
+    "options": [
+      "Thu hồi, trả lại cho chủ sở hữu, người quản lý hợp pháp hoặc sung vào ngân sách nhà nước",
+      "Chia cho người tố cáo",
+      "Tiêu hủy ngay lập tức",
+      "Dùng làm từ thiện"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 851: Người lao động bị sa thải trong trường hợp nào?",
+    "options": [
+      "Trộm cắp, tham ô, đánh bạc, cố ý gây thương tích tại nơi làm việc",
+      "Tiết lộ bí mật kinh doanh, bí mật công nghệ",
+      "Tự ý bỏ việc 05 ngày cộng dồn trong 30 ngày mà không có lý do chính đáng",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 852: Quyền đơn phương chấm dứt hợp đồng lao động của người lao động mà không cần lý do là:",
+    "options": [
+      "Quyền mới trong Bộ luật Lao động 2019 (chỉ cần báo trước theo quy định)",
+      "Không được phép, phải có lý do chính đáng",
+      "Chỉ áp dụng với sếp",
+      "Chỉ áp dụng khi bị nợ lương"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 853: Người lao động làm thêm giờ vào ngày thường được hưởng ít nhất bao nhiêu % lương?",
+    "options": [
+      "100%",
+      "150%",
+      "200%",
+      "250%"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 854: Tổ chức đại diện cho quyền và lợi ích hợp pháp của người lao động tại cơ sở là:",
+    "options": [
+      "Ban Giám đốc",
+      "Ban Chấp hành Công đoàn cơ sở",
+      "Đoàn Thanh niên",
+      "Hội Cựu chiến binh"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 855: Thời gian nghỉ giữa giờ khi làm việc liên tục 08 giờ theo quy định là ít nhất:",
+    "options": [
+      "15 phút",
+      "30 phút",
+      "45 phút",
+      "60 phút"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 856: Đối với lao động là người chưa thành niên, công việc bị cấm sử dụng là:",
+    "options": [
+      "Sản xuất, kinh doanh rượu, bia, thuốc lá",
+      "Làm việc dưới nước, trong hang hầm",
+      "Làm việc có tiếp xúc với hóa chất độc hại",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 857: Tiền lương tối thiểu vùng là mức lương:",
+    "options": [
+      "Thấp nhất để làm cơ sở thỏa thuận lương, người sử dụng lao động không được trả thấp hơn mức này",
+      "Mức trung bình của xã hội",
+      "Mức lương cao nhất",
+      "Chỉ áp dụng cho cán bộ nhà nước"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 858: Một trong các hành vi tham nhũng là 'Nhũng nhiễu', được hiểu là:",
+    "options": [
+      "Hành vi cửa quyền, hách dịch, gây khó khăn, phiền hà khi giải quyết công việc",
+      "Hành vi lấy trộm tiền công quỹ",
+      "Hành vi ký sai văn bản",
+      "Hành vi đi làm muộn"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 859: Cơ quan nào có thẩm quyền kiểm soát tài sản, thu nhập của người có chức vụ, quyền hạn công tác tại các cơ quan của Đảng?",
+    "options": [
+      "Ủy ban Kiểm tra Đảng các cấp",
+      "Thanh tra Chính phủ",
+      "Bộ Công an",
+      "Tòa án nhân dân"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 860: Người có chức vụ, quyền hạn không được làm gì sau khi thôi giữ chức vụ?",
+    "options": [
+      "Thành lập, quản lý doanh nghiệp trong lĩnh vực trước đây mình quản lý trong một thời hạn nhất định",
+      "Đi du lịch nước ngoài",
+      "Làm các công việc chân tay",
+      "Hợp tác với các tổ chức từ thiện"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 861: Việc chuyển đổi vị trí công tác đối với cán bộ, công chức nhằm mục đích:",
+    "options": [
+      "Để nâng cao tay nghề",
+      "Chủ động phòng ngừa tham nhũng",
+      "Trừng phạt những người làm việc kém",
+      "Tiết kiệm chi phí quản lý"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 862: 'Vụ lợi' trong tham nhũng là việc:",
+    "options": [
+      "Người có chức vụ quyền hạn mong muốn đạt được lợi ích vật chất hoặc phi vật chất không chính đáng",
+      "Làm việc để có lương",
+      "Giúp đỡ người nghèo",
+      "Tiết kiệm ngân sách"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 863: Người báo tin, tố cáo về tham nhũng được Nhà nước bảo vệ về:",
+    "options": [
+      "Tính mạng, sức khỏe",
+      "Danh dự, nhân phẩm, tài sản",
+      "Vị trí công tác, việc làm",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 864: Theo luật, việc kê khai tài sản, thu nhập phải được công khai tại đâu?",
+    "options": [
+      "Tại nơi người đó thường trú",
+      "Tại cơ quan, tổ chức, đơn vị nơi người đó công tác",
+      "Trên tivi cả nước",
+      "Tại các trụ sở công an"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 865: Trách nhiệm của xã hội trong phòng, chống tham nhũng bao gồm:",
+    "options": [
+      "Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên",
+      "Cơ quan báo chí, nhà báo",
+      "Doanh nghiệp, hiệp hội nghề nghiệp",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 866: Người lao động bị xử lý kỷ luật sa thải thì người sử dụng lao động có phải trả trợ cấp thôi việc không?",
+    "options": [
+      "Có",
+      "Không",
+      "Trả một nửa",
+      "Tùy vào lòng tốt của sếp"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 867: Hội đồng trọng tài lao động có thẩm quyền giải quyết:",
+    "options": [
+      "Tranh chấp lao động cá nhân",
+      "Tranh chấp lao động tập thể về quyền và về lợi ích",
+      "Các vụ án hình sự về lao động",
+      "Tranh chấp kinh tế"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 868: Thời hiệu yêu cầu Tòa án giải quyết tranh chấp lao động cá nhân thông thường là:",
+    "options": [
+      "06 tháng kể từ ngày phát hiện hành vi xâm phạm",
+      "01 năm kể từ ngày phát hiện hành vi xâm phạm",
+      "02 năm kể từ ngày phát hiện hành vi xâm phạm",
+      "03 năm kể từ ngày phát hiện hành vi xâm phạm"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 869: Tội 'Tham ô tài sản' được quy định trong luật nào?",
+    "options": [
+      "Luật Phòng, chống tham nhũng",
+      "Bộ luật Hình sự",
+      "Luật Dân sự",
+      "Luật Hành chính"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 870: Phương châm trong phòng, chống tham nhũng là:",
+    "options": [
+      "Phòng ngừa là chính, phát hiện và xử lý kịp thời, nghiêm minh",
+      "Chỉ tập trung vào xử lý",
+      "Chỉ tập trung vào giáo dục",
+      "Bao che nếu người đó có công"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 871: Luật Quốc tế là hệ thống các nguyên tắc và quy phạm pháp luật được hình thành trên cơ sở:",
+    "options": [
+      "Sự thỏa thuận giữa các quốc gia và các chủ thể khác của luật quốc tế",
+      "Sự áp đặt của các nước lớn đối với nước nhỏ",
+      "Quyết định của Liên Hợp Quốc",
+      "Pháp luật của quốc gia có nền kinh tế phát triển nhất"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 872: Chủ thể cơ bản và quan trọng nhất của Luật Quốc tế là:",
+    "options": [
+      "Các tổ chức quốc tế liên chính phủ",
+      "Các quốc gia có chủ quyền",
+      "Các tập đoàn đa quốc gia",
+      "Các cá nhân có tầm ảnh hưởng thế giới"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 873: Nguyên tắc 'Pacta sunt servanda' trong Luật Quốc tế có nghĩa là:",
+    "options": [
+      "Các quốc gia có quyền tự do tuyệt đối",
+      "Tận tâm, thiện chí thực hiện cam kết quốc tế",
+      "Không can thiệp vào công việc nội bộ của nhau",
+      "Cấm sử dụng vũ lực trong quan hệ quốc tế"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 874: Cơ quan hành chính - trị sự của Liên Hợp Quốc, đứng đầu là Tổng thư ký, được gọi là:",
+    "options": [
+      "Đại hội đồng",
+      "Hội đồng Bảo an",
+      "Ban Thư ký",
+      "Tòa án Quốc tế"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 875: Cơ quan nào của Liên Hợp Quốc có trách nhiệm chính trong việc duy trì hòa bình và an ninh quốc tế?",
+    "options": [
+      "Đại hội đồng",
+      "Hội đồng Bảo an",
+      "Hội đồng Kinh tế và Xã hội",
+      "Hội đồng Quản thác"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 876: Điều ước quốc tế là văn bản pháp lý quốc tế do các chủ thể luật quốc tế thỏa thuận ký kết nhằm:",
+    "options": [
+      "Xác lập, thay đổi hoặc chấm dứt quyền và nghĩa vụ giữa họ với nhau",
+      "Ghi chép lại lịch sử thế giới",
+      "Thống nhất ngôn ngữ toàn cầu",
+      "Thành lập một chính phủ duy nhất trên thế giới"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 877: Tư pháp quốc tế điều chỉnh các quan hệ xã hội nào?",
+    "options": [
+      "Quan hệ dân sự có yếu tố nước ngoài",
+      "Quan hệ giữa các quốc gia về biên giới",
+      "Quan hệ tội phạm xuyên quốc gia",
+      "Quan hệ ngoại giao giữa các đại sứ quán"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 878: Yếu tố nước ngoài trong quan hệ dân sự có thể là:",
+    "options": [
+      "Ít nhất một bên tham gia là người nước ngoài hoặc pháp nhân nước ngoài",
+      "Căn cứ xác lập, thay đổi, chấm dứt quan hệ đó xảy ra ở nước ngoài",
+      "Tài sản liên quan đến quan hệ đó ở nước ngoài",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 879: Công ước Liên Hợp Quốc về Luật Biển năm 1982 (UNCLOS) quy định chiều rộng lãnh hải của quốc gia ven biển là:",
+    "options": [
+      "12 hải lý",
+      "24 hải lý",
+      "200 hải lý",
+      "không giới hạn"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 880: Vùng biển mà tại đó quốc gia ven biển có quyền chủ quyền về kinh tế nhưng các nước khác vẫn có quyền tự do hàng hải và hàng không là:",
+    "options": [
+      "Lãnh hải",
+      "Nội thủy",
+      "Vùng đặc quyền kinh tế (EEZ)",
+      "Vùng tiếp giáp lãnh hải"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 881: Theo Luật Quốc tế, 'Bảo hộ ngoại giao' là việc quốc gia:",
+    "options": [
+      "Bảo vệ quyền và lợi ích hợp pháp của công dân mình khi bị xâm phạm ở nước ngoài",
+      "Cấp hộ chiếu cho công dân",
+      "Gửi đại sứ đến nước bạn",
+      "Cấm người nước ngoài vào lãnh thổ"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 882: Tổ chức Thương mại Thế giới (WTO) hoạt động dựa trên nguyên tắc cốt lõi nào?",
+    "options": [
+      "Tự do hóa thương mại và không phân biệt đối xử",
+      "Bảo hộ sản xuất trong nước tuyệt đối",
+      "Ưu tiên các nước giàu",
+      "Sử dụng hàng rào thuế quan cao"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 883: Xung đột pháp luật là hiện tượng:",
+    "options": [
+      "Hai hay nhiều hệ thống pháp luật khác nhau cùng có thể áp dụng để điều chỉnh một quan hệ dân sự có yếu tố nước ngoài",
+      "Hai quốc gia đánh nhau vì tranh chấp luật",
+      "Người dân biểu tình phản đối luật",
+      "Các luật trong một nước mâu thuẫn nhau"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 884: 'Dẫn chiếu pháp luật' là việc quy phạm xung đột chỉ ra:",
+    "options": [
+      "Hệ thống pháp luật của quốc gia nào sẽ được áp dụng",
+      "Tòa án nào có thẩm quyền",
+      "Mức tiền phạt bao nhiêu",
+      "Tên của thẩm phán giải quyết"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 885: ASEAN là tổ chức quốc tế mang tính chất:",
+    "options": [
+      "Liên minh quân sự",
+      "Liên kết kinh tế, chính trị khu vực Đông Nam Á",
+      "Liên minh tiền tệ",
+      "Tổ chức tôn giáo"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 886: Quyền ưu đãi, miễn trừ ngoại giao dành cho ai?",
+    "options": [
+      "Khách du lịch nước ngoài",
+      "Đại diện ngoại giao và cơ quan đại diện ngoại giao",
+      "Người lao động xuất khẩu",
+      "Sinh viên du học"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 887: 'Chủ quyền quốc gia' bao gồm các nội dung nào?",
+    "options": [
+      "Quyền tối cao trong phạm vi lãnh thổ",
+      "Quyền độc lập trong quan hệ quốc tế",
+      "Quyền tự quyết về chế độ chính trị, kinh tế",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 888: Một điều ước quốc tế có hiệu lực đối với quốc gia khi:",
+    "options": [
+      "Quốc gia đó đã ký kết hoặc phê chuẩn/phê duyệt theo quy định",
+      "Liên Hợp Quốc yêu cầu",
+      "Nước láng giềng đã ký",
+      "Được đăng trên báo nước ngoài"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 889: Phương thức giải quyết tranh chấp quốc tế bằng hòa bình bao gồm:",
+    "options": [
+      "Đàm phán, trung gian, hòa giải",
+      "Trọng tài quốc tế và Tòa án quốc tế",
+      "Cả A và B",
+      "Sử dụng cấm vận kinh tế"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 890: Theo pháp luật Việt Nam, nếu có sự khác nhau giữa văn bản quy phạm pháp luật trong nước và điều ước quốc tế mà Việt Nam là thành viên thì áp dụng:",
+    "options": [
+      "Văn bản quy phạm pháp luật trong nước",
+      "Điều ước quốc tế",
+      "Áp dụng cả hai",
+      "Tùy vào quyết định của cơ quan công an"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 891: Theo quy định của UNCLOS 1982, quốc gia quần đảo là:",
+    "options": [
+      "Quốc gia hoàn toàn được cấu thành bởi một hoặc nhiều quần đảo",
+      "Quốc gia có nhiều đảo ven bờ",
+      "Quốc gia nằm trên bán đảo",
+      "Quốc gia không có biển"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 892: Đường cơ sở dùng để tính chiều rộng lãnh hải của Việt Nam là:",
+    "options": [
+      "Đường bờ biển khi thủy triều thấp nhất",
+      "Đường thẳng nối các điểm nhô ra nhất của bờ biển và các đảo xa bờ",
+      "Đường biên giới trên biển",
+      "Đường song song với bờ biển 12 hải lý"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 893: Vùng tiếp giáp lãnh hải có chiều rộng tối đa là bao nhiêu hải lý tính từ đường cơ sở?",
+    "options": [
+      "12 hải lý",
+      "24 hải lý",
+      "36 hải lý",
+      "200 hải lý"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 894: Tại vùng tiếp giáp lãnh hải, quốc gia ven biển có quyền thực hiện kiểm soát cần thiết nhằm:",
+    "options": [
+      "Ngăn ngừa vi phạm các luật về hải quan, thuế vụ, y tế, di cư",
+      "Khai thác tài sản dưới đáy biển",
+      "Cấm tàu thuyền nước ngoài đi qua",
+      "Thực hiện quyền tài phán hình sự tuyệt đối"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 895: Thềm lục địa của quốc gia ven biển bao gồm đáy biển và lòng đất dưới đáy biển bên ngoài lãnh hải, có chiều rộng tối thiểu là:",
+    "options": [
+      "100 hải lý",
+      "200 hải lý",
+      "350 hải lý",
+      "500 hải lý"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 896: Tội phạm nào sau đây được coi là tội phạm quốc tế và mọi quốc gia đều có quyền bắt giữ, xét xử?",
+    "options": [
+      "Tội cướp biển",
+      "Tội diệt chủng",
+      "Tội phạm chiến tranh",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 897: Cơ quan tư pháp chính của Liên Hợp Quốc là:",
+    "options": [
+      "Tòa án Hình sự Quốc tế (ICC)",
+      "Tòa án Công lý Quốc tế (ICJ)",
+      "Tòa án Luật biển Quốc tế",
+      "Tòa án Trọng tài Thường trực"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 898: Trụ sở chính của Liên Hợp Quốc đặt tại thành phố nào?",
+    "options": [
+      "Geneva (Thụy Sĩ)",
+      "New York (Hoa Kỳ)",
+      "Paris (Pháp)",
+      "London (Anh)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 899: Một quốc gia mới được thành lập có thể trở thành chủ thể của Luật Quốc tế thông qua hành vi:",
+    "options": [
+      "Tự tuyên bố",
+      "Được các quốc gia khác công nhận",
+      "Gia nhập Liên Hợp Quốc",
+      "Cả B và C"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 900: Trong Tư pháp quốc tế, 'Quốc tịch của pháp nhân' thường được xác định theo:",
+    "options": [
+      "Nơi pháp nhân đăng ký thành lập",
+      "Quốc tịch của giám đốc",
+      "Nơi đặt trụ sở chính",
+      "Cả A và C tùy hệ thống pháp luật"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 901: Theo Luật Quốc tế, lãnh thổ quốc gia bao gồm:",
+    "options": [
+      "Vùng đất, vùng nước, vùng trời và vùng lòng đất",
+      "Chỉ bao gồm phần đất liền",
+      "Chỉ bao gồm đất liền và vùng biển",
+      "Đất liền và các đại sứ quán ở nước ngoài"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 902: Việt Nam chính thức gia nhập Liên Hợp Quốc vào năm nào?",
+    "options": [
+      "1945",
+      "1975",
+      "1977",
+      "1995"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 903: 'Tàu thuyền không quốc tịch' trên biển cả sẽ bị xử lý như thế nào?",
+    "options": [
+      "Được tự do đi lại",
+      "Bị bất kỳ quốc gia nào kiểm tra và bắt giữ nếu có nghi vấn vi phạm",
+      "Chỉ Liên Hợp Quốc mới có quyền xử lý",
+      "Không ai có quyền can thiệp"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 904: Quyền 'đi qua không gây hại' trong lãnh hải áp dụng cho đối tượng nào?",
+    "options": [
+      "Tàu thuyền của tất cả các quốc gia (có biển hoặc không có biển)",
+      "Chỉ tàu đánh cá",
+      "Chỉ tàu buôn của các nước láng giềng",
+      "Tất cả các loại tàu kể cả tàu chiến (có thông báo)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 905: Cơ quan nào sau đây không thuộc hệ thống Liên Hợp Quốc?",
+    "options": [
+      "UNESCO",
+      "WHO",
+      "WTO",
+      "IMF"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 906: Nguyên tắc 'Bình đẳng về chủ quyền giữa các quốc gia' có nghĩa là:",
+    "options": [
+      "Các quốc gia có quyền lợi và nghĩa vụ pháp lý ngang nhau không phân biệt quy mô, kinh tế",
+      "Các nước giàu phải chia tiền cho nước nghèo",
+      "Nước lớn có quyền quyết định thay nước nhỏ",
+      "Tất cả các nước dùng chung một loại tiền tệ"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 907: Hành vi 'Dẫn độ' trong luật quốc tế là việc:",
+    "options": [
+      "Một quốc gia chuyển giao người phạm tội cho quốc gia khác để truy cứu trách nhiệm hình sự",
+      "Cho phép người nước ngoài vào cư trú",
+      "Trục xuất người vi phạm hành chính",
+      "Trao đổi sinh viên quốc tế"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 908: 'Tập quán quốc tế' được hình thành từ:",
+    "options": [
+      "Thực tiễn áp dụng lâu dài và được các quốc gia thừa nhận như quy phạm pháp luật",
+      "Một quyết định bất kỳ của nước lớn",
+      "Sự ép buộc của quân đội",
+      "Các bài báo khoa học"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 909: Quy định về 'Kết hôn có yếu tố nước ngoài' tại Việt Nam thuộc phạm vi điều chỉnh của:",
+    "options": [
+      "Công pháp quốc tế",
+      "Tư pháp quốc tế (kết hợp Luật Hôn nhân & Gia đình)",
+      "Luật Hình sự",
+      "Luật Hiến pháp"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Câu 910: Các thẩm phán của Tòa án Công lý Quốc tế (ICJ) do ai bầu ra?",
+    "options": [
+      "Đại hội đồng và Hội đồng Bảo an Liên Hợp Quốc",
+      "Tổng thư ký Liên Hợp Quốc",
+      "Chính phủ các nước",
+      "Nhân dân toàn thế giới bầu trực tiếp"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 911: 'Nội thủy' là vùng nước nằm ở phía nào của đường cơ sở?",
+    "options": [
+      "Phía trong (hướng về phía đất liền)",
+      "Phía ngoài (hướng ra biển)",
+      "Nằm trên đường cơ sở",
+      "Cách đường cơ sở 12 hải lý"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 912: Quốc gia ven biển có chủ quyền hoàn toàn, tuyệt đối và đầy đủ đối với vùng nước nào?",
+    "options": [
+      "Nội thủy",
+      "Lãnh hải",
+      "Vùng đặc quyền kinh tế",
+      "Biển cả"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 913: Quyền tài phán đối với tàu thuyền đang đi trên biển cả thuộc về:",
+    "options": [
+      "Quốc gia mà tàu mang quốc tịch (Quốc gia treo cờ)",
+      "Quốc gia gần nhất",
+      "Mọi quốc gia",
+      "Liên Hợp Quốc"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 914: 'Cơ quan đại diện lãnh sự' khác 'Cơ quan đại diện ngoại giao' chủ yếu ở chức năng nào?",
+    "options": [
+      "Bảo vệ quyền lợi của công dân và pháp nhân quốc gia mình tại nước sở tại",
+      "Đại diện chính trị cho toàn bộ quốc gia",
+      "Ký kết hiệp ước hòa bình",
+      "Tuyên chiến với nước khác"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 915: Việt Nam tham gia vào ASEAN vào năm nào?",
+    "options": [
+      "1967",
+      "1975",
+      "1995",
+      "2000"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Câu 916: Đối với tranh chấp dân sự có yếu tố nước ngoài, nếu các bên không thỏa thuận chọn luật áp dụng, Tòa án sẽ áp dụng:",
+    "options": [
+      "Quy phạm xung đột để dẫn chiếu đến luật phù hợp",
+      "Luật của nước giàu nhất",
+      "Luật của nước Mỹ",
+      "Hủy bỏ vụ kiện"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 917: 'Người không quốc tịch' là người:",
+    "options": [
+      "Không được quốc gia nào xem là công dân theo pháp luật của họ",
+      "Có hai quốc tịch",
+      "Bị tước quyền bầu cử",
+      "Bị trục xuất khỏi nước"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 918: Nguyên tắc 'Cấm sử dụng hoặc đe dọa sử dụng vũ lực' trong quan hệ quốc tế nhằm:",
+    "options": [
+      "Bảo vệ hòa bình và an ninh thế giới",
+      "Cấm các nước sản xuất vũ khí",
+      "Bắt các nước phải giải tán quân đội",
+      "Chỉ áp dụng cho các nước nghèo"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Câu 919: Hành vi nào bị coi là vi phạm nguyên tắc không can thiệp vào công việc nội bộ của quốc gia khác?",
+    "options": [
+      "Dùng áp lực kinh tế, chính trị để cưỡng ép quốc gia khác phụ thuộc vào mình",
+      "Tổ chức các hoạt động tình báo, phá hoại",
+      "Ủng hộ các nhóm vũ trang chống đối chính phủ hợp pháp",
+      "Tất cả các phương án trên"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Câu 920: Một cá nhân có thể trở thành chủ thể hạn chế của Luật Quốc tế trong lĩnh vực nào?",
+    "options": [
+      "Quyền con người (nhân quyền)",
+      "Ký kết điều ước biên giới",
+      "Thành lập quốc gia mới",
+      "Tuyên chiến giữa các nước"
+    ],
+    "answer": 0
   }
 ]
-
